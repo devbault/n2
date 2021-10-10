@@ -1,0 +1,350 @@
+﻿[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Texto,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0010,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Titulo,Trebuchet MS,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0031,1
+Style: Titulo2,Times New Roman,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0014,1
+Style: Introtexto,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,0010,0010,0010,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.98,0:00:06.86,Default,,0000,0000,0000,,Oye, chico, lo que te pedí ayer...
+Dialogue: 0,0:00:06.86,0:00:11.69,Default,,0000,0000,0000,,Sí, sí. Compré la figura limitada \Nde Akiba y el {\i1}youkan{\i0} de Matsuya.
+Dialogue: 0,0:00:11.69,0:00:13.86,Default,,0000,0000,0000,,No lo haces mal.
+Dialogue: 0,0:00:15.61,0:00:16.62,Default,,0000,0000,0000,,Maldición...
+Dialogue: 0,0:00:16.62,0:00:19.48,Default,,0000,0000,0000,,No imaginé que Hana-san sería \Nuna madre tan frívola.
+Dialogue: 0,0:00:19.48,0:00:22.50,Default,,0000,0000,0000,,¡Ya verás, haré que te arrepientas!
+Dialogue: 0,0:00:25.21,0:00:27.47,Default,,0000,0000,0000,,¡Chitoge-chan! ¡Aquí!
+Dialogue: 0,0:00:27.47,0:00:29.21,Default,,0000,0000,0000,,Siento haberlas hecho esperar.
+Dialogue: 0,0:00:29.21,0:00:31.24,Default,,0000,0000,0000,,Hoy también hace frío.
+Dialogue: 0,0:00:31.24,0:00:32.86,Default,,0000,0000,0000,,¿Dónde vamos a...?
+Dialogue: 0,0:00:34.59,0:00:39.16,Default,,0000,0000,0000,,¿Hoy no llevas el lazo de siempre? \N¿Quieres cambiar de imagen?
+Dialogue: 0,0:00:39.75,0:00:41.77,Default,,0000,0000,0000,,Sí, algo así.
+Dialogue: 0,0:00:42.62,0:00:45.10,Default,,0000,0000,0000,,El pelo así también te queda muy bien.
+Dialogue: 0,0:00:46.48,0:00:51.72,Default,,0000,0000,0000,,Por cierto, ¿al final celebrarán la \Nfiesta de Navidad que propuso Maiko-kun?
+Dialogue: 0,0:00:51.72,0:00:54.38,Default,,0000,0000,0000,,Sí, se celebrará mañana.
+Dialogue: 0,0:00:54.38,0:00:58.46,Default,,0000,0000,0000,,Invitó a más gente de la clase \Ny nosotras también iremos.
+Dialogue: 0,0:00:58.46,0:01:01.13,Default,,0000,0000,0000,,Hoy compraremos los regalos.
+Dialogue: 0,0:01:03.91,0:01:06.54,Default,,0000,0000,0000,,¿Puedo ir yo también?
+Dialogue: 0,0:02:38.72,0:02:41.72,Titulo,,0000,0000,0000,,{\c&HDF8F0A&}Madre
+Dialogue: 0,0:02:42.30,0:02:43.26,Default,,0000,0000,0000,,Aquí tiene.
+Dialogue: 0,0:02:43.26,0:02:46.64,Default,,0000,0000,0000,,Ya reservé el restaurante \Ny ajusté su horario.
+Dialogue: 0,0:02:46.99,0:02:48.39,Default,,0000,0000,0000,,¡Deme más trabajo!
+Dialogue: 0,0:02:48.39,0:02:50.88,Default,,0000,0000,0000,,Acabaste bastante rápido.
+Dialogue: 0,0:02:50.88,0:02:52.56,Default,,0000,0000,0000,,¿Qué te ocurre?
+Dialogue: 0,0:02:52.56,0:02:55.42,Default,,0000,0000,0000,,Estos últimos días trabajas admirablemente.
+Dialogue: 0,0:02:55.42,0:02:57.74,Default,,0000,0000,0000,,Aunque es de mucha ayuda.
+Dialogue: 0,0:02:57.74,0:03:01.46,Default,,0000,0000,0000,,Creo que debería aumentarte el sueldo.
+Dialogue: 0,0:03:02.01,0:03:03.36,Default,,0000,0000,0000,,¿Me pagará?
+Dialogue: 0,0:03:03.36,0:03:04.70,Default,,0000,0000,0000,,Por supuesto.
+Dialogue: 0,0:03:04.70,0:03:08.00,Default,,0000,0000,0000,,Se paga a aquellos que trabajan. \NSon las normas de la sociedad.
+Dialogue: 0,0:03:08.65,0:03:12.57,Default,,0000,0000,0000,,Además, ya reservé el \Nhotel que les comenté.
+Dialogue: 0,0:03:13.38,0:03:14.80,Default,,0000,0000,0000,,Aprobaste.
+Dialogue: 0,0:03:14.80,0:03:18.27,Default,,0000,0000,0000,,Parece que puedo dejarla en tus manos, chico.
+Dialogue: 0,0:03:18.27,0:03:20.27,Default,,0000,0000,0000,,Quizás una madre no deba decirlo,
+Dialogue: 0,0:03:20.27,0:03:23.03,Default,,0000,0000,0000,,pero diviértanse sin olvidar que \Naún son estudiantes de preparatoria.
+Dialogue: 0,0:03:24.51,0:03:28.97,Default,,0000,0000,0000,,No necesito ni un sueldo ni el hotel.
+Dialogue: 0,0:03:29.78,0:03:31.66,Default,,0000,0000,0000,,Solo tengo una cosa que pedirle.
+Dialogue: 0,0:03:32.39,0:03:37.24,Default,,0000,0000,0000,,Si mañana consigue tener la \Nnoche libre gracias a mi trabajo,
+Dialogue: 0,0:03:37.24,0:03:39.05,Default,,0000,0000,0000,,¿podrá ir a ver a Chitoge?
+Dialogue: 0,0:03:41.28,0:03:42.76,Default,,0000,0000,0000,,¿Qué estás dicien...?
+Dialogue: 0,0:03:42.76,0:03:43.96,Default,,0000,0000,0000,,¡Es posible!
+Dialogue: 0,0:03:43.96,0:03:45.96,Default,,0000,0000,0000,,Si trabajo como si se me fuera la vida en ello,
+Dialogue: 0,0:03:45.96,0:03:48.73,Default,,0000,0000,0000,,puedo conseguirle tiempo libre, ¡¿verdad?!
+Dialogue: 0,0:03:48.73,0:03:50.29,Default,,0000,0000,0000,,Quizás...
+Dialogue: 0,0:03:50.29,0:03:52.67,Default,,0000,0000,0000,,¡¿Irá o no irá?!
+Dialogue: 0,0:03:52.67,0:03:56.29,Default,,0000,0000,0000,,Sería posible, pero...
+Dialogue: 0,0:03:56.29,0:03:58.07,Default,,0000,0000,0000,,Me basta con escuchar eso.
+Dialogue: 0,0:03:58.55,0:04:00.10,Default,,0000,0000,0000,,¡Vuelvo al trabajo!
+Dialogue: 0,0:04:00.52,0:04:01.55,Default,,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:04:01.93,0:04:05.70,Italics,,0000,0000,0000,,Quizás estoy metiéndome donde no me llaman.
+Dialogue: 0,0:04:06.50,0:04:10.71,Italics,,0000,0000,0000,,El otro día fue lastimada por mi culpa.
+Dialogue: 0,0:04:10.71,0:04:14.56,Italics,,0000,0000,0000,,¡Pero si siguen así, \NChitoge me da mucha pena!
+Dialogue: 0,0:04:14.56,0:04:17.90,Italics,,0000,0000,0000,,No sé si cuando se vean \Nla cosa acabará bien,
+Dialogue: 0,0:04:17.90,0:04:21.08,Italics,,0000,0000,0000,,¡pero quiero hacer todo lo que pueda!
+Dialogue: 0,0:04:28.68,0:04:32.31,Default,,0000,0000,0000,,Tengo preparado todo el trabajo \Nque tenía planeado para este mes.
+Dialogue: 0,0:04:34.15,0:04:40.04,Default,,0000,0000,0000,,También compré todo lo que creí que \Nserá necesario para sus negociaciones.
+Dialogue: 0,0:04:41.82,0:04:43.42,Default,,0000,0000,0000,,Estoy sorprendida.
+Dialogue: 0,0:04:43.42,0:04:45.90,Default,,0000,0000,0000,,Hice todo lo que pude.
+Dialogue: 0,0:04:45.90,0:04:48.38,Default,,0000,0000,0000,,Por favor, Hana-san,
+Dialogue: 0,0:04:48.38,0:04:50.49,Default,,0000,0000,0000,,¡vaya a verla!
+Dialogue: 0,0:04:52.93,0:04:54.77,Default,,0000,0000,0000,,No iré.
+Dialogue: 0,0:04:55.69,0:04:56.81,Default,,0000,0000,0000,,¡¿Por qué no?!
+Dialogue: 0,0:04:56.81,0:04:58.56,Default,,0000,0000,0000,,¡Tiene tiempo!
+Dialogue: 0,0:04:58.56,0:05:01.85,Default,,0000,0000,0000,,¡Al menos vaya un segundo para darle esto!
+Dialogue: 0,0:05:01.85,0:05:03.19,Default,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:05:03.19,0:05:04.64,Default,,0000,0000,0000,,Un regalo.
+Dialogue: 0,0:05:04.64,0:05:06.08,Default,,0000,0000,0000,,Lo compré yo.
+Dialogue: 0,0:05:06.08,0:05:07.40,Default,,0000,0000,0000,,Es una bufanda.
+Dialogue: 0,0:05:07.40,0:05:08.70,Default,,0000,0000,0000,,¡Désela, por favor!
+Dialogue: 0,0:05:08.70,0:05:10.91,Default,,0000,0000,0000,,¿Otra vez con eso?
+Dialogue: 0,0:05:10.91,0:05:12.59,Default,,0000,0000,0000,,Ya dije que no era necesario.
+Dialogue: 0,0:05:12.59,0:05:15.56,Default,,0000,0000,0000,,¡Usted no es quién para \Ndecidir eso, Hana-san!
+Dialogue: 0,0:05:15.56,0:05:17.74,Default,,0000,0000,0000,,No es de tu incumbencia.
+Dialogue: 0,0:05:17.74,0:05:20.59,Default,,0000,0000,0000,,Te metes demasiado en los \Nasuntos de otra familia.
+Dialogue: 0,0:05:20.59,0:05:23.34,Default,,0000,0000,0000,,¡¿Usted no quiere verla, Hana-san?!
+Dialogue: 0,0:05:23.78,0:05:26.59,Default,,0000,0000,0000,,No es eso, pero...
+Dialogue: 0,0:05:28.25,0:05:30.85,Default,,0000,0000,0000,,Claro... Ya veo.
+Dialogue: 0,0:05:31.22,0:05:35.10,Default,,0000,0000,0000,,¡¿Nunca se interesó lo \Nmás mínimo por Chitoge?!
+Dialogue: 0,0:05:36.89,0:05:39.55,Default,,0000,0000,0000,,Si conseguiste tiempo, perfecto.
+Dialogue: 0,0:05:39.55,0:05:42.35,Default,,0000,0000,0000,,Basta con llenarlo con más trabajo.
+Dialogue: 0,0:05:42.35,0:05:43.80,Default,,0000,0000,0000,,Será...
+Dialogue: 0,0:05:44.11,0:05:45.15,Default,,0000,0000,0000,,¡Ya basta!
+Dialogue: 0,0:05:50.34,0:05:54.79,Default,,0000,0000,0000,,Pese a que lo preparé, este año \Nparece que tampoco podré dárselo.
+Dialogue: 0,0:05:55.21,0:05:57.82,Default,,0000,0000,0000,,Este... Hana-san, ¿qué es eso?
+Dialogue: 0,0:05:58.42,0:06:00.42,Default,,0000,0000,0000,,Un regalo de Navidad.
+Dialogue: 0,0:06:04.30,0:06:07.11,Default,,0000,0000,0000,,Llevan diez años acumulándose.
+Dialogue: 0,0:06:07.11,0:06:11.56,Default,,0000,0000,0000,,Cada año los preparo, pero \Nnunca puedo dárselos.
+Dialogue: 0,0:06:16.04,0:06:18.68,Default,,0000,0000,0000,,Hana-san, e-el cigarrillo...
+Dialogue: 0,0:06:19.06,0:06:22.43,Default,,0000,0000,0000,,¿Esto? Solo es un cigarrillo de chocolate.
+Dialogue: 0,0:06:22.43,0:06:24.43,Default,,0000,0000,0000,,¿No comiste ninguno de pequeño?
+Dialogue: 0,0:06:24.43,0:06:29.07,Default,,0000,0000,0000,,Los de verdad los dejé \Ncuando tuve a Chitoge.
+Dialogue: 0,0:06:30.82,0:06:31.88,Default,,0000,0000,0000,,Este...
+Dialogue: 0,0:06:31.88,0:06:34.70,Default,,0000,0000,0000,,pero usted no se interesa por Chitoge, ¿no?
+Dialogue: 0,0:06:34.70,0:06:36.83,Default,,0000,0000,0000,,¿Por qué no iba a interesarme?
+Dialogue: 0,0:06:36.83,0:06:41.23,Default,,0000,0000,0000,,Porque se olvidó del lazo \Nde Chitoge y de su edad.
+Dialogue: 0,0:06:41.23,0:06:43.23,Default,,0000,0000,0000,,No lo olvidé.
+Dialogue: 0,0:06:43.23,0:06:45.09,Default,,0000,0000,0000,,Yo le di ese lazo.
+Dialogue: 0,0:06:45.09,0:06:48.36,Default,,0000,0000,0000,,¡¿Qu-qué?!
+Dialogue: 0,0:06:48.82,0:06:54.87,Default,,0000,0000,0000,,Es que todavía lleva un lazo barato \Nque le regalé hace diez años.
+Dialogue: 0,0:06:55.27,0:06:59.75,Default,,0000,0000,0000,,Estoy segura de que hay muchos \Notros que le quedarían bien.
+Dialogue: 0,0:07:00.23,0:07:02.97,Default,,0000,0000,0000,,Y claro que recuerdo su edad.
+Dialogue: 0,0:07:03.40,0:07:08.24,Default,,0000,0000,0000,,Pero cuando la tengo delante, me pongo \Nnerviosa y siempre le pregunto lo mismo.
+Dialogue: 0,0:07:08.24,0:07:10.94,Default,,0000,0000,0000,,¡No, no! ¡Eso no funciona!
+Dialogue: 0,0:07:10.94,0:07:13.37,Default,,0000,0000,0000,,Es una chica impresionante.
+Dialogue: 0,0:07:13.87,0:07:19.50,Default,,0000,0000,0000,,Ya te hablé de que aquellos con \Ntalento tienen el deber de usarlo.
+Dialogue: 0,0:07:19.88,0:07:22.75,Default,,0000,0000,0000,,Ella tiene un talento magnífico.
+Dialogue: 0,0:07:22.75,0:07:27.00,Default,,0000,0000,0000,,Si se lo propone, nos superaría \Na Adelt y a mí con creces.
+Dialogue: 0,0:07:28.88,0:07:31.80,Default,,0000,0000,0000,,Además, es hermosa.
+Dialogue: 0,0:07:31.80,0:07:33.78,Default,,0000,0000,0000,,Como yo.
+Dialogue: 0,0:07:34.51,0:07:37.92,Default,,0000,0000,0000,,La crié firmemente.
+Dialogue: 0,0:07:37.92,0:07:39.89,Default,,0000,0000,0000,,Pero seguro que fui demasiado dura.
+Dialogue: 0,0:07:40.57,0:07:45.52,Default,,0000,0000,0000,,En algún momento dejó de llamarme mamá.
+Dialogue: 0,0:07:45.87,0:07:48.78,Default,,0000,0000,0000,,Debe odiarme.
+Dialogue: 0,0:07:50.63,0:07:54.64,Default,,0000,0000,0000,,¿Por eso propuso lo del \Nhotel para Nochebuena?
+Dialogue: 0,0:07:55.74,0:07:58.73,Default,,0000,0000,0000,,Pensé que eso la haría más feliz.
+Dialogue: 0,0:07:58.73,0:07:59.90,Default,,0000,0000,0000,,¿Me equivoco?
+Dialogue: 0,0:08:00.42,0:08:01.91,Italics,,0000,0000,0000,,¡¿Cómo puede ser así?!
+Dialogue: 0,0:08:01.91,0:08:02.96,Italics,,0000,0000,0000,,Maldición...
+Dialogue: 0,0:08:02.96,0:08:05.17,Italics,,0000,0000,0000,,Ya veo. Así que era eso.
+Dialogue: 0,0:08:05.17,0:08:06.92,Italics,,0000,0000,0000,,Ahora lo entiendo.
+Dialogue: 0,0:08:07.34,0:08:08.46,Default,,0000,0000,0000,,¡Hana-san!
+Dialogue: 0,0:08:10.05,0:08:11.56,Default,,0000,0000,0000,,¡Idiota!
+Dialogue: 0,0:08:11.56,0:08:12.55,Default,,0000,0000,0000,,¡Au!
+Dialogue: 0,0:08:13.38,0:08:14.76,Default,,0000,0000,0000,,¡Duele!
+Dialogue: 0,0:08:14.76,0:08:17.64,Default,,0000,0000,0000,,¡Oye! ¿Cómo te atreves?
+Dialogue: 0,0:08:16.65,0:08:18.39,Default,,0000,0000,0000,,¡Se equivoca completamente!
+Dialogue: 0,0:08:19.39,0:08:21.90,Default,,0000,0000,0000,,¡Ella no la odia!
+Dialogue: 0,0:08:21.90,0:08:24.90,Default,,0000,0000,0000,,¡La necesita, Hana-san!
+Dialogue: 0,0:08:24.90,0:08:29.76,Default,,0000,0000,0000,,Incluso ahora espera con ansias \Ncelebrar la Nochebuena con usted.
+Dialogue: 0,0:08:29.76,0:08:34.91,Default,,0000,0000,0000,,Todavía la sigue llamando mamá \Ncuando no la tiene delante.
+Dialogue: 0,0:08:34.91,0:08:36.43,Default,,0000,0000,0000,,¡Vaya a verla, por favor!
+Dialogue: 0,0:08:36.43,0:08:37.98,Default,,0000,0000,0000,,¡Todavía está a tiempo!
+Dialogue: 0,0:08:37.98,0:08:39.28,Default,,0000,0000,0000,,Pero...
+Dialogue: 0,0:08:39.28,0:08:43.53,Default,,0000,0000,0000,,Hoy debo volver a Estados Unidos.
+Dialogue: 0,0:08:43.53,0:08:44.56,Default,,0000,0000,0000,,¿Qué hago?
+Dialogue: 0,0:08:44.56,0:08:46.22,Default,,0000,0000,0000,,¿Cuánto tiempo tiene?
+Dialogue: 0,0:08:46.22,0:08:48.78,Default,,0000,0000,0000,,Tres horas hasta que despegue el avión.
+Dialogue: 0,0:08:48.78,0:08:50.80,Default,,0000,0000,0000,,¡Maldición! ¡Es muy justo!
+Dialogue: 0,0:08:50.80,0:08:55.10,Default,,0000,0000,0000,,¡Usted prepárese para ir a la \Nsuite que reservó y espere ahí!
+Dialogue: 0,0:08:55.10,0:08:57.04,Default,,0000,0000,0000,,¡Yo traeré a Chitoge!
+Dialogue: 0,0:08:57.04,0:08:57.93,Default,,0000,0000,0000,,Pero...
+Dialogue: 0,0:09:00.63,0:09:01.80,Italics,,0000,0000,0000,,Maldición...
+Dialogue: 0,0:09:01.80,0:09:04.80,Italics,,0000,0000,0000,,Hana-san es muy buena trabajando,
+Dialogue: 0,0:09:04.80,0:09:07.44,Italics,,0000,0000,0000,,¡pero para lo demás es una torpe!
+Dialogue: 0,0:09:07.44,0:09:09.82,Italics,,0000,0000,0000,,De tal palo, tal astilla.
+Dialogue: 0,0:09:15.08,0:09:17.53,Default,,0000,0000,0000,,¡Miren afuera! ¡Está nevando!
+Dialogue: 0,0:09:17.98,0:09:22.17,Default,,0000,0000,0000,,Blanca Navidad... Creo que \Neste año pasará algo bueno.
+Dialogue: 0,0:09:22.17,0:09:24.56,Default,,0000,0000,0000,,Señorita, ¿no tiene frío ahí?
+Dialogue: 0,0:09:24.56,0:09:25.60,Default,,0000,0000,0000,,Venga aquí.
+Dialogue: 0,0:09:25.60,0:09:29.33,Default,,0000,0000,0000,,¿Cuándo llegará Raku-sama?
+Dialogue: 0,0:09:29.33,0:09:31.78,Default,,0000,0000,0000,,Creo que llegará pronto.
+Dialogue: 0,0:09:35.86,0:09:39.56,Default,,0000,0000,0000,,{\3c&HA26F29&}¡Mamá! ¡Quiero un lazo así!
+Dialogue: 0,0:09:39.56,0:09:41.44,Default,,0000,0000,0000,,{\3c&HA26F29&}De acuerdo.
+Dialogue: 0,0:09:41.44,0:09:43.35,Default,,0000,0000,0000,,{\3c&HA26F29&}Cuídalo bien.
+Dialogue: 0,0:09:49.40,0:09:52.55,Italics,,0000,0000,0000,,¿Desde cuándo nos convertimos en esto?
+Dialogue: 0,0:09:53.38,0:09:57.24,Italics,,0000,0000,0000,,Antes podía hablar con ella fácilmente.
+Dialogue: 0,0:09:58.33,0:10:00.98,Italics,,0000,0000,0000,,¿Seguiremos así para siempre?
+Dialogue: 0,0:10:01.48,0:10:04.35,Italics,,0000,0000,0000,,¿Ya no podré estar con mamá?
+Dialogue: 0,0:10:06.58,0:10:09.32,Default,,0000,0000,0000,,¡Chitoge!
+Dialogue: 0,0:10:10.58,0:10:13.48,Default,,0000,0000,0000,,¡Chitoge!
+Dialogue: 0,0:10:14.23,0:10:15.34,Default,,0000,0000,0000,,¿Qué pasa? ¿Qué pasa?
+Dialogue: 0,0:10:15.67,0:10:17.26,Default,,0000,0000,0000,,¡Chitoge! ¡¿Estás ahí?!
+Dialogue: 0,0:10:17.26,0:10:18.83,Default,,0000,0000,0000,,¡¿Raku?!
+Dialogue: 0,0:10:18.83,0:10:20.01,Default,,0000,0000,0000,,¡Raku-sama!
+Dialogue: 0,0:10:20.36,0:10:22.19,Default,,0000,0000,0000,,¿Qué haces aquí?
+Dialogue: 0,0:10:22.19,0:10:24.23,Default,,0000,0000,0000,,¿No estabas con mamá?
+Dialogue: 0,0:10:23.35,0:10:24.89,Default,,0000,0000,0000,,¡No hay tiempo para explicarlo!
+Dialogue: 0,0:10:24.89,0:10:26.48,Default,,0000,0000,0000,,¡Ven conmigo!
+Dialogue: 0,0:10:26.48,0:10:29.16,Default,,0000,0000,0000,,¡E-espera! ¡No tan rápido!
+Dialogue: 0,0:10:29.16,0:10:31.48,Default,,0000,0000,0000,,Al menos dime adónde vamos.
+Dialogue: 0,0:10:31.48,0:10:32.64,Default,,0000,0000,0000,,Pues...
+Dialogue: 0,0:10:32.64,0:10:35.48,Default,,0000,0000,0000,,¡a la suite del hotel!
+Dialogue: 0,0:10:40.17,0:10:42.91,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:10:50.67,0:10:53.92,Texto,,0000,0000,0000,,Hana Kirisaki-sama   Informamos de un cambio de horario de su vuelo. Debido a las previsiones sobre el aumento de las nevadas, el vuelo que reservó despegará antes de lo previsto. Por favor, téngalo en cuenta para no retrasarse. Para más detalles...
+Dialogue: 0,0:11:00.51,0:11:02.14,Default,,0000,0000,0000,,¡Es inútil, Ichijo-kun!
+Dialogue: 0,0:11:02.14,0:11:04.54,Default,,0000,0000,0000,,Hay mucho tráfico debido a la nevada.
+Dialogue: 0,0:11:04.54,0:11:06.00,Default,,0000,0000,0000,,¡No podemos avanzar en carro!
+Dialogue: 0,0:11:06.00,0:11:08.36,Default,,0000,0000,0000,,¡¿En serio?! En un momento así...
+Dialogue: 0,0:11:08.36,0:11:11.77,Default,,0000,0000,0000,,¡Espera un momento! ¡Explícate!
+Dialogue: 0,0:11:12.77,0:11:13.90,Default,,0000,0000,0000,,¡Lo siento!
+Dialogue: 0,0:11:13.90,0:11:15.82,Default,,0000,0000,0000,,¡Luego la devolveré!
+Dialogue: 0,0:11:18.06,0:11:22.53,Default,,0000,0000,0000,,Oye, el hotel del que hablaste \Nes el que dijo mamá, ¿no?
+Dialogue: 0,0:11:22.53,0:11:24.12,Default,,0000,0000,0000,,¡No pienso ir!
+Dialogue: 0,0:11:24.47,0:11:26.16,Default,,0000,0000,0000,,¿Por qué iba a ir contigo?
+Dialogue: 0,0:11:26.16,0:11:28.17,Default,,0000,0000,0000,,¡Hana-san te está esperando allí!
+Dialogue: 0,0:11:28.17,0:11:30.55,Default,,0000,0000,0000,,¡Haré que se vean, así \Nque quédate ahí sentada!
+Dialogue: 0,0:11:31.24,0:11:32.24,Default,,0000,0000,0000,,¿Mamá?
+Dialogue: 0,0:11:32.24,0:11:33.42,Default,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:11:33.42,0:11:36.89,Default,,0000,0000,0000,,¡Hana-san dijo muchas cosas \Nque se pueden malinterpretar,
+Dialogue: 0,0:11:36.89,0:11:38.51,Default,,0000,0000,0000,,así que puede que no lo creas,
+Dialogue: 0,0:11:38.91,0:11:42.13,Default,,0000,0000,0000,,pero en realidad se preocupa mucho por ti!
+Dialogue: 0,0:11:42.54,0:11:45.88,Default,,0000,0000,0000,,No... No puede ser.
+Dialogue: 0,0:11:45.88,0:11:47.96,Default,,0000,0000,0000,,¡No te creo!
+Dialogue: 0,0:11:47.96,0:11:49.02,Default,,0000,0000,0000,,¡Créelo!
+Dialogue: 0,0:11:49.02,0:11:52.89,Default,,0000,0000,0000,,¡Cree en mí de vez en cuando!
+Dialogue: 0,0:11:58.95,0:12:00.03,Default,,0000,0000,0000,,¡¿No está?!
+Dialogue: 0,0:12:00.03,0:12:01.04,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:12:01.04,0:12:03.29,Default,,0000,0000,0000,,Dijo que la nevada adelantó \Nla salida del avión.
+Dialogue: 0,0:12:03.29,0:12:05.36,Default,,0000,0000,0000,,¡Entonces al aeropuerto! ¡Rápido!
+Dialogue: 0,0:12:05.36,0:12:06.16,Default,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:12:08.41,0:12:09.98,Default,,0000,0000,0000,,Cada vez nieva más.
+Dialogue: 0,0:12:09.98,0:12:11.24,Default,,0000,0000,0000,,Dese prisa.
+Dialogue: 0,0:12:11.24,0:12:17.04,Default,,0000,0000,0000,,Si se pierde esa reunión, nuestra empresa \Nperderá decenas de billones de yenes.
+Dialogue: 0,0:12:34.14,0:12:35.21,Default,,0000,0000,0000,,No llegam...
+Dialogue: 0,0:12:37.70,0:12:38.94,Default,,0000,0000,0000,,¡Aún no se acabó!
+Dialogue: 0,0:12:41.69,0:12:44.09,Default,,0000,0000,0000,,¡Olvídese del trabajo, Hana-san!
+Dialogue: 0,0:12:44.66,0:12:46.07,Default,,0000,0000,0000,,Chico...
+Dialogue: 0,0:12:46.70,0:12:50.24,Default,,0000,0000,0000,,Gracias, pero ya hiciste suficiente.
+Dialogue: 0,0:12:50.24,0:12:53.34,Default,,0000,0000,0000,,Me alegró saber lo que sentía Chitoge,
+Dialogue: 0,0:12:53.34,0:12:55.75,Default,,0000,0000,0000,,pero debo irme.
+Dialogue: 0,0:12:57.96,0:13:00.75,Default,,0000,0000,0000,,Dale recuerdos.
+Dialogue: 0,0:13:02.01,0:13:06.27,Default,,0000,0000,0000,,¡Culpa al trabajo, pero en \Nrealidad solo está asustada!
+Dialogue: 0,0:13:06.27,0:13:08.47,Default,,0000,0000,0000,,¡A su edad, no huya!
+Dialogue: 0,0:13:09.64,0:13:14.02,Default,,0000,0000,0000,,¡Piense muy bien qué es lo más importante!
+Dialogue: 0,0:13:24.89,0:13:26.22,Default,,0000,0000,0000,,Mamá...
+Dialogue: 0,0:13:29.85,0:13:31.11,Default,,0000,0000,0000,,Por favor...
+Dialogue: 0,0:13:31.96,0:13:32.99,Default,,0000,0000,0000,,¡mamá!
+Dialogue: 0,0:14:06.97,0:14:08.15,Default,,0000,0000,0000,,¿Mamá?
+Dialogue: 0,0:14:08.84,0:14:10.33,Default,,0000,0000,0000,,Chitoge...
+Dialogue: 0,0:14:17.62,0:14:20.58,Default,,0000,0000,0000,,Y-yo...
+Dialogue: 0,0:14:27.99,0:14:30.68,Default,,0000,0000,0000,,Yo...
+Dialogue: 0,0:14:33.34,0:14:34.71,Default,,0000,0000,0000,,Todavía...
+Dialogue: 0,0:14:35.59,0:14:38.41,Default,,0000,0000,0000,,¿Todavía me quieres?
+Dialogue: 0,0:14:40.95,0:14:43.62,Default,,0000,0000,0000,,Claro que sí.
+Dialogue: 0,0:14:45.65,0:14:47.03,Default,,0000,0000,0000,,Das miedo,
+Dialogue: 0,0:14:47.40,0:14:51.18,Default,,0000,0000,0000,,nunca quieres verme, y cuando \Nlo haces, siempre te enojas.
+Dialogue: 0,0:14:51.62,0:14:57.07,Default,,0000,0000,0000,,Nunca te fijas en mí, no sé en qué piensas
+Dialogue: 0,0:14:57.07,0:14:59.16,Default,,0000,0000,0000,,¡y además das mucho miedo!
+Dialogue: 0,0:15:02.17,0:15:04.17,Default,,0000,0000,0000,,¡Pero te quiero!
+Dialogue: 0,0:15:08.09,0:15:09.42,Default,,0000,0000,0000,,¡Chitoge!
+Dialogue: 0,0:15:16.84,0:15:18.09,Default,,0000,0000,0000,,¡Chitoge!
+Dialogue: 0,0:15:18.09,0:15:19.45,Default,,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:15:30.66,0:15:31.88,Italics,,0000,0000,0000,,Lo sabía.
+Dialogue: 0,0:15:32.23,0:15:35.12,Italics,,0000,0000,0000,,De tal palo, tal astilla.
+Dialogue: 0,0:15:35.12,0:15:36.59,Default,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:15:36.59,0:15:38.49,Default,,0000,0000,0000,,Perdóname, Chitoge.
+Dialogue: 0,0:15:38.49,0:15:41.50,Default,,0000,0000,0000,,¡Mamá! ¡Mamá!
+Dialogue: 0,0:15:43.61,0:15:44.49,Default,,0000,0000,0000,,Hana-san...
+Dialogue: 0,0:15:45.50,0:15:48.48,Default,,0000,0000,0000,,Se congelarán si se quedan aquí hablando.
+Dialogue: 0,0:15:48.48,0:15:53.01,Default,,0000,0000,0000,,Yo volveré a la empresa y haré \Nlo que pueda para arreglarlo todo.
+Dialogue: 0,0:15:53.01,0:15:57.13,Default,,0000,0000,0000,,Pasen ustedes tranquilamente \Nla Nochebuena en el hotel.
+Dialogue: 0,0:15:57.72,0:16:00.76,Default,,0000,0000,0000,,No seas tan presumido, chico.
+Dialogue: 0,0:16:01.82,0:16:04.41,Default,,0000,0000,0000,,Permítamelo por hoy.
+Dialogue: 0,0:16:05.43,0:16:07.77,Default,,0000,0000,0000,,Es Navidad.
+Dialogue: 0,0:16:46.09,0:16:47.11,Default,,0000,0000,0000,,Ahora que lo pienso,
+Dialogue: 0,0:16:47.11,0:16:50.65,Default,,0000,0000,0000,,aún no te he dado tu regalo de Navidad.
+Dialogue: 0,0:16:50.65,0:16:52.11,Default,,0000,0000,0000,,Toma.
+Dialogue: 0,0:16:52.11,0:16:54.82,Default,,0000,0000,0000,,Elegí un nuevo lazo.
+Dialogue: 0,0:16:55.85,0:17:00.25,Default,,0000,0000,0000,,Me alegra mucho que cuides tanto aquel lazo,
+Dialogue: 0,0:17:00.25,0:17:02.87,Default,,0000,0000,0000,,pero recuerda que eres una chica.
+Dialogue: 0,0:17:06.23,0:17:08.39,Default,,0000,0000,0000,,Gracias, mamá.
+Dialogue: 0,0:17:08.79,0:17:09.88,Default,,0000,0000,0000,,Pero...
+Dialogue: 0,0:17:14.17,0:17:17.30,Default,,0000,0000,0000,,Quiero seguir conservándolo.
+Dialogue: 0,0:17:17.67,0:17:20.82,Default,,0000,0000,0000,,Porque está lleno de recuerdos.
+Dialogue: 0,0:17:22.55,0:17:23.78,Default,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:17:24.39,0:17:27.79,Default,,0000,0000,0000,,Creo que ese chico también se alegrará.
+Dialogue: 0,0:17:27.79,0:17:29.66,Default,,0000,0000,0000,,¿Raku? ¿Por qué?
+Dialogue: 0,0:17:29.99,0:17:31.56,Default,,0000,0000,0000,,¿Lo olvidaste?
+Dialogue: 0,0:17:31.56,0:17:35.77,Default,,0000,0000,0000,,Fue ese chico el que hizo que \Nempezaras a ponerte el lazo.
+Dialogue: 0,0:17:37.16,0:17:38.46,Default,,0000,0000,0000,,Hace diez años,
+Dialogue: 0,0:17:38.46,0:17:42.29,Default,,0000,0000,0000,,ustedes estuvieron jugando \Njuntos durante un verano.
+Dialogue: 0,0:17:43.02,0:17:48.60,Default,,0000,0000,0000,,En un cuento que te gustaba entonces había \Nuna chica que llevaba un lazo parecido.
+Dialogue: 0,0:17:48.60,0:17:52.67,Default,,0000,0000,0000,,Él te dijo: "seguro que \Neste lazo te quedaría bien"
+Dialogue: 0,0:17:52.67,0:17:55.48,Default,,0000,0000,0000,,y viniste corriendo a pedirme uno.
+Dialogue: 0,0:17:55.48,0:17:57.06,Default,,0000,0000,0000,,¿No te acuerdas?
+Dialogue: 0,0:17:57.85,0:17:59.72,Default,,0000,0000,0000,,¿Él?
+Dialogue: 0,0:18:06.31,0:18:08.76,Default,,0000,0000,0000,,¿Por qué no vas con él, Chitoge?
+Dialogue: 0,0:18:09.56,0:18:16.09,Default,,0000,0000,0000,,Hoy pudimos hablar tanto \Ngracias a ese chico.
+Dialogue: 0,0:18:16.09,0:18:17.76,Default,,0000,0000,0000,,Es tu novio, ¿no?
+Dialogue: 0,0:18:17.76,0:18:19.21,Default,,0000,0000,0000,,Ve con él.
+Dialogue: 0,0:18:23.30,0:18:24.44,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:19:00.95,0:19:05.80,Default,,0000,0000,0000,,Si duermes aquí, te resfriarás, \Nestúpido debilucho.
+Dialogue: 0,0:19:23.72,0:19:26.33,Default,,0000,0000,0000,,Gracias, Raku.
+Dialogue: 0,0:19:30.78,0:19:32.59,Default,,0000,0000,0000,,Gracias, chico.
+Dialogue: 0,0:19:32.59,0:19:35.00,Default,,0000,0000,0000,,Te debo mucho.
+Dialogue: 0,0:19:35.00,0:19:38.22,Default,,0000,0000,0000,,No pensé que pudieras \Nayudarme en tantos aspectos.
+Dialogue: 0,0:19:38.63,0:19:45.18,Default,,0000,0000,0000,,Pero ver de nuevo al chico con el \Nque jugó Chitoge hace diez años...
+Dialogue: 0,0:19:45.18,0:19:47.18,Default,,0000,0000,0000,,es un reencuentro misterioso.
+Dialogue: 0,0:19:47.18,0:19:49.87,Default,,0000,0000,0000,,¿Usted también estuvo hace diez años?
+Dialogue: 0,0:19:49.87,0:19:51.34,Default,,0000,0000,0000,,Solo unos días.
+Dialogue: 0,0:19:51.34,0:19:54.04,Default,,0000,0000,0000,,Pero te recuerdo bien.
+Dialogue: 0,0:19:54.89,0:19:57.18,Default,,0000,0000,0000,,Este... Hana-san...
+Dialogue: 0,0:19:59.74,0:20:02.65,Default,,0000,0000,0000,,¿Le suena de algo este colgante?
+Dialogue: 0,0:20:03.64,0:20:09.14,Default,,0000,0000,0000,,Quiero recordar algo de aquella \Népoca, pero no lo consigo.
+Dialogue: 0,0:20:13.74,0:20:17.53,Default,,0000,0000,0000,,No me suena, lo siento.
+Dialogue: 0,0:20:17.53,0:20:19.06,Default,,0000,0000,0000,,Ya veo...
+Dialogue: 0,0:20:20.28,0:20:22.84,Default,,0000,0000,0000,,Chico, ven aquí un momento.
+Dialogue: 0,0:20:23.32,0:20:24.17,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:20:27.53,0:20:31.05,Default,,0000,0000,0000,,Ya me enteré de que finges \Nser el novio de Chitoge.
+Dialogue: 0,0:20:32.55,0:20:34.22,Default,,0000,0000,0000,,Hana-san, ¿lo sabía?
+Dialogue: 0,0:20:34.22,0:20:35.21,Default,,0000,0000,0000,,Por supuesto.
+Dialogue: 0,0:20:35.59,0:20:37.98,Default,,0000,0000,0000,,Aunque no desde el principio.
+Dialogue: 0,0:20:37.98,0:20:40.28,Default,,0000,0000,0000,,Podría habérmelo dicho.
+Dialogue: 0,0:20:40.28,0:20:43.64,Default,,0000,0000,0000,,Me siento estúpido por \Nesforzarme tanto por fingir.
+Dialogue: 0,0:20:43.64,0:20:45.61,Default,,0000,0000,0000,,Qué vergüenza.
+Dialogue: 0,0:20:46.25,0:20:47.96,Default,,0000,0000,0000,,Fingir, ¿eh?
+Dialogue: 0,0:20:48.68,0:20:52.23,Default,,0000,0000,0000,,{\3c&HA26F29&}Si me esfuerzo, ¿podrá ir a ver a Chitoge?
+Dialogue: 0,0:20:52.23,0:20:55.35,Default,,0000,0000,0000,,{\3c&HA26F29&}¡Vaya a verla, por favor!
+Dialogue: 0,0:20:57.29,0:21:00.63,Default,,0000,0000,0000,,¿De verdad solo son una pareja falsa?
+Dialogue: 0,0:21:01.91,0:21:06.74,Default,,0000,0000,0000,,¿De verdad tus sentimientos \Npor ella son falsos?
+Dialogue: 0,0:21:12.71,0:21:14.06,Default,,0000,0000,0000,,Adiós.
+Dialogue: 0,0:21:14.06,0:21:15.59,Default,,0000,0000,0000,,Cuida de mi hija.
+Dialogue: 0,0:21:18.37,0:21:23.37,Italics,,0000,0000,0000,,Después de que Chitoge y yo nos \Ndespidiéramos de Hana-san, Shuu me llamó.
+Dialogue: 0,0:21:25.82,0:21:32.15,Italics,,0000,0000,0000,,Al parecer entendieron que Chitoge y yo \Npasamos la noche a solas en la suite de un hotel
+Dialogue: 0,0:21:32.64,0:21:35.56,Italics,,0000,0000,0000,,y nos interrogó sobre \Nlo que habíamos hecho.
+Dialogue: 0,0:21:36.42,0:21:38.54,Italics,,0000,0000,0000,,Deshicimos el malentendido,
+Dialogue: 0,0:21:37.40,0:21:39.07,Default,,0000,0000,0000,,Onodera...
+Dialogue: 0,0:21:38.54,0:21:41.90,Italics,,0000,0000,0000,,pero fue una Navidad terrible.
+Dialogue: 0,0:21:39.37,0:21:40.27,Default,,0000,0000,0000,,Oye...
+Dialogue: 0,0:21:48.84,0:21:49.91,Default,,0000,0000,0000,,Ahora lo recuerdo.
+Dialogue: 0,0:21:50.50,0:21:54.62,Default,,0000,0000,0000,,Ese colgante salía en el cuento de Chitoge.
+Dialogue: 0,0:22:00.98,0:22:04.06,Default,,0000,0000,0000,,No importa. Se lo diré la próxima vez.
+Dialogue: 0,0:22:04.52,0:22:07.75,Default,,0000,0000,0000,,¿Dentro de cuántos años \Nvolveremos a vernos?
+Dialogue: 0,0:23:40.47,0:23:41.88,Default,,0000,0000,0000,,¿Ahora?
+Dialogue: 0,0:23:41.88,0:23:44.39,Default,,0000,0000,0000,,La fiesta de Navidad se acabó hace rato.
+Dialogue: 0,0:23:44.97,0:23:48.92,Default,,0000,0000,0000,,Ruri-chan, así que era mentira lo \Nde que los trenes no funcionaban.
+Dialogue: 0,0:23:49.29,0:23:51.34,Default,,0000,0000,0000,,En realidad estabas durmiendo, ¿no?
+Dialogue: 0,0:23:51.34,0:23:53.66,Default,,0000,0000,0000,,Pues que sepas que yo pasé un mal rato.
+Dialogue: 0,0:23:55.51,0:23:56.49,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:23:56.49,0:23:59.16,Default,,0000,0000,0000,,Me alegro de que solo fuera \Nun malentendido, pero...
+Dialogue: 0,0:24:01.66,0:24:03.60,Default,,0000,0000,0000,,No tienes que compensármelo.
+Dialogue: 0,0:24:03.60,0:24:06.76,Default,,0000,0000,0000,,Usa tú ese regalo.
+Dialogue: 0,0:24:08.49,0:24:10.15,Default,,0000,0000,0000,,No lo quiero.

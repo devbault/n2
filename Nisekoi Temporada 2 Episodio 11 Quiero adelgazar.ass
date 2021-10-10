@@ -1,0 +1,363 @@
+﻿[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Texto,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0010,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Titulo,Trebuchet MS,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0031,1
+Style: Titulo2,Times New Roman,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0014,1
+Style: Introtexto,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,0010,0010,0010,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:27.13,0:00:28.75,Default,,0000,0000,0000,,¿Qué tal, Kosaki?
+Dialogue: 0,0:00:30.71,0:00:32.88,Default,,0000,0000,0000,,¿Qué opinas del nuevo producto de otoño?
+Dialogue: 0,0:00:34.04,0:00:37.51,Default,,0000,0000,0000,,Creo que sería mejor resaltar \Nmás la dulzura de las castañas.
+Dialogue: 0,0:00:38.02,0:00:40.25,Default,,0000,0000,0000,,Pero ¿no es muy precipitado?
+Dialogue: 0,0:00:40.25,0:00:42.52,Default,,0000,0000,0000,,Aún queda todo el verano.
+Dialogue: 0,0:00:42.52,0:00:46.02,Default,,0000,0000,0000,,Si no empezamos ya, no \Nlos tendremos a tiempo.
+Dialogue: 0,0:00:46.46,0:00:48.84,Default,,0000,0000,0000,,Es un misterio.
+Dialogue: 0,0:00:48.84,0:00:53.53,Default,,0000,0000,0000,,¿Por qué no puedes cocinar si \Neres la que mejor gusto tiene?
+Dialogue: 0,0:00:53.53,0:00:56.91,Default,,0000,0000,0000,,A mí también me gustaría saberlo.
+Dialogue: 0,0:00:56.91,0:00:58.01,Default,,0000,0000,0000,,Arriba.
+Dialogue: 0,0:00:58.01,0:01:00.75,Default,,0000,0000,0000,,Voy a decírselo a papá.
+Dialogue: 0,0:01:00.75,0:01:02.75,Default,,0000,0000,0000,,Por cierto, hermana...
+Dialogue: 0,0:01:03.75,0:01:06.49,Default,,0000,0000,0000,,Sé que te pedimos que probaras los dulces,
+Dialogue: 0,0:01:06.49,0:01:09.21,Default,,0000,0000,0000,,pero últimamente pareces más rellenita.
+Dialogue: 0,0:01:09.21,0:01:11.50,Default,,0000,0000,0000,,Si no te cuidas, engordarás enseguida.
+Dialogue: 0,0:01:11.50,0:01:13.36,Default,,0000,0000,0000,,E-estaré bien.
+Dialogue: 0,0:01:13.36,0:01:15.27,Default,,0000,0000,0000,,Tengo cuidado.
+Dialogue: 0,0:01:17.32,0:01:21.88,Italics,,0000,0000,0000,,Aunque es cierto que últimamente \Ncomo muchos dulces
+Dialogue: 0,0:01:21.88,0:01:24.15,Italics,,0000,0000,0000,,y hace tiempo que no me subo a la balanza.
+Dialogue: 0,0:01:25.02,0:01:27.39,Italics,,0000,0000,0000,,Tampoco hago ejercicio.
+Dialogue: 0,0:01:27.39,0:01:29.40,Italics,,0000,0000,0000,,Debo cuidar más mi cuerpo.
+Dialogue: 0,0:01:48.42,0:01:50.41,Italics,,0000,0000,0000,,No puede ser. ¡No puede ser!
+Dialogue: 0,0:01:50.41,0:01:54.68,Italics,,0000,0000,0000,,No imaginé que me pasaría esto solo \Npor no pesarme durante unos días.
+Dialogue: 0,0:01:54.68,0:01:57.95,Italics,,0000,0000,0000,,Hice cosas que podían llevarme a esto,
+Dialogue: 0,0:01:57.95,0:02:00.56,Italics,,0000,0000,0000,,pero no pensé que \Nengordaría tanto de golpe.
+Dialogue: 0,0:02:00.56,0:02:03.05,Italics,,0000,0000,0000,,No me veo muy diferente.
+Dialogue: 0,0:02:03.05,0:02:06.08,Italics,,0000,0000,0000,,Aunque quizás yo sea la \Núnica que piensa así.
+Dialogue: 0,0:02:06.08,0:02:09.91,Italics,,0000,0000,0000,,Puede que los demás me \Nvean con mucha barriga.
+Dialogue: 0,0:02:09.91,0:02:12.19,Italics,,0000,0000,0000,,Haru ya me lo dijo.
+Dialogue: 0,0:02:13.65,0:02:16.99,Default,,0000,0000,0000,,¡Es terrible! ¡Tengo que \Nhacer algo de inmediato!
+Dialogue: 0,0:03:48.74,0:03:54.27,Titulo,,0000,0000,0000,,{\c&HE8842F&}Quiero adelgazar
+Dialogue: 0,0:03:59.02,0:04:00.76,Default,,0000,0000,0000,,Oye, Ruri-chan...
+Dialogue: 0,0:04:02.87,0:04:06.26,Default,,0000,0000,0000,,¿Dirías que últimamente engordé?
+Dialogue: 0,0:04:06.26,0:04:07.53,Default,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:04:10.66,0:04:13.88,Italics,,0000,0000,0000,,No me parece que haya cambiado mucho.
+Dialogue: 0,0:04:13.88,0:04:15.00,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:04:15.00,0:04:17.13,Default,,0000,0000,0000,,Quizás deberías cuidarte un poco.
+Dialogue: 0,0:04:17.13,0:04:18.02,Default,,0000,0000,0000,,¡¿De verdad?!
+Dialogue: 0,0:04:18.95,0:04:20.73,Default,,0000,0000,0000,,Así que sí que engordé...
+Dialogue: 0,0:04:20.73,0:04:23.74,Default,,0000,0000,0000,,Dicen que es difícil ver los \Ncambios de tu propio cuerpo,
+Dialogue: 0,0:04:23.74,0:04:25.53,Default,,0000,0000,0000,,pero yo no me percaté de nada.
+Dialogue: 0,0:04:26.78,0:04:28.04,Default,,0000,0000,0000,,¿Qué hago?
+Dialogue: 0,0:04:28.04,0:04:30.12,Default,,0000,0000,0000,,Hoy no desayuné,
+Dialogue: 0,0:04:30.12,0:04:33.04,Default,,0000,0000,0000,,pero lo mejor es hacer ejercicio y...
+Dialogue: 0,0:04:33.04,0:04:34.55,Default,,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:04:34.89,0:04:37.54,Default,,0000,0000,0000,,Buenos días, Onodera.
+Dialogue: 0,0:04:38.07,0:04:39.80,Default,,0000,0000,0000,,¡Ichijo-kun! ¡Buenos días!
+Dialogue: 0,0:04:39.80,0:04:44.44,Italics,,0000,0000,0000,,¡No quiero que Ichijo-kun \Nse entere de que engordé!
+Dialogue: 0,0:04:44.44,0:04:46.80,Italics,,0000,0000,0000,,Debo adelgazar antes de que lo descubra.
+Dialogue: 0,0:04:46.80,0:04:48.56,Italics,,0000,0000,0000,,¡Ánimo!
+Dialogue: 0,0:04:48.56,0:04:50.70,Italics,,0000,0000,0000,,A partir de hoy me prohíbo los dulces.
+Dialogue: 0,0:04:50.70,0:04:52.55,Italics,,0000,0000,0000,,Y reduciré la cantidad de comida.
+Dialogue: 0,0:04:52.57,0:04:54.30,Texto,,0000,0000,0000,,Grrrr
+Dialogue: 0,0:04:55.31,0:04:57.56,Default,,0000,0000,0000,,¿Qué fue ese ruido?
+Dialogue: 0,0:05:01.38,0:05:03.13,Default,,0000,0000,0000,,¿Qué sería ese ruido?
+Dialogue: 0,0:05:03.13,0:05:05.39,Default,,0000,0000,0000,,¿Sería un terremoto?
+Dialogue: 0,0:05:05.39,0:05:06.44,Default,,0000,0000,0000,,¡Qué miedo!
+Dialogue: 0,0:05:06.44,0:05:07.34,Default,,0000,0000,0000,,S-sí...
+Dialogue: 0,0:05:07.34,0:05:10.65,Italics,,0000,0000,0000,,¡¿Por qué tenía que sonarme \Nla barriga justo ahora?!
+Dialogue: 0,0:05:10.65,0:05:13.29,Italics,,0000,0000,0000,,Es cierto que no desayuné,
+Dialogue: 0,0:05:13.29,0:05:15.83,Italics,,0000,0000,0000,,pero no tenía por qué sonar tan fuerte.
+Dialogue: 0,0:05:15.83,0:05:18.06,Default,,0000,0000,0000,,¿E-estás bien, Onodera?
+Dialogue: 0,0:05:18.06,0:05:19.90,Default,,0000,0000,0000,,Tienes mala cara.
+Dialogue: 0,0:05:19.90,0:05:22.74,Default,,0000,0000,0000,,S-sí. No me pasa nada.
+Dialogue: 0,0:05:22.04,0:05:24.04,Texto,,0000,0000,0000,,\N\N\N\N\N\N\N\N\NGrrrr
+Dialogue: 0,0:05:25.97,0:05:28.04,Default,,0000,0000,0000,,N-no es nada.
+Dialogue: 0,0:05:28.04,0:05:29.26,Default,,0000,0000,0000,,De verdad.
+Dialogue: 0,0:05:29.26,0:05:30.97,Default,,0000,0000,0000,,Y-ya veo...
+Dialogue: 0,0:05:31.58,0:05:33.10,Italics,,0000,0000,0000,,Aguanta, Kosaki.
+Dialogue: 0,0:05:33.10,0:05:35.88,Italics,,0000,0000,0000,,Solo será duro por ahora.
+Dialogue: 0,0:05:36.22,0:05:39.42,Italics,,0000,0000,0000,,Si adelgazo, todo volverá a la normalidad.
+Dialogue: 0,0:05:43.22,0:05:44.41,Default,,0000,0000,0000,,¡Kosaki-chan!
+Dialogue: 0,0:05:44.76,0:05:47.40,Default,,0000,0000,0000,,¿Te acuerdas de que quedamos hoy?
+Dialogue: 0,0:05:47.40,0:05:49.11,Default,,0000,0000,0000,,¡Quiero que acaben las clases ya!
+Dialogue: 0,0:05:49.11,0:05:52.12,Default,,0000,0000,0000,,¿Qué? ¿Para qué quedamos?
+Dialogue: 0,0:05:52.12,0:05:56.75,Default,,0000,0000,0000,,Prometimos que hoy iríamos a la \Npastelería de la que hablamos.
+Dialogue: 0,0:05:56.75,0:05:59.50,Italics,,0000,0000,0000,,¡¿Prometí que iría?!
+Dialogue: 0,0:06:00.25,0:06:04.38,Default,,0000,0000,0000,,¡Ya me acuerdo! Era la pastelería \Nque salió en la televisión.
+Dialogue: 0,0:06:05.19,0:06:06.49,Italics,,0000,0000,0000,,Quiero ir...
+Dialogue: 0,0:06:06.49,0:06:08.91,Italics,,0000,0000,0000,,Pero ya lo decidí.
+Dialogue: 0,0:06:08.91,0:06:10.64,Default,,0000,0000,0000,,L-lo siento.
+Dialogue: 0,0:06:10.64,0:06:12.70,Default,,0000,0000,0000,,Me surgió un asunto importante.
+Dialogue: 0,0:06:12.70,0:06:14.11,Default,,0000,0000,0000,,¡De verdad que lo siento!
+Dialogue: 0,0:06:14.11,0:06:16.77,Default,,0000,0000,0000,,¿Qué? Es una lástima.
+Dialogue: 0,0:06:16.77,0:06:19.52,Default,,0000,0000,0000,,Es mejor así, señorita.
+Dialogue: 0,0:06:19.52,0:06:23.80,Default,,0000,0000,0000,,Usted ya fue a una pastelería \Nayer y anteayer.
+Dialogue: 0,0:06:23.80,0:06:25.10,Default,,0000,0000,0000,,Come demasiado.
+Dialogue: 0,0:06:25.10,0:06:27.28,Default,,0000,0000,0000,,Solo quería comparar sabores.
+Dialogue: 0,0:06:27.28,0:06:28.30,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:06:33.96,0:06:36.65,Default,,0000,0000,0000,,Kosaki-chan, ¿qué haces?
+Dialogue: 0,0:06:36.65,0:06:38.12,Default,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:06:37.02,0:06:41.31,Italics,,0000,0000,0000,,A Ruri-chan le pasa lo mismo. \N¿Dónde esconden la comida?
+Dialogue: 0,0:06:41.31,0:06:42.68,Italics,,0000,0000,0000,,Es un misterio.
+Dialogue: 0,0:06:49.86,0:06:53.45,Italics,,0000,0000,0000,,Al hablar de pasteles me entró más hambre.
+Dialogue: 0,0:06:53.77,0:06:55.55,Italics,,0000,0000,0000,,Pero aún estamos en la segunda hora.
+Dialogue: 0,0:06:55.55,0:06:57.64,Italics,,0000,0000,0000,,Todavía falta para comer.
+Dialogue: 0,0:06:57.64,0:07:01.94,Italics,,0000,0000,0000,,Pero no quiero que me vuelvan \Na sonar las tripas en clases...
+Dialogue: 0,0:07:07.44,0:07:10.46,Default,,0000,0000,0000,,¿Qué haces ahí, Onodera?
+Dialogue: 0,0:07:18.95,0:07:21.72,Italics,,0000,0000,0000,,Quiero morir. Quiero morirme.
+Dialogue: 0,0:07:21.72,0:07:26.21,Italics,,0000,0000,0000,,¿Cómo se explica que una chica \Nse ponga a comer antes de tiempo?
+Dialogue: 0,0:07:26.21,0:07:29.88,Italics,,0000,0000,0000,,Hoy Onodera se comporta de forma extraña.
+Dialogue: 0,0:07:29.88,0:07:31.74,Italics,,0000,0000,0000,,¿Se encontrará mal?
+Dialogue: 0,0:07:31.74,0:07:33.82,Italics,,0000,0000,0000,,¿Estará preocupada por algo?
+Dialogue: 0,0:07:39.73,0:07:42.04,Italics,,0000,0000,0000,,Todos se están yendo.
+Dialogue: 0,0:07:42.04,0:07:43.99,Italics,,0000,0000,0000,,¿Qué clase teníamos ahora?
+Dialogue: 0,0:07:44.62,0:07:47.48,Italics,,0000,0000,0000,,¡Gimnasia! ¡Eso es! ¡Ejercicio! \N¡Debo hacer ejercicio!
+Dialogue: 0,0:07:47.48,0:07:49.40,Italics,,0000,0000,0000,,No puedo deprimirme.
+Dialogue: 0,0:07:49.40,0:07:51.65,Italics,,0000,0000,0000,,Tengo que esforzarme para adelgazar.
+Dialogue: 0,0:07:51.65,0:07:53.39,Italics,,0000,0000,0000,,¡Y para eso haré ejercicio!
+Dialogue: 0,0:07:53.39,0:07:55.87,Italics,,0000,0000,0000,,Me olvidaré del fallo de \Nantes ejercitándome.
+Dialogue: 0,0:07:58.20,0:08:02.08,Italics,,0000,0000,0000,,A las chicas nos toca natación, \Npero yo no sé nadar.
+Dialogue: 0,0:08:02.08,0:08:06.13,Italics,,0000,0000,0000,,Además, no quiero llevar \Nropa que marque el cuerpo.
+Dialogue: 0,0:08:06.13,0:08:08.62,Italics,,0000,0000,0000,,¡No! No debo quejarme.
+Dialogue: 0,0:08:08.62,0:08:11.63,Italics,,0000,0000,0000,,Dicen que nadar es bueno para \Nadelgazar, así que debo esforzarme.
+Dialogue: 0,0:08:11.99,0:08:14.38,Default,,0000,0000,0000,,Para variar, hoy estás motivada, ¿no?
+Dialogue: 0,0:08:14.38,0:08:17.05,Default,,0000,0000,0000,,¿Quieres practicar conmigo?
+Dialogue: 0,0:08:17.05,0:08:18.83,Default,,0000,0000,0000,,Me adaptaré a tu ritmo.
+Dialogue: 0,0:08:18.83,0:08:20.52,Default,,0000,0000,0000,,¡Sí! ¡Gracias!
+Dialogue: 0,0:08:26.36,0:08:29.37,Texto,,0000,0000,0000,,{\3c&H374E89&\c&HCEE2F8&}Cafetería  Kesamitsu
+Dialogue: 0,0:08:30.49,0:08:32.94,Italics,,0000,0000,0000,,Quién iba a pensar que me iba a ahogar.
+Dialogue: 0,0:08:32.94,0:08:36.35,Italics,,0000,0000,0000,,Debe ser por no comer, \Npero no tenía fuerzas.
+Dialogue: 0,0:08:36.35,0:08:38.88,Italics,,0000,0000,0000,,Hoy me esforcé durante todo el día.
+Dialogue: 0,0:08:38.88,0:08:40.98,Italics,,0000,0000,0000,,¿Habrá cambiado algo?
+Dialogue: 0,0:08:43.22,0:08:47.13,Italics,,0000,0000,0000,,Dudo que haya adelgazado en un día, pero...
+Dialogue: 0,0:08:50.00,0:08:52.21,Italics,,0000,0000,0000,,¡¿E-engordé?!
+Dialogue: 0,0:08:52.21,0:08:53.85,Italics,,0000,0000,0000,,¡Y un montón!
+Dialogue: 0,0:08:53.85,0:08:54.83,Italics,,0000,0000,0000,,No puede ser.
+Dialogue: 0,0:08:54.83,0:08:57.63,Italics,,0000,0000,0000,,¡Pero si hoy no comí casi nada!
+Dialogue: 0,0:08:57.63,0:08:59.18,Italics,,0000,0000,0000,,¡¿Por qué?!
+Dialogue: 0,0:09:03.58,0:09:05.91,Default,,0000,0000,0000,,Onodera, ¿estás bien?
+Dialogue: 0,0:09:06.25,0:09:08.01,Default,,0000,0000,0000,,¿Qué? ¿Yo?
+Dialogue: 0,0:09:08.01,0:09:10.09,Default,,0000,0000,0000,,Estoy perfectamente.
+Dialogue: 0,0:09:10.92,0:09:12.46,Italics,,0000,0000,0000,,¿Qué le pasó?
+Dialogue: 0,0:09:12.46,0:09:14.44,Italics,,0000,0000,0000,,¿Estará enferma?
+Dialogue: 0,0:09:14.44,0:09:17.40,Italics,,0000,0000,0000,,Escuché que ayer se desmayó en gimnasia.
+Dialogue: 0,0:09:17.40,0:09:20.33,Italics,,0000,0000,0000,,Maldición... Quiero ayudarla, pero...
+Dialogue: 0,0:09:20.33,0:09:22.83,Italics,,0000,0000,0000,,¡Sé valiente!
+Dialogue: 0,0:09:22.83,0:09:24.96,Default,,0000,0000,0000,,O-oye, Onodera...
+Dialogue: 0,0:09:24.96,0:09:29.71,Default,,0000,0000,0000,,¿Te acuerdas de cuando te \Nhice aquel plato de konjac?
+Dialogue: 0,0:09:30.46,0:09:32.34,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:32.34,0:09:36.59,Default,,0000,0000,0000,,Esta vez le pregunté tu \Nplato favorito a Miyamoto
+Dialogue: 0,0:09:36.59,0:09:38.92,Default,,0000,0000,0000,,y preparé esto.
+Dialogue: 0,0:09:39.72,0:09:40.87,Default,,0000,0000,0000,,Batata confitada.
+Dialogue: 0,0:09:42.81,0:09:45.00,Italics,,0000,0000,0000,,¡¿Po-por qué ahora?!
+Dialogue: 0,0:09:45.00,0:09:47.13,Italics,,0000,0000,0000,,Mi plato favorito está frente a mí.
+Dialogue: 0,0:09:47.13,0:09:48.81,Italics,,0000,0000,0000,,¿Qué hago? Quiero comérmelo.
+Dialogue: 0,0:09:49.56,0:09:51.10,Italics,,0000,0000,0000,,Huele estupendamente.
+Dialogue: 0,0:09:51.10,0:09:54.19,Italics,,0000,0000,0000,,Ichijo-kun es genial. Solo con \Nverlo sabes que estará bueno.
+Dialogue: 0,0:09:54.19,0:09:58.20,Italics,,0000,0000,0000,,No me digas que lo hizo para mí...
+Dialogue: 0,0:09:58.20,0:09:59.96,Italics,,0000,0000,0000,,¡No, no, no!
+Dialogue: 0,0:10:00.33,0:10:02.83,Italics,,0000,0000,0000,,Decidí que hoy no comería nada
+Dialogue: 0,0:10:02.83,0:10:05.22,Italics,,0000,0000,0000,,porque ayer engordé aún más.
+Dialogue: 0,0:10:06.46,0:10:11.32,Italics,,0000,0000,0000,,Pero ya que Ichijo-kun lo preparó...
+Dialogue: 0,0:10:11.32,0:10:13.18,Italics,,0000,0000,0000,,Solo un bocado.
+Dialogue: 0,0:10:11.91,0:10:13.90,Default,,0000,0000,0000,,¿O-Onodera?
+Dialogue: 0,0:10:13.18,0:10:15.21,Italics,,0000,0000,0000,,Solo un bocado...
+Dialogue: 0,0:10:15.59,0:10:18.59,Default,,0000,0000,0000,,No lo comas si no quieres.
+Dialogue: 0,0:10:20.10,0:10:22.36,Default,,0000,0000,0000,,L-lo siento, Ichijo-kun.
+Dialogue: 0,0:10:22.36,0:10:26.34,Default,,0000,0000,0000,,La verdad es que no tengo hambre.
+Dialogue: 0,0:10:26.34,0:10:29.52,Default,,0000,0000,0000,,¡Siento no tener hambre!
+Dialogue: 0,0:10:27.91,0:10:29.52,Default,,0000,0000,0000,,¿Qué? ¡Oye!
+Dialogue: 0,0:10:29.52,0:10:32.97,Italics,,0000,0000,0000,,¿Es tan grave que ni siquiera \Nquiere comer su plato favorito?
+Dialogue: 0,0:10:32.97,0:10:34.89,Italics,,0000,0000,0000,,¿Seguro que está bien?
+Dialogue: 0,0:10:39.77,0:10:41.66,Default,,0000,0000,0000,,¡Quería comerlo!
+Dialogue: 0,0:10:41.66,0:10:43.61,Default,,0000,0000,0000,,Seguro que estaba delicioso.
+Dialogue: 0,0:10:43.61,0:10:46.40,Default,,0000,0000,0000,,Y Ichijo-kun se tomó la \Nmolestia de prepararlo.
+Dialogue: 0,0:10:46.40,0:10:48.41,Default,,0000,0000,0000,,¡Soy una estúpida!
+Dialogue: 0,0:10:51.45,0:10:53.31,Italics,,0000,0000,0000,,¿Qué estoy haciendo?
+Dialogue: 0,0:10:53.31,0:10:55.42,Italics,,0000,0000,0000,,Vuelvo a dar rodeos.
+Dialogue: 0,0:10:55.90,0:10:59.62,Italics,,0000,0000,0000,,Volví a herir a Ichijo-kun por ser egoísta.
+Dialogue: 0,0:11:00.18,0:11:02.00,Italics,,0000,0000,0000,,¿Cómo me disculpo?
+Dialogue: 0,0:11:02.00,0:11:04.68,Italics,,0000,0000,0000,,¿Me preparará alguna otra cosa de nuevo?
+Dialogue: 0,0:11:13.31,0:11:16.57,Default,,0000,0000,0000,,¿T-te parece mejor un té, Onodera?
+Dialogue: 0,0:11:18.46,0:11:19.61,Default,,0000,0000,0000,,Perdón.
+Dialogue: 0,0:11:19.61,0:11:22.59,Default,,0000,0000,0000,,Parece que me metí donde no me llamaban.
+Dialogue: 0,0:11:22.59,0:11:26.08,Default,,0000,0000,0000,,Como últimamente no comes mucho,
+Dialogue: 0,0:11:26.55,0:11:29.00,Default,,0000,0000,0000,,pensé que tu plato favorito \Nte abriría el apetito.
+Dialogue: 0,0:11:29.58,0:11:32.24,Default,,0000,0000,0000,,¿T-te preocupa algo?
+Dialogue: 0,0:11:32.24,0:11:34.56,Default,,0000,0000,0000,,Puedes pedirme consejo, si quieres.
+Dialogue: 0,0:11:34.56,0:11:36.09,Default,,0000,0000,0000,,Ichijo-kun...
+Dialogue: 0,0:11:36.47,0:11:38.59,Italics,,0000,0000,0000,,Así que estaba preocupado.
+Dialogue: 0,0:11:39.02,0:11:40.91,Italics,,0000,0000,0000,,No debí rechazar su comida.
+Dialogue: 0,0:11:40.91,0:11:43.09,Italics,,0000,0000,0000,,Es todo culpa mía.
+Dialogue: 0,0:11:43.88,0:11:46.09,Italics,,0000,0000,0000,,¿Qué hago?
+Dialogue: 0,0:11:47.51,0:11:49.72,Italics,,0000,0000,0000,,Me hace muy feliz.
+Dialogue: 0,0:11:51.24,0:11:54.01,Default,,0000,0000,0000,,Gracias por preocuparte.
+Dialogue: 0,0:11:54.34,0:11:56.52,Default,,0000,0000,0000,,Pero no es nada grave.
+Dialogue: 0,0:11:56.52,0:11:57.76,Default,,0000,0000,0000,,¿Seguro?
+Dialogue: 0,0:11:57.76,0:11:59.36,Default,,0000,0000,0000,,Está bien.
+Dialogue: 0,0:12:04.11,0:12:07.62,Default,,0000,0000,0000,,Pero deberías comer adecuadamente.
+Dialogue: 0,0:12:07.62,0:12:09.58,Default,,0000,0000,0000,,Estás muy delgada.
+Dialogue: 0,0:12:09.58,0:12:11.61,Default,,0000,0000,0000,,Si no comes bien te desmayarás.
+Dialogue: 0,0:12:16.41,0:12:18.49,Default,,0000,0000,0000,,¿Por qué te ríes?
+Dialogue: 0,0:12:18.49,0:12:20.38,Default,,0000,0000,0000,,Por nada.
+Dialogue: 0,0:12:23.85,0:12:25.77,Default,,0000,0000,0000,,¿Qué es lo que te preocupa?
+Dialogue: 0,0:12:25.77,0:12:27.08,Default,,0000,0000,0000,,Nada.
+Dialogue: 0,0:12:27.08,0:12:28.80,Default,,0000,0000,0000,,Ya está solucionado.
+Dialogue: 0,0:12:28.80,0:12:29.82,Default,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:12:39.19,0:12:41.03,Default,,0000,0000,0000,,Esa balanza está estropeada.
+Dialogue: 0,0:12:42.42,0:12:45.18,Default,,0000,0000,0000,,Haberlo dicho antes. ¡Qué susto!
+Dialogue: 0,0:13:44.51,0:13:48.65,Titulo,,0000,0000,0000,,{\fs22\b0}Buenos días
+Dialogue: 0,0:13:55.70,0:13:58.63,Italics,,0000,0000,0000,,Me llamo Kosaki Onodera.
+Dialogue: 0,0:14:00.49,0:14:05.15,Italics,,0000,0000,0000,,En tercero de secundaria{iris- último curso} estaba enamorada...
+Dialogue: 0,0:14:06.18,0:14:09.29,Italics,,0000,0000,0000,,de Raku Ichijo, de la misma clase.
+Dialogue: 0,0:14:10.04,0:14:14.97,Italics,,0000,0000,0000,,No era especialmente bueno ni \Nen los estudios ni los deportes,
+Dialogue: 0,0:14:15.74,0:14:21.48,Italics,,0000,0000,0000,,pero me encantaba su amabilidad pura.
+Dialogue: 0,0:14:24.31,0:14:28.17,Italics,,0000,0000,0000,,En segundo curso fuimos a la \Nmisma clase por primera vez
+Dialogue: 0,0:14:28.52,0:14:33.43,Italics,,0000,0000,0000,,y en tercero por fin empezamos a hablar.
+Dialogue: 0,0:14:33.77,0:14:37.15,Italics,,0000,0000,0000,,Pero normalmente no interactuábamos mucho
+Dialogue: 0,0:14:37.15,0:14:40.44,Italics,,0000,0000,0000,,y casi nunca iniciaba una \Nconversación con él.
+Dialogue: 0,0:14:40.78,0:14:44.51,Italics,,0000,0000,0000,,Su "buenos días" por la mañana \Ny su "hasta otra" por la tarde...
+Dialogue: 0,0:14:44.51,0:14:47.46,Italics,,0000,0000,0000,,eran lo que esperaba con ganas cada día.
+Dialogue: 0,0:14:47.46,0:14:49.47,Texto,,0000,0000,0000,,Cuestionario de Aspiraciones para el Futuro   \NPreparatoria para Chicas Otori
+Dialogue: 0,0:14:50.07,0:14:51.02,Default,,0000,0000,0000,,Bien.
+Dialogue: 0,0:14:51.02,0:14:52.30,Default,,0000,0000,0000,,Sin embargo...
+Dialogue: 0,0:14:52.62,0:14:55.96,Default,,0000,0000,0000,,Raku, tú ya decidiste a qué \Npreparatoria irás, ¿no?
+Dialogue: 0,0:14:55.96,0:14:57.95,Default,,0000,0000,0000,,Sí. A la Bonyari.
+Dialogue: 0,0:14:58.66,0:15:00.59,Default,,0000,0000,0000,,¿Tú también?
+Dialogue: 0,0:15:00.59,0:15:04.11,Default,,0000,0000,0000,,Lo mejor es que esté \Ncerca de casa, ¿verdad?
+Dialogue: 0,0:15:04.11,0:15:05.48,Default,,0000,0000,0000,,Estaremos juntos de nuevo.
+Dialogue: 0,0:15:05.48,0:15:07.28,Default,,0000,0000,0000,,¿Contigo otra vez?
+Dialogue: 0,0:15:07.28,0:15:09.21,Default,,0000,0000,0000,,¿Es que no te gusta?
+Dialogue: 0,0:15:10.20,0:15:14.97,Italics,,0000,0000,0000,,Era obvio, pero cuando dejara esa \Nescuela ya no vería a Ichijo-kun.
+Dialogue: 0,0:15:16.18,0:15:20.74,Italics,,0000,0000,0000,,Pronto no nos diremos "buenos \Ndías" ni "hasta otra".
+Dialogue: 0,0:15:21.46,0:15:23.70,Italics,,0000,0000,0000,,Es muy triste...
+Dialogue: 0,0:15:25.72,0:15:28.33,Italics,,0000,0000,0000,,Me gustaría pasar más \Ntiempo con Ichijo-kun.
+Dialogue: 0,0:15:28.73,0:15:31.13,Italics,,0000,0000,0000,,Me gustaría hablar más con él.
+Dialogue: 0,0:15:37.12,0:15:40.66,Default,,0000,0000,0000,,Ruri-chan, ¡haré el examen \Npara la preparatoria Bonyari!
+Dialogue: 0,0:15:42.34,0:15:45.55,Default,,0000,0000,0000,,¿No ibas a ir a la Preparatoria \Npara Chicas Otori
+Dialogue: 0,0:15:45.55,0:15:48.86,Default,,0000,0000,0000,,porque había muchas \Npastelerías buenas cerca?
+Dialogue: 0,0:15:49.24,0:15:51.55,Default,,0000,0000,0000,,Sí, pero...
+Dialogue: 0,0:15:51.55,0:15:55.18,Italics,,0000,0000,0000,,Ahora que lo pienso, Ichijo-kun \Ndijo que iría a la Bonyari.
+Dialogue: 0,0:15:56.30,0:15:58.06,Default,,0000,0000,0000,,¿Por qué pones esa cara?
+Dialogue: 0,0:15:58.06,0:16:01.37,Default,,0000,0000,0000,,Entonces yo también iré a la Bonyari.
+Dialogue: 0,0:16:01.37,0:16:03.10,Default,,0000,0000,0000,,Pero Ruri-chan, tú...
+Dialogue: 0,0:16:03.10,0:16:05.60,Default,,0000,0000,0000,,Tengo claro a qué universidad quiero ir,
+Dialogue: 0,0:16:05.60,0:16:08.44,Default,,0000,0000,0000,,pero la preparatoria no importa.
+Dialogue: 0,0:16:08.87,0:16:13.37,Default,,0000,0000,0000,,Aunque debes saber que la Preparatoria \NBonyari no tiene un nivel muy alto,
+Dialogue: 0,0:16:13.37,0:16:15.32,Default,,0000,0000,0000,,pero para ti será difícil.
+Dialogue: 0,0:16:15.32,0:16:17.61,Default,,0000,0000,0000,,No sacas muy buenas notas.
+Dialogue: 0,0:16:18.30,0:16:19.70,Italics,,0000,0000,0000,,Me esforzaré.
+Dialogue: 0,0:16:20.12,0:16:23.13,Italics,,0000,0000,0000,,Empecé a estudiar para el examen de ingreso.
+Dialogue: 0,0:16:24.01,0:16:26.86,Italics,,0000,0000,0000,,Iré a la misma escuela que \Nla persona que quiero.
+Dialogue: 0,0:16:26.86,0:16:28.78,Italics,,0000,0000,0000,,Es un motivo deshonesto,
+Dialogue: 0,0:16:28.78,0:16:34.51,Italics,,0000,0000,0000,,pero para mí, que había vivido 15 \Naños sin un sueño u objetivo claro,
+Dialogue: 0,0:16:34.51,0:16:37.45,Italics,,0000,0000,0000,,no hay un motivo mejor.
+Dialogue: 0,0:16:37.86,0:16:42.20,Italics,,0000,0000,0000,,Probablemente fue la vez que \Nmás estudié en mi vida.
+Dialogue: 0,0:16:50.23,0:16:53.18,Italics,,0000,0000,0000,,Y el día del examen...
+Dialogue: 0,0:16:51.36,0:16:53.61,Texto,,0000,0000,0000,,Examen de Ingreso  \N\NEscuela Preparatoria Bonyari
+Dialogue: 0,0:16:56.36,0:16:58.62,Default,,0000,0000,0000,,¿O-Onodera?
+Dialogue: 0,0:16:58.62,0:17:01.28,Default,,0000,0000,0000,,¿Tú también quieres entrar a la Bonyari?
+Dialogue: 0,0:17:01.28,0:17:04.04,Default,,0000,0000,0000,,Pu-pues sí.
+Dialogue: 0,0:17:04.04,0:17:06.50,Default,,0000,0000,0000,,¡Habérmelo dicho!
+Dialogue: 0,0:17:06.92,0:17:09.26,Default,,0000,0000,0000,,Ya veo...
+Dialogue: 0,0:17:10.50,0:17:12.27,Default,,0000,0000,0000,,Esforcémonos mucho hoy
+Dialogue: 0,0:17:12.27,0:17:14.01,Default,,0000,0000,0000,,para aprobar los dos.
+Dialogue: 0,0:17:15.51,0:17:16.51,Default,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:17:16.51,0:17:19.98,Italics,,0000,0000,0000,,Tuve la intensa sensación de que aprobaría.
+Dialogue: 0,0:17:20.51,0:17:23.44,Default,,0000,0000,0000,,Pensaba que estarías más asustada.
+Dialogue: 0,0:17:23.44,0:17:25.29,Default,,0000,0000,0000,,Estoy bien.
+Dialogue: 0,0:17:25.29,0:17:26.27,Default,,0000,0000,0000,,Estaré bien.
+Dialogue: 0,0:17:26.27,0:17:28.52,Default,,0000,0000,0000,,Me esforcé mucho
+Dialogue: 0,0:17:28.52,0:17:31.52,Italics,,0000,0000,0000,,y Ruri-chan me ayudó en todo lo que pudo.
+Dialogue: 0,0:17:31.90,0:17:34.78,Italics,,0000,0000,0000,,Solo tengo que demostrar que puedo hacerlo.
+Dialogue: 0,0:17:34.78,0:17:37.30,Italics,,0000,0000,0000,,¡Aprobaremos los dos!
+Dialogue: 0,0:17:46.86,0:17:49.63,Texto,,0000,0000,0000,,Aprobados  \N\NGrupo 5     Grupo 6     Grupo 7     Grupo 8
+Dialogue: 0,0:17:48.15,0:17:49.63,Italics,,0000,0000,0000,,Suspendí.
+Dialogue: 0,0:17:53.00,0:17:55.50,Italics,,0000,0000,0000,,Todo fue en vano.
+Dialogue: 0,0:17:56.50,0:17:58.68,Italics,,0000,0000,0000,,Ya no podré decirle "buenos días".
+Dialogue: 0,0:17:59.27,0:18:01.98,Italics,,0000,0000,0000,,Ya no me dirá "hasta otra".
+Dialogue: 0,0:18:03.43,0:18:05.27,Default,,0000,0000,0000,,¿Cómo te fue, Kosaki?
+Dialogue: 0,0:18:08.04,0:18:11.10,Default,,0000,0000,0000,,Oye, ¿a dónde vas, Kosaki?
+Dialogue: 0,0:18:11.10,0:18:15.94,Default,,0000,0000,0000,,¡Espera! ¡Oye!
+Dialogue: 0,0:18:19.70,0:18:23.82,Default,,0000,0000,0000,,¡Mamá, es terrible! \N¡Kosaki parece un garabato!
+Dialogue: 0,0:18:24.31,0:18:28.95,Italics,,0000,0000,0000,,No puedo mirar a Ruri-chan \Nni a Ichijo-kun a la cara.
+Dialogue: 0,0:18:39.38,0:18:41.42,Italics,,0000,0000,0000,,Es triste.
+Dialogue: 0,0:18:44.50,0:18:46.34,Italics,,0000,0000,0000,,Si iba a pasar esto...
+Dialogue: 0,0:18:46.76,0:18:49.54,Italics,,0000,0000,0000,,debería haberle confesado mis sentimientos.
+Dialogue: 0,0:18:57.36,0:18:58.53,Default,,0000,0000,0000,,¿Onodera?
+Dialogue: 0,0:19:03.83,0:19:06.60,Default,,0000,0000,0000,,¿Qué haces aquí?
+Dialogue: 0,0:19:07.42,0:19:09.08,Default,,0000,0000,0000,,Ichijo-kun...
+Dialogue: 0,0:19:09.08,0:19:11.71,Default,,0000,0000,0000,,¿Y tú, Ichijo-kun?
+Dialogue: 0,0:19:11.71,0:19:14.84,Default,,0000,0000,0000,,Tenía que prepararme para la \Nsesión informativa de mañana.
+Dialogue: 0,0:19:15.27,0:19:18.09,Italics,,0000,0000,0000,,Se me acelera el corazón incluso ahora.
+Dialogue: 0,0:19:18.71,0:19:21.16,Italics,,0000,0000,0000,,Seguro que soy una estúpida.
+Dialogue: 0,0:19:22.66,0:19:24.86,Default,,0000,0000,0000,,Ya escuché tu resultado.
+Dialogue: 0,0:19:34.39,0:19:38.38,Italics,,0000,0000,0000,,Ichijo-kun no preguntó nada más.
+Dialogue: 0,0:19:42.65,0:19:45.38,Italics,,0000,0000,0000,,Ichijo-kun es muy amable.
+Dialogue: 0,0:19:45.96,0:19:48.62,Italics,,0000,0000,0000,,Sería tan feliz si fuera \Na su misma escuela...
+Dialogue: 0,0:19:50.36,0:19:54.16,Default,,0000,0000,0000,,¿No tienes frío?
+Dialogue: 0,0:19:54.16,0:19:55.77,Default,,0000,0000,0000,,¿Quieres mi bufanda?
+Dialogue: 0,0:19:55.77,0:19:58.25,Default,,0000,0000,0000,,¿Qué? N-no es necesario.
+Dialogue: 0,0:19:58.25,0:19:59.56,Default,,0000,0000,0000,,Vamos, úsala.
+Dialogue: 0,0:19:59.56,0:20:01.28,Default,,0000,0000,0000,,Me da frío solo de verte.
+Dialogue: 0,0:20:01.28,0:20:03.87,Default,,0000,0000,0000,,Así te resfriarás tú.
+Dialogue: 0,0:20:03.87,0:20:05.50,Default,,0000,0000,0000,,Tranquila, úsala.
+Dialogue: 0,0:20:05.50,0:20:07.14,Default,,0000,0000,0000,,No la necesito, de verdad.
+Dialogue: 0,0:20:07.14,0:20:09.18,Default,,0000,0000,0000,,Pues la compartiremos.
+Dialogue: 0,0:20:09.18,0:20:11.03,Default,,0000,0000,0000,,Así no tienes quejas, ¿no?
+Dialogue: 0,0:20:25.72,0:20:28.50,Italics,,0000,0000,0000,,Parecemos una pareja.
+Dialogue: 0,0:20:30.58,0:20:32.48,Default,,0000,0000,0000,,Es una bufanda muy larga.
+Dialogue: 0,0:20:32.48,0:20:35.55,Default,,0000,0000,0000,,Últimamente estaba haciendo \Nbufandas para los de casa
+Dialogue: 0,0:20:35.55,0:20:36.84,Default,,0000,0000,0000,,y tejí demasiadas.
+Dialogue: 0,0:20:36.84,0:20:38.42,Default,,0000,0000,0000,,¿Está hecha a mano?
+Dialogue: 0,0:20:39.00,0:20:43.00,Italics,,0000,0000,0000,,¿Qué hago? Soy extremadamente feliz.
+Dialogue: 0,0:20:43.00,0:20:46.05,Italics,,0000,0000,0000,,Puede que esta sea la oportunidad \Npara declarársele.
+Dialogue: 0,0:20:46.58,0:20:49.18,Italics,,0000,0000,0000,,Pero no soy capaz.
+Dialogue: 0,0:20:55.23,0:20:57.03,Default,,0000,0000,0000,,Oye, Onodera...
+Dialogue: 0,0:20:58.82,0:21:00.18,Default,,0000,0000,0000,,Yo...
+Dialogue: 0,0:21:07.58,0:21:09.90,Default,,0000,0000,0000,,¡Lo siento! ¡Me está llamando mi madre!
+Dialogue: 0,0:21:09.90,0:21:11.26,Default,,0000,0000,0000,,Tranquila, tranquila.
+Dialogue: 0,0:21:11.26,0:21:12.33,Default,,0000,0000,0000,,Contesta.
+Dialogue: 0,0:21:12.66,0:21:14.07,Default,,0000,0000,0000,,¿Diga?
+Dialogue: 0,0:21:16.96,0:21:18.36,Default,,0000,0000,0000,,¿Aprobé?
+Dialogue: 0,0:21:19.34,0:21:23.09,Default,,0000,0000,0000,,Dice que acaban de informarla \Nde que entré en la Bonyari...
+Dialogue: 0,0:21:23.46,0:21:25.53,Default,,0000,0000,0000,,porque quedó una plaza libre.
+Dialogue: 0,0:21:26.59,0:21:29.05,Default,,0000,0000,0000,,¡¿E-en serio?!
+Dialogue: 0,0:21:30.85,0:21:32.46,Default,,0000,0000,0000,,¡Es increíble!
+Dialogue: 0,0:21:32.46,0:21:35.36,Default,,0000,0000,0000,,¡Qué bueno!
+Dialogue: 0,0:21:33.83,0:21:38.42,Texto,,0000,0000,0000,,{\i1}Ichijo-kun se alegró mucho de que aprobara,
+Dialogue: 0,0:21:35.36,0:21:37.62,Default,,0000,0000,0000,,¡Genial!
+Dialogue: 0,0:21:38.81,0:21:41.05,Texto,,0000,0000,0000,,{\i1}como si se tratara de él mismo.
+Dialogue: 0,0:21:41.37,0:21:43.94,Texto,,0000,0000,0000,,{\i1}Quizás incluso se alegró demasiado.
+Dialogue: 0,0:21:42.41,0:21:45.80,Default,,0000,0000,0000,,¡Hurra! ¡Hurra! ¡Hurra!
+Dialogue: 0,0:21:44.71,0:21:46.79,Texto,,0000,0000,0000,,{\i1}Realmente es un buen chico.
+Dialogue: 0,0:21:47.77,0:21:52.41,Default,,0000,0000,0000,,Entonces mañana iremos los \Ndos a la sesión informativa.
+Dialogue: 0,0:21:52.41,0:21:53.59,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:21:56.87,0:21:59.00,Default,,0000,0000,0000,,¡Hasta otra, Onodera!
+Dialogue: 0,0:22:00.88,0:22:02.03,Default,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:22:02.03,0:22:04.28,Default,,0000,0000,0000,,¡Hasta otra, Ichijo-kun!
+Dialogue: 0,0:22:07.46,0:22:12.92,Italics,,0000,0000,0000,,Creo que después de ese día, Ichijo-kun \Ny yo empezamos a hablar más.
+Dialogue: 0,0:22:17.50,0:22:18.65,Italics,,0000,0000,0000,,Aun así...
+Dialogue: 0,0:22:19.32,0:22:25.46,Italics,,0000,0000,0000,,Ya estamos en segundo de preparatoria \Ny mi romance sigue sin florecer.
+Dialogue: 0,0:22:26.15,0:22:28.79,Italics,,0000,0000,0000,,Pero mi felicidad continúa.
+Dialogue: 0,0:22:29.19,0:22:31.29,Default,,0000,0000,0000,,¡Onodera!
+Dialogue: 0,0:22:35.41,0:22:37.83,Default,,0000,0000,0000,,Buenos días, Ichijo-kun.

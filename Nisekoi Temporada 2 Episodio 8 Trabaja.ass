@@ -1,0 +1,464 @@
+﻿[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Texto,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0010,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Titulo,Trebuchet MS,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0031,1
+Style: Titulo2,Times New Roman,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0014,1
+Style: Introtexto,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,0010,0010,0010,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.74,0:00:07.48,Default,,0000,0000,0000,,El pacto ya está hecho, Kosaki-chan.
+Dialogue: 0,0:00:07.85,0:00:12.22,Default,,0000,0000,0000,,A partir de ahora serás la heroína \N{iris- "Magical Girl"}Magical Pâtissier Kosaki-chan
+Dialogue: 0,0:00:12.22,0:00:15.87,Default,,0000,0000,0000,,y ayudarás a la gente a mantener \Nla paz en el mundo, ¿de acuerdo?
+Dialogue: 0,0:00:15.87,0:00:17.99,Default,,0000,0000,0000,,¡Sí, Rurin-san!
+Dialogue: 0,0:00:18.74,0:00:20.49,Default,,0000,0000,0000,,Olvidé decirte una cosa.
+Dialogue: 0,0:00:20.49,0:00:24.38,Default,,0000,0000,0000,,Mientras te transformas, estarás \Ndesnuda durante unos segundos.
+Dialogue: 0,0:00:24.38,0:00:25.51,Default,,0000,0000,0000,,No te importa, ¿verdad?
+Dialogue: 0,0:00:27.21,0:00:29.16,Default,,0000,0000,0000,,¿Qué acabas de decir?
+Dialogue: 0,0:00:29.16,0:00:30.46,Default,,0000,0000,0000,,¿Desnuda?
+Dialogue: 0,0:00:30.46,0:00:33.48,Default,,0000,0000,0000,,Vamos allá. ¡Transformación!
+Dialogue: 0,0:00:48.06,0:00:51.32,Default,,0000,0000,0000,,¡Vamos a salvar a gente en apuros!
+Dialogue: 0,0:00:52.78,0:00:54.24,Default,,0000,0000,0000,,¿Qué estás haciendo?
+Dialogue: 0,0:00:54.24,0:00:55.15,Default,,0000,0000,0000,,Nada.
+Dialogue: 0,0:00:55.15,0:00:57.90,Default,,0000,0000,0000,,Solo pensaba que esto será problemático.
+Dialogue: 0,0:02:06.25,0:02:12.03,Titulo,,0000,0000,0000,,{\3c&HB1ECED&\c&H115AC7&}¡Magical Pâtissier \N{\c&HC508CD&}Kosaki-chan!
+Dialogue: 0,0:02:24.84,0:02:28.83,Default,,0000,0000,0000,,¿Podrías dejar de ir al baño \Ncada vez que te transformas?
+Dialogue: 0,0:02:28.83,0:02:30.19,Default,,0000,0000,0000,,Perdemos tiempo.
+Dialogue: 0,0:02:30.19,0:02:33.21,Default,,0000,0000,0000,,No voy a desnudarme delante de todo el mundo.
+Dialogue: 0,0:02:33.21,0:02:35.92,Default,,0000,0000,0000,,¿Qué más da? No es para tanto.
+Dialogue: 0,0:02:35.92,0:02:38.82,Default,,0000,0000,0000,,¡Sí lo es! ¡Me afectaría mentalmente!
+Dialogue: 0,0:02:40.13,0:02:42.03,Default,,0000,0000,0000,,Entonces usa esto.
+Dialogue: 0,0:02:42.03,0:02:44.68,Default,,0000,0000,0000,,Así podrás transformarte \Nen cualquier sitio, ¿no?
+Dialogue: 0,0:02:45.68,0:02:46.72,Default,,0000,0000,0000,,¡Ya veo!
+Dialogue: 0,0:02:46.72,0:02:49.39,Default,,0000,0000,0000,,Pues a transformarse, Kosaki-chan.
+Dialogue: 0,0:02:49.39,0:02:50.39,Default,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:02:53.55,0:02:56.60,Default,,0000,0000,0000,,Rurin-chan, así también me verán.
+Dialogue: 0,0:02:54.50,0:02:57.70,Default,,0000,0000,0000,,Das pena, Magical Pâtissier.
+Dialogue: 0,0:02:56.60,0:02:57.70,Default,,0000,0000,0000,,No te quejes.
+Dialogue: 0,0:02:58.86,0:03:02.50,Default,,0000,0000,0000,,¿Crees que así puedes ser una heroína?
+Dialogue: 0,0:03:03.18,0:03:04.18,Default,,0000,0000,0000,,¡¿Quién anda ahí?!
+Dialogue: 0,0:03:04.18,0:03:05.58,Texto,,0000,0000,0000,,Continuará...
+Dialogue: 0,0:03:06.18,0:03:08.55,Default,,0000,0000,0000,,¿Tú eres la heroína de esta ciudad?
+Dialogue: 0,0:03:09.03,0:03:13.28,Default,,0000,0000,0000,,¿Crees que así podrás defender \Nel amor y la paz en el mundo?
+Dialogue: 0,0:03:13.28,0:03:15.17,Default,,0000,0000,0000,,¿Qu-quién eres?
+Dialogue: 0,0:03:15.52,0:03:19.48,Default,,0000,0000,0000,,Soy la heroína del amor del pueblo \Nvecino que protege la paz del mundo,
+Dialogue: 0,0:03:19.48,0:03:21.68,Default,,0000,0000,0000,,Marika Tachibana.
+Dialogue: 0,0:03:22.44,0:03:25.20,Default,,0000,0000,0000,,¡¿Hay más heroínas aparte de mí?!
+Dialogue: 0,0:03:25.20,0:03:26.27,Default,,0000,0000,0000,,Claro que sí.
+Dialogue: 0,0:03:26.27,0:03:29.52,Default,,0000,0000,0000,,Si me lo dices de repente, me cuesta creerlo.
+Dialogue: 0,0:03:29.52,0:03:33.04,Default,,0000,0000,0000,,Si sientes vergüenza cada \Nvez que vas a transformarte,
+Dialogue: 0,0:03:33.04,0:03:35.61,Default,,0000,0000,0000,,no eres una heroína digna de ese título.
+Dialogue: 0,0:03:35.61,0:03:39.16,Default,,0000,0000,0000,,Te enseñaré la transformación \Nde una verdadera heroína.
+Dialogue: 0,0:03:39.16,0:03:40.78,Default,,0000,0000,0000,,¡Vamos, Hondarsen!
+Dialogue: 0,0:03:40.78,0:03:41.78,Default,,0000,0000,0000,,Como desee.
+Dialogue: 0,0:03:44.24,0:03:47.20,Default,,0000,0000,0000,,¡Transformación!
+Dialogue: 0,0:03:53.24,0:03:56.46,Default,,0000,0000,0000,,¡Ya llegó la Magical Police Marika-chan!
+Dialogue: 0,0:03:53.24,0:03:56.46,Titulo2,,0000,0000,0000,,Ya llegó la Magical Police Marika-chan
+Dialogue: 0,0:03:59.05,0:04:02.47,Italics,,0000,0000,0000,,Esta chica no siente vergüenza alguna.
+Dialogue: 0,0:04:02.47,0:04:04.09,Default,,0000,0000,0000,,Aprende de ella.
+Dialogue: 0,0:04:04.09,0:04:05.76,Texto,,0000,0000,0000,,Continuará...
+Dialogue: 0,0:04:07.50,0:04:11.39,Default,,0000,0000,0000,,Otras heroínas como usted deben \Nestar reunidas en la ciudad.
+Dialogue: 0,0:04:12.60,0:04:14.35,Default,,0000,0000,0000,,No parece muy entusiasmada.
+Dialogue: 0,0:04:14.35,0:04:16.89,Default,,0000,0000,0000,,Y eso que antes de formar \Nel pacto sí lo estaba.
+Dialogue: 0,0:04:16.89,0:04:18.52,Default,,0000,0000,0000,,Pues claro.
+Dialogue: 0,0:04:18.52,0:04:22.04,Default,,0000,0000,0000,,¡¿Por qué tengo que ser \NMagical Gorila Chitoge-chan?!
+Dialogue: 0,0:04:22.04,0:04:25.26,Default,,0000,0000,0000,,¡"Magical Gorila" no es nada lindo!
+Dialogue: 0,0:04:25.26,0:04:29.49,Default,,0000,0000,0000,,¡Esperaba algo más lindo, \Ndigno de una heroína!
+Dialogue: 0,0:04:29.90,0:04:30.92,Default,,0000,0000,0000,,¿Eso cree?
+Dialogue: 0,0:04:30.92,0:04:32.96,Default,,0000,0000,0000,,Yo diría que es lindo.
+Dialogue: 0,0:04:34.63,0:04:39.82,Default,,0000,0000,0000,,La ropa de una heroína es una \Nmaterialización de sus talentos y habilidades.
+Dialogue: 0,0:04:39.82,0:04:41.76,Default,,0000,0000,0000,,Yo no puedo hacer nada al respecto.
+Dialogue: 0,0:04:42.09,0:04:46.84,Default,,0000,0000,0000,,La verdad es que me sorprendí cuando \Nhice añicos el cemento con un golpecito.
+Dialogue: 0,0:04:46.84,0:04:50.65,Default,,0000,0000,0000,,En fin, debe ir a buscar a sus compañeras.
+Dialogue: 0,0:04:50.65,0:04:55.64,Default,,0000,0000,0000,,¿No crees que si voy a buscarlas con un \Ngato que habla llamaré mucho la atención?
+Dialogue: 0,0:04:55.64,0:04:58.77,Default,,0000,0000,0000,,¿Quiere que me transforme en humana?
+Dialogue: 0,0:05:00.32,0:05:01.87,Default,,0000,0000,0000,,¿Puedes hacer eso?
+Dialogue: 0,0:05:01.87,0:05:02.68,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:05:02.68,0:05:06.28,Default,,0000,0000,0000,,Es una habilidad necesaria para \Nadaptarse al mundo humano.
+Dialogue: 0,0:05:06.66,0:05:08.62,Default,,0000,0000,0000,,Transformación.
+Dialogue: 0,0:05:31.31,0:05:33.92,Default,,0000,0000,0000,,¡¿Por qué tu ropa es \Nmás linda que la mía?!
+Dialogue: 0,0:05:33.92,0:05:34.99,Default,,0000,0000,0000,,¡No es justo!
+Dialogue: 0,0:05:34.99,0:05:37.06,Default,,0000,0000,0000,,¡Cámbiamela!
+Dialogue: 0,0:05:37.51,0:05:38.90,Default,,0000,0000,0000,,No sé qué decirle...
+Dialogue: 0,0:05:43.07,0:05:44.44,Texto,,0000,0000,0000,,Continuará...
+Dialogue: 0,0:05:44.79,0:05:48.27,Default,,0000,0000,0000,,Se reunieron en esta ciudad \Npor un solo motivo.
+Dialogue: 0,0:05:48.27,0:05:52.18,Default,,0000,0000,0000,,A partir de ahora deberán \Nactuar como un equipo.
+Dialogue: 0,0:05:52.52,0:05:56.16,Default,,0000,0000,0000,,Deberán unir sus fuerzas para \Nenfrentarse a los peones del mal
+Dialogue: 0,0:05:56.16,0:05:58.62,Default,,0000,0000,0000,,que últimamente causan \Nestragos por el mundo.
+Dialogue: 0,0:05:58.62,0:06:00.43,Default,,0000,0000,0000,,¡Déjamelo a mí!
+Dialogue: 0,0:06:00.43,0:06:02.06,Default,,0000,0000,0000,,Ahora seremos más.
+Dialogue: 0,0:06:02.06,0:06:03.87,Default,,0000,0000,0000,,¿Podré hacerme amiga suya?
+Dialogue: 0,0:06:03.87,0:06:07.53,Default,,0000,0000,0000,,Sé que es repentino, pero \N¿podrían elegir a la líder?
+Dialogue: 0,0:06:07.53,0:06:08.81,Default,,0000,0000,0000,,¿Líder?
+Dialogue: 0,0:06:08.81,0:06:10.67,Default,,0000,0000,0000,,Si necesitamos una líder,
+Dialogue: 0,0:06:10.67,0:06:15.56,Default,,0000,0000,0000,,creo que por experiencia y talento, \Nyo soy la adecuada para el puesto.
+Dialogue: 0,0:06:15.56,0:06:16.94,Default,,0000,0000,0000,,¡No es justo!
+Dialogue: 0,0:06:16.94,0:06:18.77,Default,,0000,0000,0000,,¡Yo también quiero ser líder!
+Dialogue: 0,0:06:20.51,0:06:21.63,Texto,,0000,0000,0000,,Tratar con Precaución
+Dialogue: 0,0:06:21.61,0:06:25.07,Default,,0000,0000,0000,,Tú eres una novata recién \Nconvertida en heroína, ¿no?
+Dialogue: 0,0:06:26.32,0:06:27.82,Default,,0000,0000,0000,,¡Eso no importa!
+Dialogue: 0,0:06:29.07,0:06:30.70,Default,,0000,0000,0000,,Cálmense.
+Dialogue: 0,0:06:30.70,0:06:33.72,Default,,0000,0000,0000,,Seamos justos. Decídanlo \Na piedra, papel, tijeras.
+Dialogue: 0,0:06:36.45,0:06:38.07,Italics,,0000,0000,0000,,Gané...
+Dialogue: 0,0:06:38.83,0:06:43.21,Default,,0000,0000,0000,,Pero aunque sea la líder, no recibiré \Ntratamiento especial, ¿no?
+Dialogue: 0,0:06:43.21,0:06:45.21,Default,,0000,0000,0000,,Sí lo harás.
+Dialogue: 0,0:06:45.21,0:06:49.45,Default,,0000,0000,0000,,Para empezar, obtienes la posición central \Na la hora de presentarse al enemigo.
+Dialogue: 0,0:06:45.21,0:06:50.43,Texto,,0000,0000,0000,,{\3c&H996A42&\c&HFCF9F7&}Entrevista a Kosaki-chan  \N{\3c&H2951B6&\c&H39E5EC&}Una combinación de velocidad e infortunio \N{\3c&HFCF9F7&\c&H303033&}Una nueva era
+Dialogue: 0,0:06:49.45,0:06:54.60,Default,,0000,0000,0000,,Además, podrás disfrutar de \Nfrases y poses geniales sola.
+Dialogue: 0,0:06:50.43,0:06:53.42,Texto,,0000,0000,0000,,{\3c&H656A67&\c&HFCF9F7&}Retorno                                                         {\3c&HFCF9F7&\c&H303033&}Terrible
+Dialogue: 0,0:06:53.42,0:06:54.60,Texto,,0000,0000,0000,,{\3c&H656A67&\c&HFCF9F7&}Beneficios de la sonrisa de Kosaki-chan
+Dialogue: 0,0:06:54.60,0:06:57.10,Default,,0000,0000,0000,,Aunque también tendrás más trabajos.
+Dialogue: 0,0:06:57.10,0:06:58.52,Default,,0000,0000,0000,,Qué envidia.
+Dialogue: 0,0:06:58.52,0:07:01.34,Default,,0000,0000,0000,,Sigo creyendo que yo debería ser la líder.
+Dialogue: 0,0:07:02.86,0:07:05.11,Default,,0000,0000,0000,,¿Qué otros trabajos tendré?
+Dialogue: 0,0:07:05.11,0:07:07.86,Default,,0000,0000,0000,,Tranquila, es simple papeleo.
+Dialogue: 0,0:07:08.18,0:07:13.66,Default,,0000,0000,0000,,Cada semana tendrás que presentar \Nun informe del trabajo del equipo.
+Dialogue: 0,0:07:13.66,0:07:19.55,Default,,0000,0000,0000,,Será la documentación que usará la \NSecretaría de Heroínas para valorar a nuestro equipo,
+Dialogue: 0,0:07:19.55,0:07:22.49,Default,,0000,0000,0000,,así que hazlos sencillos y precisos.
+Dialogue: 0,0:07:22.49,0:07:26.62,Default,,0000,0000,0000,,Deberás hacer una declaración final que \Nincluya a las integrantes por separado,
+Dialogue: 0,0:07:26.62,0:07:29.52,Default,,0000,0000,0000,,por consiguiente, guarda bien los \Nrecibos que necesitarás.
+Dialogue: 0,0:07:29.52,0:07:33.64,Default,,0000,0000,0000,,Organízalos por integrante y apunta \Nen qué se gastó ese dinero.
+Dialogue: 0,0:07:33.64,0:07:37.50,Default,,0000,0000,0000,,Aunque sean heroínas, sus superiores \Nno les conceden demasiado presupuesto.
+Dialogue: 0,0:07:37.50,0:07:40.99,Default,,0000,0000,0000,,Si no obtienen deducción \Nfiscal, se arrepentirán.
+Dialogue: 0,0:07:40.99,0:07:44.60,Default,,0000,0000,0000,,Los informes de daños de la \Npoblación acaban en la Secretaría.
+Dialogue: 0,0:07:44.60,0:07:47.29,Default,,0000,0000,0000,,Asegúrate de revisar bien \Nla sección de su área.
+Dialogue: 0,0:07:47.29,0:07:51.42,Default,,0000,0000,0000,,Primero deberás formalizar el equipo \Nen la Oficina de Heroínas del Distrito.
+Dialogue: 0,0:07:51.42,0:07:55.08,Default,,0000,0000,0000,,Después de obtener sus certificados de \Nresidencia y documentos de identidad,
+Dialogue: 0,0:07:55.08,0:07:59.50,Default,,0000,0000,0000,,debes ir al mostrador de declaración \Nde registro de nuevas heroínas.
+Dialogue: 0,0:08:01.50,0:08:03.63,Default,,0000,0000,0000,,Fácil, ¿verdad?
+Dialogue: 0,0:08:03.63,0:08:06.66,Default,,0000,0000,0000,,Encantada de trabajar contigo, líder.
+Dialogue: 0,0:08:05.74,0:08:11.42,Texto,,0000,0000,0000,,Mandarinas
+Dialogue: 0,0:08:06.66,0:08:09.31,Default,,0000,0000,0000,,¿Ese es el trabajo de una heroína?
+Dialogue: 0,0:08:09.31,0:08:11.42,Default,,0000,0000,0000,,Suerte que no tengo que hacerlo yo.
+Dialogue: 0,0:08:11.42,0:08:12.76,Texto,,0000,0000,0000,,¡Continuará!
+Dialogue: 0,0:08:19.00,0:08:22.03,Texto,,0000,0000,0000,,Mal
+Dialogue: 0,0:08:22.02,0:08:24.24,Default,,0000,0000,0000,,¡Apareció un Peón del Mal en Boyari!
+Dialogue: 0,0:08:24.24,0:08:27.70,Default,,0000,0000,0000,,¡Que las heroínas del área \Nse movilicen enseguida!
+Dialogue: 0,0:08:30.53,0:08:33.45,Default,,0000,0000,0000,,Es inútil. No somos rivales para él.
+Dialogue: 0,0:08:34.18,0:08:36.08,Default,,0000,0000,0000,,Me golpeé en la frente.
+Dialogue: 0,0:08:36.08,0:08:38.33,Default,,0000,0000,0000,,¡No podemos derrotarlo!
+Dialogue: 0,0:08:40.33,0:08:42.52,Default,,0000,0000,0000,,¡No se rindan, chicas!
+Dialogue: 0,0:08:43.48,0:08:45.04,Default,,0000,0000,0000,,No queda más remedio.
+Dialogue: 0,0:08:45.04,0:08:48.96,Default,,0000,0000,0000,,Llegados a esto, deberán aunar sus fuerzas \Npara lanzar un ataque letal combinado.
+Dialogue: 0,0:08:48.96,0:08:50.25,Default,,0000,0000,0000,,¡¿Un ataque letal?!
+Dialogue: 0,0:08:50.25,0:08:51.42,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:08:51.42,0:08:54.55,Default,,0000,0000,0000,,Aunque usarlo requiere unas \Ncondiciones muy estrictas.
+Dialogue: 0,0:08:55.29,0:08:59.82,Default,,0000,0000,0000,,Deben concentrar su magia durante \Ncinco minutos estando desnudas.
+Dialogue: 0,0:09:01.06,0:09:02.33,Default,,0000,0000,0000,,Lo sé.
+Dialogue: 0,0:09:02.33,0:09:05.73,Default,,0000,0000,0000,,Cinco minutos es demasiado tiempo \Ncuando estás en plena batalla.
+Dialogue: 0,0:09:05.73,0:09:07.12,Default,,0000,0000,0000,,¡Ese no es el problema!
+Dialogue: 0,0:09:07.12,0:09:10.75,Default,,0000,0000,0000,,Eso también es preocupante, \Npero ¡¿por qué desnudas?!
+Dialogue: 0,0:09:10.75,0:09:15.77,Default,,0000,0000,0000,,Es un ataque letal que gasta toda su magia.
+Dialogue: 0,0:09:15.77,0:09:19.55,Default,,0000,0000,0000,,Deben usar también la \Nde sus vestidos mágicos.
+Dialogue: 0,0:09:19.55,0:09:21.13,Default,,0000,0000,0000,,¡Pero es demasiado!
+Dialogue: 0,0:09:21.13,0:09:24.49,Default,,0000,0000,0000,,¡Si pasamos cinco minutos desnudas \Nseremos unas simples degeneradas!
+Dialogue: 0,0:09:24.49,0:09:26.12,Default,,0000,0000,0000,,¡¿No hay otra solución?!
+Dialogue: 0,0:09:26.12,0:09:27.40,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:09:27.40,0:09:30.00,Default,,0000,0000,0000,,Si no se dan prisa, aumentarán los daños.
+Dialogue: 0,0:09:30.00,0:09:32.20,Default,,0000,0000,0000,,Son muy débiles.
+Dialogue: 0,0:09:32.20,0:09:34.68,Default,,0000,0000,0000,,A mí no me importa.
+Dialogue: 0,0:09:35.80,0:09:37.22,Default,,0000,0000,0000,,Está bien.
+Dialogue: 0,0:09:37.22,0:09:41.64,Default,,0000,0000,0000,,Tranquilas, mientras tanto \Nyo distraeré al enemigo.
+Dialogue: 0,0:09:42.50,0:09:44.42,Default,,0000,0000,0000,,¡¿Tú sola?!
+Dialogue: 0,0:09:44.79,0:09:46.89,Default,,0000,0000,0000,,¡No! ¡Es muy peligroso!
+Dialogue: 0,0:09:46.89,0:09:48.03,Default,,0000,0000,0000,,Estaré bien.
+Dialogue: 0,0:09:48.03,0:09:51.32,Default,,0000,0000,0000,,No puedo dejar que solo \Nustedes arriesguen la vida.
+Dialogue: 0,0:09:51.32,0:09:53.56,Default,,0000,0000,0000,,Yo también sé pelear.
+Dialogue: 0,0:09:56.53,0:10:01.04,Default,,0000,0000,0000,,Con mi perfecta magia defensiva, que \Nresiste hasta una bomba nuclear,
+Dialogue: 0,0:10:01.04,0:10:05.09,Default,,0000,0000,0000,,y mi magia ofensiva invencible, \Ncapaz de destrozar asteroides,
+Dialogue: 0,0:10:05.09,0:10:07.75,Default,,0000,0000,0000,,¡le detendré!
+Dialogue: 0,0:10:09.04,0:10:10.98,Default,,0000,0000,0000,,¡Mi ropa!
+Dialogue: 0,0:10:09.46,0:10:11.93,Default,,0000,0000,0000,,¿De verdad somos necesarias?
+Dialogue: 0,0:10:12.38,0:10:13.55,Texto,,0000,0000,0000,,¡¿Continuará?!
+Dialogue: 0,0:10:12.38,0:10:13.55,Default,,0000,0000,0000,,Asteroides...
+Dialogue: 0,0:10:13.55,0:10:18.11,Default,,0000,0000,0000,,No esperaba menos de nuestro \Nataque letal conjunto.
+Dialogue: 0,0:10:18.11,0:10:20.20,Default,,0000,0000,0000,,Fue muy potente.
+Dialogue: 0,0:10:20.20,0:10:22.22,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:10:22.22,0:10:25.40,Default,,0000,0000,0000,,Vamos, líder y gorila-san.
+Dialogue: 0,0:10:25.40,0:10:27.18,Default,,0000,0000,0000,,Retirémonos.
+Dialogue: 0,0:10:30.71,0:10:35.47,Default,,0000,0000,0000,,¡Lo hicieron bien derrotando \Na mi peón, heroínas!
+Dialogue: 0,0:10:35.47,0:10:36.36,Default,,0000,0000,0000,,¡¿Quién eres tú?!
+Dialogue: 0,0:10:36.36,0:10:41.60,Default,,0000,0000,0000,,Vine al escuchar que en esta ciudad \Naparecieron unas heroínas interesantes
+Dialogue: 0,0:10:41.60,0:10:44.88,Default,,0000,0000,0000,,y veo que las nuevas no decepcionan.
+Dialogue: 0,0:10:44.88,0:10:46.88,Default,,0000,0000,0000,,¡¿Doctor Maiko?!
+Dialogue: 0,0:10:46.88,0:10:48.72,Default,,0000,0000,0000,,¡¿Lo conoces, Rurin-san?!
+Dialogue: 0,0:10:48.72,0:10:50.00,Default,,0000,0000,0000,,Claro que lo conozco.
+Dialogue: 0,0:10:50.00,0:10:53.72,Default,,0000,0000,0000,,Él fue quien envío a los peones \Ndel mal por todo el mundo.
+Dialogue: 0,0:10:53.72,0:10:56.43,Default,,0000,0000,0000,,Es un científico malvado que \Naspira a dominar al mundo.
+Dialogue: 0,0:10:56.43,0:10:58.38,Default,,0000,0000,0000,,Él es el Doctor Maiko.
+Dialogue: 0,0:11:00.30,0:11:01.39,Default,,0000,0000,0000,,¡¿De verdad?!
+Dialogue: 0,0:11:01.39,0:11:03.51,Default,,0000,0000,0000,,¡¿Entonces él es jefe de los malos?!
+Dialogue: 0,0:11:03.78,0:11:06.91,Default,,0000,0000,0000,,Este... Doctor Maiko-san,
+Dialogue: 0,0:11:06.91,0:11:08.91,Default,,0000,0000,0000,,¿por qué es malo?
+Dialogue: 0,0:11:08.91,0:11:11.05,Default,,0000,0000,0000,,¿Por qué quiere dominar el mundo?
+Dialogue: 0,0:11:11.05,0:11:12.62,Default,,0000,0000,0000,,¿Que por qué?
+Dialogue: 0,0:11:12.62,0:11:15.48,Default,,0000,0000,0000,,¡Dominar el mundo no me interesa!
+Dialogue: 0,0:11:17.21,0:11:18.99,Default,,0000,0000,0000,,¿Entonces por qué...?
+Dialogue: 0,0:11:18.99,0:11:21.75,Default,,0000,0000,0000,,Quiero dominar el mundo porque...
+Dialogue: 0,0:11:22.74,0:11:27.24,Default,,0000,0000,0000,,¡quiero pelear contra las heroínas \Nque vendrán a impedir que lo haga!
+Dialogue: 0,0:11:29.45,0:11:33.04,Default,,0000,0000,0000,,Es que todas las heroínas \Nson chicas muy lindas.
+Dialogue: 0,0:11:33.04,0:11:37.66,Default,,0000,0000,0000,,Cuando se transforman son sexys \Ny además llevan ropa muy linda.
+Dialogue: 0,0:11:37.66,0:11:39.46,Default,,0000,0000,0000,,¡Son todas cosas buenas!
+Dialogue: 0,0:11:39.46,0:11:44.40,Default,,0000,0000,0000,,Si así consigo que esas heroínas \Nme ataquen continuamente...
+Dialogue: 0,0:11:44.40,0:11:47.22,Default,,0000,0000,0000,,Es el sueño de cualquier hombre.
+Dialogue: 0,0:11:48.72,0:11:52.06,Italics,,0000,0000,0000,,Debemos derrotarlo, sea como sea.
+Dialogue: 0,0:11:52.06,0:11:53.14,Texto,,0000,0000,0000,,¡Continuará!
+Dialogue: 0,0:11:53.14,0:11:55.44,Default,,0000,0000,0000,,¡Vamos allá, heroínas!
+Dialogue: 0,0:11:55.44,0:11:57.40,Default,,0000,0000,0000,,¿Creen que podrán derrotarme?
+Dialogue: 0,0:11:57.77,0:12:01.13,Default,,0000,0000,0000,,¿Qué hacemos? La verdad es \Nque no me siento motivada.
+Dialogue: 0,0:12:01.13,0:12:02.89,Default,,0000,0000,0000,,¿Él es el jefe?
+Dialogue: 0,0:12:02.89,0:12:05.03,Default,,0000,0000,0000,,No te quejes y vamos a acabar con él.
+Dialogue: 0,0:12:05.03,0:12:08.46,Default,,0000,0000,0000,,¡Observen la nueva arma del Doctor Maiko!
+Dialogue: 0,0:12:08.46,0:12:10.79,Default,,0000,0000,0000,,¡Rayo inactivador de la magia!
+Dialogue: 0,0:12:15.40,0:12:17.69,Default,,0000,0000,0000,,¡¿Qu-qué es esto?!
+Dialogue: 0,0:12:19.38,0:12:22.81,Default,,0000,0000,0000,,¿Les sorprende el poder \Ndestructor de mi rayo?
+Dialogue: 0,0:12:22.81,0:12:26.62,Default,,0000,0000,0000,,¡Su ropa está hecha con magia, \Nasí que no podrá detenerlo!
+Dialogue: 0,0:12:26.62,0:12:29.18,Default,,0000,0000,0000,,¡E-eso es terrible!
+Dialogue: 0,0:12:29.18,0:12:30.32,Default,,0000,0000,0000,,¡Pervertido!
+Dialogue: 0,0:12:30.32,0:12:32.76,Default,,0000,0000,0000,,¡Entonces tendremos que atacar!
+Dialogue: 0,0:12:32.76,0:12:35.15,Default,,0000,0000,0000,,Mis esposas mágicas te...
+Dialogue: 0,0:12:36.10,0:12:37.76,Default,,0000,0000,0000,,¿Cómo puede ser?
+Dialogue: 0,0:12:37.76,0:12:40.32,Default,,0000,0000,0000,,¿Cómo puede eliminar toda clase de magia?
+Dialogue: 0,0:12:40.32,0:12:42.57,Default,,0000,0000,0000,,¡Tachibana-san, tápate!
+Dialogue: 0,0:12:42.86,0:12:45.71,Default,,0000,0000,0000,,¡Chicas, detengan la transformación!
+Dialogue: 0,0:12:45.71,0:12:47.53,Default,,0000,0000,0000,,¡No podrán ganarle transformadas!
+Dialogue: 0,0:12:47.53,0:12:49.18,Default,,0000,0000,0000,,¡S-sí!
+Dialogue: 0,0:12:49.83,0:12:52.55,Default,,0000,0000,0000,,Pero así no tenemos nada \Nque hacer contra él.
+Dialogue: 0,0:12:53.24,0:12:55.96,Default,,0000,0000,0000,,No se preocupen. Tengo una idea.
+Dialogue: 0,0:12:57.54,0:12:59.09,Default,,0000,0000,0000,,¡Vaya descuido!
+Dialogue: 0,0:13:01.84,0:13:03.93,Default,,0000,0000,0000,,¡Toma!
+Dialogue: 0,0:13:06.92,0:13:10.24,Default,,0000,0000,0000,,Volvamos a nuestro escondite.
+Dialogue: 0,0:13:10.24,0:13:14.10,Default,,0000,0000,0000,,Ahora que apareció ese tipo, \Ndebemos preparar un plan.
+Dialogue: 0,0:13:14.87,0:13:16.39,Default,,0000,0000,0000,,Esperen un momento.
+Dialogue: 0,0:13:16.73,0:13:18.30,Default,,0000,0000,0000,,Tengo algo que decir.
+Dialogue: 0,0:13:18.30,0:13:19.98,Texto,,0000,0000,0000,,Esta historia es ficticia. Los personajes, agrupaciones y lugares no tienen relación con la realidad.
+Dialogue: 0,0:13:27.50,0:13:30.57,Default,,0000,0000,0000,,¿Qué hacemos ahora?
+Dialogue: 0,0:13:30.57,0:13:33.20,Default,,0000,0000,0000,,Nakamura-san tampoco puede venir el domingo.
+Dialogue: 0,0:13:33.20,0:13:34.86,Default,,0000,0000,0000,,¿No?
+Dialogue: 0,0:13:34.86,0:13:37.50,Default,,0000,0000,0000,,Katou-san también dijo que no podía venir.
+Dialogue: 0,0:13:37.50,0:13:38.89,Default,,0000,0000,0000,,Vaya problema.
+Dialogue: 0,0:13:38.89,0:13:41.13,Default,,0000,0000,0000,,De repente me faltan dos empleados.
+Dialogue: 0,0:13:41.59,0:13:43.48,Default,,0000,0000,0000,,¡Entonces yo ayudaré!
+Dialogue: 0,0:13:43.48,0:13:44.97,Default,,0000,0000,0000,,Tú también ¿no, hermana?
+Dialogue: 0,0:13:44.97,0:13:47.35,Default,,0000,0000,0000,,Aun así nos sigue faltando alguien más.
+Dialogue: 0,0:13:49.24,0:13:50.24,Default,,0000,0000,0000,,Ya sé.
+Dialogue: 0,0:13:50.24,0:13:53.14,Default,,0000,0000,0000,,Kosaki, ¿puedes pedirle ayuda a ese chico?
+Dialogue: 0,0:13:56.04,0:13:57.95,Default,,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:13:57.95,0:13:59.28,Default,,0000,0000,0000,,Se lo preguntaré.
+Dialogue: 0,0:13:59.65,0:14:01.10,Default,,0000,0000,0000,,¿Qué chico?
+Dialogue: 0,0:14:01.52,0:14:04.28,Default,,0000,0000,0000,,Bu-buenos días.
+Dialogue: 0,0:14:05.21,0:14:07.15,Default,,0000,0000,0000,,¡Ahí estás, chico!
+Dialogue: 0,0:14:07.15,0:14:09.43,Default,,0000,0000,0000,,¡Gracias por ayudar, Ichijo-kun!
+Dialogue: 0,0:14:12.24,0:14:14.51,Titulo,,0000,0000,0000,,{\c&HDF8F0A&}Trabaja
+Dialogue: 0,0:14:14.76,0:14:17.41,Default,,0000,0000,0000,,¡¿Por qué vino a ayudarnos Ichijo-kun?!
+Dialogue: 0,0:14:17.41,0:14:19.18,Default,,0000,0000,0000,,¿Que por qué?
+Dialogue: 0,0:14:19.18,0:14:21.52,Default,,0000,0000,0000,,Porque ya vino una vez.
+Dialogue: 0,0:14:21.52,0:14:25.37,Default,,0000,0000,0000,,Tiene experiencia y mamá \Nreconoce su talento.
+Dialogue: 0,0:14:25.75,0:14:26.91,Default,,0000,0000,0000,,¡¿Mamá?!
+Dialogue: 0,0:14:26.91,0:14:28.52,Default,,0000,0000,0000,,Pe-pero...
+Dialogue: 0,0:14:26.91,0:14:37.18,Texto,,0000,0000,0000,,Onodera
+Dialogue: 0,0:14:28.52,0:14:31.26,Default,,0000,0000,0000,,Bastaría con que yo me esforzara más.
+Dialogue: 0,0:14:31.26,0:14:33.36,Default,,0000,0000,0000,,¡No necesitamos ayudantes!
+Dialogue: 0,0:14:33.36,0:14:35.63,Default,,0000,0000,0000,,No digas eso.
+Dialogue: 0,0:14:35.63,0:14:37.14,Default,,0000,0000,0000,,Además, ya está aquí.
+Dialogue: 0,0:14:39.48,0:14:42.03,Italics,,0000,0000,0000,,¿Cómo se atreve a venir \Naquí tan descaradamente?
+Dialogue: 0,0:14:42.03,0:14:44.65,Italics,,0000,0000,0000,,¿Tanto tiempo lleva tras mi hermana?
+Dialogue: 0,0:14:45.06,0:14:49.32,Italics,,0000,0000,0000,,Pero mientras yo esté aquí, \Nno le pondrá ni un dedo encima.
+Dialogue: 0,0:14:50.42,0:14:52.70,Italics,,0000,0000,0000,,Me está vigilando.
+Dialogue: 0,0:14:52.70,0:14:56.44,Italics,,0000,0000,0000,,Es la hermana pequeña de Onodera y \Nquiero llevarme bien con ella, pero...
+Dialogue: 0,0:14:56.75,0:15:00.73,Italics,,0000,0000,0000,,Parece que Haru no soporta a Ichijo-kun.
+Dialogue: 0,0:15:01.11,0:15:03.71,Italics,,0000,0000,0000,,Me gustaría que se llevaran bien, pero...
+Dialogue: 0,0:15:04.96,0:15:09.21,Default,,0000,0000,0000,,Haru, ¿ya te hiciste amiga de Ichijo-kun?
+Dialogue: 0,0:15:09.21,0:15:11.42,Default,,0000,0000,0000,,Kosaki, creo que tienes una rival.
+Dialogue: 0,0:15:11.42,0:15:13.70,Default,,0000,0000,0000,,¡¿Pero qué dices, mamá?!
+Dialogue: 0,0:15:14.41,0:15:17.55,Default,,0000,0000,0000,,Pongámonos a trabajar.
+Dialogue: 0,0:15:17.55,0:15:21.05,Default,,0000,0000,0000,,Como la otra vez, empezaremos \Npreparando la pasta de frijol rojo.
+Dialogue: 0,0:15:21.05,0:15:23.02,Default,,0000,0000,0000,,¡Cuento contigo!
+Dialogue: 0,0:15:23.27,0:15:26.27,Default,,0000,0000,0000,,Ichijo-kun, ¿puedes pasarme esa cucharilla?
+Dialogue: 0,0:15:26.27,0:15:27.15,Default,,0000,0000,0000,,Claro.
+Dialogue: 0,0:15:30.53,0:15:32.54,Default,,0000,0000,0000,,¡Toma, hermana!
+Dialogue: 0,0:15:34.38,0:15:35.41,Default,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:15:38.04,0:15:43.54,Default,,0000,0000,0000,,E-este... Haru-chan, creo \Nque me malinterpretaste.
+Dialogue: 0,0:15:44.58,0:15:45.54,Default,,0000,0000,0000,,¿Malinterpretarte?
+Dialogue: 0,0:15:45.54,0:15:47.63,Default,,0000,0000,0000,,¿A qué te refieres?
+Dialogue: 0,0:15:47.63,0:15:50.30,Default,,0000,0000,0000,,¿A cuándo viste mis pantis?
+Dialogue: 0,0:15:51.05,0:15:53.68,Default,,0000,0000,0000,,Es una verdad como un templo.
+Dialogue: 0,0:15:54.30,0:15:55.43,Default,,0000,0000,0000,,¡Y dos veces!
+Dialogue: 0,0:15:57.56,0:16:00.06,Italics,,0000,0000,0000,,¡No hables de eso frente a Onodera!
+Dialogue: 0,0:16:00.92,0:16:02.85,Italics,,0000,0000,0000,,¿Qué puedo hacer?
+Dialogue: 0,0:16:03.74,0:16:08.06,Default,,0000,0000,0000,,Mamá me pidió que hiciera \Nuna cosa, así que me voy.
+Dialogue: 0,0:16:08.06,0:16:09.61,Default,,0000,0000,0000,,Volveré en un rato.
+Dialogue: 0,0:16:10.23,0:16:11.06,Default,,0000,0000,0000,,¡¿Onodera?!
+Dialogue: 0,0:16:12.95,0:16:14.40,Italics,,0000,0000,0000,,Según lo que dijo Haru,
+Dialogue: 0,0:16:14.40,0:16:18.60,Italics,,0000,0000,0000,,Ichijo-kun no tenía malas intenciones \Ncuando le vio las pantis.
+Dialogue: 0,0:16:18.60,0:16:22.65,Italics,,0000,0000,0000,,Seguro que si hablan se harán amigos.
+Dialogue: 0,0:16:22.65,0:16:24.65,Italics,,0000,0000,0000,,N-no...
+Dialogue: 0,0:16:24.65,0:16:27.17,Italics,,0000,0000,0000,,Pensé que por fin podría \Npasar un rato con Onodera...
+Dialogue: 0,0:16:27.17,0:16:31.93,Default,,0000,0000,0000,,Es una pena que mi hermana se \Nhaya ido, ¿verdad, senpai?
+Dialogue: 0,0:16:31.93,0:16:34.25,Default,,0000,0000,0000,,N-no vine por eso...
+Dialogue: 0,0:16:34.25,0:16:37.56,Default,,0000,0000,0000,,No sé cómo pudiste aparecer delante de mí
+Dialogue: 0,0:16:37.56,0:16:39.39,Default,,0000,0000,0000,,después de lo que me hiciste.
+Dialogue: 0,0:16:40.14,0:16:42.28,Default,,0000,0000,0000,,No fue culpa mía.
+Dialogue: 0,0:16:42.28,0:16:44.92,Default,,0000,0000,0000,,¡Podrías haber apartado la mirada!
+Dialogue: 0,0:16:44.92,0:16:47.02,Default,,0000,0000,0000,,Incluso diste tu opinión.
+Dialogue: 0,0:16:48.34,0:16:49.69,Default,,0000,0000,0000,,En eso me equivoqué.
+Dialogue: 0,0:16:49.69,0:16:51.24,Default,,0000,0000,0000,,Te lo diré claramente.
+Dialogue: 0,0:16:51.24,0:16:53.90,Default,,0000,0000,0000,,¡No te acerques más a mi hermana!
+Dialogue: 0,0:16:54.24,0:16:58.80,Default,,0000,0000,0000,,Lo que no puedo perdonar es que intentes \Nponerle las manos encima a mi hermana
+Dialogue: 0,0:16:58.80,0:17:01.37,Default,,0000,0000,0000,,teniendo una novia tan fantástica.
+Dialogue: 0,0:17:01.37,0:17:03.37,Default,,0000,0000,0000,,¡¿Es que no tienes vergüenza?!
+Dialogue: 0,0:17:03.37,0:17:05.14,Default,,0000,0000,0000,,Eres un pésimo ser humano.
+Dialogue: 0,0:17:06.62,0:17:09.50,Default,,0000,0000,0000,,Ya sé que mi hermana es muy linda,
+Dialogue: 0,0:17:10.04,0:17:14.24,Default,,0000,0000,0000,,pura, agraciada y ultrafantástica, pero...
+Dialogue: 0,0:17:14.24,0:17:15.40,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:17:15.40,0:17:17.88,Default,,0000,0000,0000,,Además es amable y generosa.
+Dialogue: 0,0:17:17.88,0:17:19.95,Default,,0000,0000,0000,,¡Sí, sí! ¡Exacto!
+Dialogue: 0,0:17:19.95,0:17:23.12,Default,,0000,0000,0000,,Es buena con todos y tiene \Nuna sonrisa encantadora.
+Dialogue: 0,0:17:23.12,0:17:24.46,Default,,0000,0000,0000,,Lo sé.
+Dialogue: 0,0:17:24.46,0:17:26.68,Default,,0000,0000,0000,,Su sonrisa me ha salvado muchas veces.
+Dialogue: 0,0:17:26.68,0:17:28.81,Default,,0000,0000,0000,,También es adorable cuando es torpe.
+Dialogue: 0,0:17:32.32,0:17:35.37,Default,,0000,0000,0000,,No te unas a la conversación sin permiso.
+Dialogue: 0,0:17:35.37,0:17:36.49,Default,,0000,0000,0000,,Perdón.
+Dialogue: 0,0:17:36.74,0:17:41.93,Default,,0000,0000,0000,,Precisamente por eso nunca se la entregaré \Na alguien tan deshonesto como tú.
+Dialogue: 0,0:17:42.68,0:17:45.91,Italics,,0000,0000,0000,,Esta chica quiere mucho a Onodera.
+Dialogue: 0,0:17:46.30,0:17:50.41,Italics,,0000,0000,0000,,Sé que es distinto, pero \Nla entiendo perfectamente.
+Dialogue: 0,0:17:52.55,0:17:54.08,Italics,,0000,0000,0000,,Qué remedio.
+Dialogue: 0,0:17:54.08,0:17:56.93,Italics,,0000,0000,0000,,Es penoso que lo diga yo mismo, pero...
+Dialogue: 0,0:17:57.64,0:18:00.68,Default,,0000,0000,0000,,No tienes por qué ser tan dura conmigo.
+Dialogue: 0,0:18:01.19,0:18:07.42,Default,,0000,0000,0000,,El chico que te salvó cuando te rodearon \Nunos bandidos el otro día fui yo.
+Dialogue: 0,0:18:09.19,0:18:14.07,Default,,0000,0000,0000,,Dejando de lado lo de las pantis y los \Nrumores que hayas oído sobre mí,
+Dialogue: 0,0:18:14.36,0:18:16.57,Default,,0000,0000,0000,,creo que si me escucharas...
+Dialogue: 0,0:18:17.42,0:18:19.59,Default,,0000,0000,0000,,¡¿Qué estás diciendo?!
+Dialogue: 0,0:18:21.74,0:18:25.08,Default,,0000,0000,0000,,Ya sabía que eres horrible,
+Dialogue: 0,0:18:25.08,0:18:29.08,Default,,0000,0000,0000,,pero no imaginé que fueras \Na insultar a mi príncipe.
+Dialogue: 0,0:18:29.08,0:18:30.73,Default,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:18:30.73,0:18:33.09,Default,,0000,0000,0000,,¡¿Cómo puedes ser tan cruel?!
+Dialogue: 0,0:18:33.42,0:18:36.43,Default,,0000,0000,0000,,Aunque no lo recuerde demasiado bien,
+Dialogue: 0,0:18:36.43,0:18:39.46,Default,,0000,0000,0000,,¡sé que no eras tú!
+Dialogue: 0,0:18:39.85,0:18:41.18,Default,,0000,0000,0000,,Espera, espera.
+Dialogue: 0,0:18:41.18,0:18:42.35,Default,,0000,0000,0000,,De verdad que...
+Dialogue: 0,0:18:42.35,0:18:48.44,Default,,0000,0000,0000,,Lo poco que recuerdo es que \Nmedía más de 180 centímetros.
+Dialogue: 0,0:18:48.44,0:18:50.86,Default,,0000,0000,0000,,Su rostro era como el de \Nuna estrella de Hollywood
+Dialogue: 0,0:18:50.86,0:18:53.98,Default,,0000,0000,0000,,y su voz, refrescante \Ncomo la de un actor de voz.
+Dialogue: 0,0:18:56.10,0:18:58.38,Default,,0000,0000,0000,,¡Me embelleció en su imaginación!
+Dialogue: 0,0:18:58.38,0:19:01.04,Default,,0000,0000,0000,,¿Cómo puedes intentar \Nengañarme con esa mentira?
+Dialogue: 0,0:19:01.04,0:19:02.64,Default,,0000,0000,0000,,Eres lo peor.
+Dialogue: 0,0:19:02.64,0:19:04.99,Default,,0000,0000,0000,,No pretendía...
+Dialogue: 0,0:19:06.50,0:19:07.72,Italics,,0000,0000,0000,,Es inútil.
+Dialogue: 0,0:19:07.72,0:19:09.54,Italics,,0000,0000,0000,,Seguir solo empeorará las cosas.
+Dialogue: 0,0:19:10.96,0:19:13.85,Default,,0000,0000,0000,,Está bien. Lo siento.
+Dialogue: 0,0:19:13.85,0:19:15.42,Default,,0000,0000,0000,,Olvida lo que dije.
+Dialogue: 0,0:19:15.42,0:19:16.73,Default,,0000,0000,0000,,Por supuesto.
+Dialogue: 0,0:19:16.73,0:19:19.09,Default,,0000,0000,0000,,No digas más cosas desagradables.
+Dialogue: 0,0:19:19.42,0:19:22.65,Italics,,0000,0000,0000,,¿Cómo se atreve a contar \Nuna mentira tan terrible?
+Dialogue: 0,0:19:22.65,0:19:25.62,Italics,,0000,0000,0000,,¿Todos los hombres son así?
+Dialogue: 0,0:19:26.56,0:19:29.87,Default,,0000,0000,0000,,Cambiemos de aires y empecemos a trabajar.
+Dialogue: 0,0:19:29.87,0:19:31.02,Default,,0000,0000,0000,,¿Qué tengo que hacer?
+Dialogue: 0,0:19:31.02,0:19:33.47,Default,,0000,0000,0000,,No es necesario que hagas nada, senpai.
+Dialogue: 0,0:19:33.47,0:19:35.52,Default,,0000,0000,0000,,Quédate ahí encogido.
+Dialogue: 0,0:19:46.23,0:19:47.55,Default,,0000,0000,0000,,Creo que así está bien.
+Dialogue: 0,0:19:47.55,0:19:51.16,Default,,0000,0000,0000,,Veo que tú puedes cocinar \Ncon facilidad, Haru.
+Dialogue: 0,0:19:51.78,0:19:52.67,Default,,0000,0000,0000,,¿Perdón?
+Dialogue: 0,0:19:52.67,0:19:56.42,Default,,0000,0000,0000,,Bueno, es que como Onodera \Nno es buena cocinando...
+Dialogue: 0,0:19:56.79,0:19:59.86,Default,,0000,0000,0000,,Mi hermana es peculiar.
+Dialogue: 0,0:19:59.29,0:20:01.82,Default,,0000,0000,0000,,¿Qué tal? ¿Está bueno?
+Dialogue: 0,0:20:00.25,0:20:02.93,Default,,0000,0000,0000,,Nunca ha sabido cocinar,
+Dialogue: 0,0:20:02.93,0:20:06.81,Default,,0000,0000,0000,,por eso yo ayudaba en la tienda \Npreparando varias cosas en su lugar.
+Dialogue: 0,0:20:07.42,0:20:09.81,Default,,0000,0000,0000,,Es normal que sepa cocinar.
+Dialogue: 0,0:20:10.95,0:20:12.19,Default,,0000,0000,0000,,Eso es admirable.
+Dialogue: 0,0:20:12.44,0:20:15.32,Default,,0000,0000,0000,,Además, al verte trabajar,
+Dialogue: 0,0:20:15.32,0:20:18.44,Default,,0000,0000,0000,,se nota que te gusta mucho hacer dulces.
+Dialogue: 0,0:20:19.69,0:20:25.59,Default,,0000,0000,0000,,Es increíble la forma en la que usas los \Nutensilios y el refinamiento de todos los pasos.
+Dialogue: 0,0:20:26.01,0:20:29.21,Default,,0000,0000,0000,,Seguro que tus dulces están deliciosos.
+Dialogue: 0,0:20:30.47,0:20:32.22,Default,,0000,0000,0000,,Me gustaría probarlos.
+Dialogue: 0,0:20:32.95,0:20:35.63,Default,,0000,0000,0000,,¿Qué sabrás tú?
+Dialogue: 0,0:20:35.63,0:20:38.95,Default,,0000,0000,0000,,Recibir alabanzas vacías no me hace feliz.
+Dialogue: 0,0:20:39.45,0:20:40.95,Default,,0000,0000,0000,,Ya...
+Dialogue: 0,0:20:42.20,0:20:44.25,Default,,0000,0000,0000,,Pensándolo mejor, te ayudaré.
+Dialogue: 0,0:20:44.25,0:20:46.14,Default,,0000,0000,0000,,Intentaré no molestarte.
+Dialogue: 0,0:20:46.71,0:20:48.85,Default,,0000,0000,0000,,No hagas nada innecesario.
+Dialogue: 0,0:20:54.73,0:20:55.75,Italics,,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:20:57.74,0:21:00.09,Italics,,0000,0000,0000,,No se mueve como un novato.
+Dialogue: 0,0:21:00.09,0:21:01.85,Italics,,0000,0000,0000,,Está acostumbrado.
+Dialogue: 0,0:21:01.85,0:21:03.49,Italics,,0000,0000,0000,,Parece como si...
+Dialogue: 0,0:21:03.49,0:21:06.92,Default,,0000,0000,0000,,¿Haces dulces normalmente?
+Dialogue: 0,0:21:07.92,0:21:09.56,Default,,0000,0000,0000,,Últimamente hago bastantes.
+Dialogue: 0,0:21:09.56,0:21:13.00,Default,,0000,0000,0000,,Cuando trabajé aquí la otra vez, me gustó.
+Dialogue: 0,0:21:13.40,0:21:15.42,Default,,0000,0000,0000,,Estoy investigando por mi cuenta.
+Dialogue: 0,0:21:15.75,0:21:18.00,Default,,0000,0000,0000,,Los dulces japoneses son muy complejos.
+Dialogue: 0,0:21:19.05,0:21:20.33,Italics,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:21:20.33,0:21:22.63,Italics,,0000,0000,0000,,Aunque eso no cambia nada.
+Dialogue: 0,0:21:23.00,0:21:26.38,Italics,,0000,0000,0000,,Además, seguro que lo que \Nprepare él no está nada...
+Dialogue: 0,0:21:26.38,0:21:27.53,Italics,,0000,0000,0000,,¡¿Está bueno?!
+Dialogue: 0,0:21:27.53,0:21:31.72,Italics,,0000,0000,0000,,¡Tiene una dulzura exquisita \Ny una textura suave!
+Dialogue: 0,0:21:31.72,0:21:33.77,Italics,,0000,0000,0000,,¡No, no está bueno!
+Dialogue: 0,0:21:33.77,0:21:36.52,Italics,,0000,0000,0000,,No está nada bueno.
+Dialogue: 0,0:21:36.52,0:21:37.77,Default,,0000,0000,0000,,¿Qué te parece?
+Dialogue: 0,0:21:37.77,0:21:40.97,Default,,0000,0000,0000,,Me basé en el {\i1}daifuku{\i0} de Suzumiya.
+Dialogue: 0,0:21:41.64,0:21:43.24,Default,,0000,0000,0000,,¡¿El de Suzumiya?!
+Dialogue: 0,0:21:43.24,0:21:45.98,Default,,0000,0000,0000,,¡A mí también me gustan los de esa tienda!
+Dialogue: 0,0:21:45.98,0:21:48.46,Default,,0000,0000,0000,,Su pasta de frijoles rojos \Nestá deliciosa, ¿verdad?
+Dialogue: 0,0:21:48.46,0:21:51.12,Default,,0000,0000,0000,,El equilibrio entre dulce \Ny salado es perfecto.
+Dialogue: 0,0:21:51.12,0:21:54.25,Default,,0000,0000,0000,,¡A mí me encanta su {\i1}daifuku{\i0} de fresa!
+Dialogue: 0,0:21:54.25,0:21:55.68,Default,,0000,0000,0000,,¡Es una obra de arte!
+Dialogue: 0,0:21:55.68,0:21:56.89,Default,,0000,0000,0000,,¡Sí, está muy bueno!
+Dialogue: 0,0:21:56.89,0:21:59.44,Default,,0000,0000,0000,,Usan fresas de calidad.
+Dialogue: 0,0:21:59.44,0:22:01.28,Default,,0000,0000,0000,,¡Están muy jugosos!
+Dialogue: 0,0:22:01.28,0:22:05.84,Default,,0000,0000,0000,,Creo que el primero que le puso \Nfresas a un {\i1}daifuku{\i0} era un genio.
+Dialogue: 0,0:22:05.84,0:22:06.75,Default,,0000,0000,0000,,¿Verdad?
+Dialogue: 0,0:22:06.75,0:22:09.78,Default,,0000,0000,0000,,Podría decirse que fue una \Nrevolución para la humanidad.
+Dialogue: 0,0:22:10.22,0:22:11.76,Default,,0000,0000,0000,,Te entiendo, te entie...
+Dialogue: 0,0:22:13.00,0:22:15.37,Italics,,0000,0000,0000,,¡¿Qué hago hablando \Ntan alegremente con él?!
+Dialogue: 0,0:22:15.37,0:22:19.10,Italics,,0000,0000,0000,,¡Es mi enemigo!
+Dialogue: 0,0:22:16.31,0:22:18.60,Default,,0000,0000,0000,,Ahora quiero comer uno.
+Dialogue: 0,0:22:20.61,0:22:23.23,Default,,0000,0000,0000,,Vaya... ¿Están los dos solos?
+Dialogue: 0,0:22:23.23,0:22:26.41,Default,,0000,0000,0000,,Qué raro. Haru odia a los hombres.
+Dialogue: 0,0:22:26.74,0:22:30.74,Default,,0000,0000,0000,,Haru, no quiero saber nada si te \Npeleas con tu hermana por él.
+Dialogue: 0,0:22:31.53,0:22:32.50,Default,,0000,0000,0000,,¡Nunca!
+Dialogue: 0,0:22:34.94,0:22:37.62,Default,,0000,0000,0000,,Tu madre sigue igual que siempre.
+Dialogue: 0,0:22:37.62,0:22:40.50,Italics,,0000,0000,0000,,¿Quién iba a pelearse por este tipo?
+Dialogue: 0,0:22:42.25,0:22:43.80,Default,,0000,0000,0000,,¡Ya está bien!
+Dialogue: 0,0:22:43.80,0:22:45.85,Default,,0000,0000,0000,,¡Vete a otra parte, senpai!
+Dialogue: 0,0:22:45.85,0:22:47.61,Default,,0000,0000,0000,,No puedo hacer eso.
+Dialogue: 0,0:22:47.61,0:22:49.97,Default,,0000,0000,0000,,¡Estaré bien sola!
+Dialogue: 0,0:22:49.97,0:22:52.47,Default,,0000,0000,0000,,Oye... Eso pesa demasiado.
+Dialogue: 0,0:22:59.35,0:23:02.08,Default,,0000,0000,0000,,¡¿Dó-dónde tienes las manos?!
+Dialogue: 0,0:23:02.08,0:23:03.36,Default,,0000,0000,0000,,¡Suéltame!
+Dialogue: 0,0:23:03.36,0:23:05.98,Default,,0000,0000,0000,,¡Si te suelto ahora, te caerás!
+Dialogue: 0,0:23:06.33,0:23:08.62,Default,,0000,0000,0000,,Deja que yo me encargue de las cosas pesadas.
+Dialogue: 0,0:23:08.62,0:23:10.53,Default,,0000,0000,0000,,Soy un hombre.
+Dialogue: 0,0:23:10.86,0:23:13.80,Default,,0000,0000,0000,,¡¿Y qué si eres un hombre?!
+Dialogue: 0,0:23:13.80,0:23:16.00,Default,,0000,0000,0000,,¡Puedo hacerlo sola!
+Dialogue: 0,0:23:16.00,0:23:16.88,Default,,0000,0000,0000,,Rayos...
+Dialogue: 0,0:23:16.88,0:23:18.91,Default,,0000,0000,0000,,Es peligroso. No te muevas tanto.
+Dialogue: 0,0:23:18.91,0:23:23.66,Default,,0000,0000,0000,,¡Si no me sueltas, gritaré \Npara que me oiga mi hermana!
+Dialogue: 0,0:23:23.66,0:23:24.83,Default,,0000,0000,0000,,Está bien.
+Dialogue: 0,0:23:24.83,0:23:28.17,Default,,0000,0000,0000,,Sería peor que te hicieras daño.
+Dialogue: 0,0:23:29.42,0:23:33.51,Italics,,0000,0000,0000,,Así que las manos de los chicos \Nson así de grandes y fuertes...
+Dialogue: 0,0:23:35.08,0:23:40.92,Italics,,0000,0000,0000,,Así que las manos de los chicos \Nson así de grandes y fuertes...
+Dialogue: 0,0:23:42.81,0:23:47.23,Default,,0000,0000,0000,,Parece que se llevan \Nmejor de lo que esperaba.
+Dialogue: 0,0:23:47.85,0:23:48.73,Default,,0000,0000,0000,,Herma...
+Dialogue: 0,0:23:50.24,0:23:52.04,Default,,0000,0000,0000,,Si lo sueltas de golpe...
+Dialogue: 0,0:23:57.54,0:23:58.49,Default,,0000,0000,0000,,¡¿Ichijo-kun?!
+Dialogue: 0,0:23:59.42,0:24:01.59,Default,,0000,0000,0000,,¿Qué pasó? ¿Qué fue ese ruido?
+Dialogue: 0,0:24:03.64,0:24:06.62,Default,,0000,0000,0000,,¡Ya dije que tuvieran cuidado!
+Dialogue: 0,0:24:05.19,0:24:09.35,Default,,0000,0000,0000,,¡No pienso relajarme a su lado!
+Dialogue: 0,0:24:07.24,0:24:09.63,Default,,0000,0000,0000,,¡Lo pagarán ustedes! ¡Prepárense!

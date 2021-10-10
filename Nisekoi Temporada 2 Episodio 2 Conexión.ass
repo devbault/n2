@@ -1,0 +1,341 @@
+﻿[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Texto,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0010,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Titulo,Trebuchet MS,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0031,1
+Style: Titulo2,Times New Roman,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0014,1
+Style: Introtexto,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,0010,0010,0010,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.96,0:00:14.46,Default,,0000,0000,0000,,Japón...
+Dialogue: 0,0:00:15.08,0:00:18.37,Default,,0000,0000,0000,,Es tan pacífico que me dan ganas de bostezar.
+Dialogue: 0,0:00:21.70,0:00:23.37,Default,,0000,0000,0000,,Vine a verte...
+Dialogue: 0,0:00:24.88,0:00:27.13,Default,,0000,0000,0000,,Black Tiger.
+Dialogue: 0,0:00:27.74,0:00:30.64,Default,,0000,0000,0000,,Esta vez te...
+Dialogue: 0,0:02:06.44,0:02:08.76,Titulo,,0000,0000,0000,,{\c&HCC643D&}Conexión
+Dialogue: 0,0:02:11.27,0:02:13.02,Default,,0000,0000,0000,,Oye, Tsugumi...
+Dialogue: 0,0:02:14.28,0:02:16.42,Default,,0000,0000,0000,,¿Quieres algo?
+Dialogue: 0,0:02:16.42,0:02:19.66,Default,,0000,0000,0000,,Es que mi cielo me dijo que \Nya podía irme a casa,
+Dialogue: 0,0:02:19.66,0:02:23.18,Default,,0000,0000,0000,,que ella se tiene que quedar a \Nrepetir los deberes que olvidó.
+Dialogue: 0,0:02:25.16,0:02:29.54,Default,,0000,0000,0000,,Entonces hoy Claude-sama podrá \Nencargarse de protegerla.
+Dialogue: 0,0:02:30.14,0:02:31.44,Default,,0000,0000,0000,,Por cierto, Tsugumi...
+Dialogue: 0,0:02:31.44,0:02:35.16,Default,,0000,0000,0000,,En el examen de hoy salió lo \Nque me explicaste aquel día.
+Dialogue: 0,0:02:35.16,0:02:36.92,Default,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:02:37.92,0:02:42.93,Default,,0000,0000,0000,,¡N-no me siento contenta \Nporque me agradezcas eso!
+Dialogue: 0,0:02:43.28,0:02:46.58,Default,,0000,0000,0000,,Tienes un nivel demasiado bajo y por eso...
+Dialogue: 0,0:02:46.58,0:02:48.93,Default,,0000,0000,0000,,Veo que tú tampoco eres honesta.
+Dialogue: 0,0:02:50.19,0:02:53.12,Default,,0000,0000,0000,,Si hay alguna otra cosa que no entiendas,
+Dialogue: 0,0:02:53.12,0:02:55.15,Default,,0000,0000,0000,,no me importa explicártela.
+Dialogue: 0,0:02:56.94,0:02:57.82,Default,,0000,0000,0000,,¡Raku Ichijo!
+Dialogue: 0,0:03:08.40,0:03:09.75,Default,,0000,0000,0000,,Tú eres...
+Dialogue: 0,0:03:15.74,0:03:19.50,Default,,0000,0000,0000,,Tenía muchas ganas de verte, Black Tiger.
+Dialogue: 0,0:03:19.50,0:03:21.72,Default,,0000,0000,0000,,Hacía un año que no nos veíamos.
+Dialogue: 0,0:03:21.72,0:03:24.22,Default,,0000,0000,0000,,¿Qué haces tú aquí?
+Dialogue: 0,0:03:24.22,0:03:27.72,Default,,0000,0000,0000,,Tenemos muchas cosas de qué hablar.
+Dialogue: 0,0:03:35.76,0:03:39.66,Default,,0000,0000,0000,,¡¿Qué hacen disparando eso en la escuela?!
+Dialogue: 0,0:03:39.66,0:03:42.20,Default,,0000,0000,0000,,¡Si van a pelear, háganlo \Nen un lugar más seguro!
+Dialogue: 0,0:03:49.45,0:03:52.21,Default,,0000,0000,0000,,¡Basta, basta!
+Dialogue: 0,0:03:57.71,0:04:02.34,Default,,0000,0000,0000,,¡¿Cómo se te ocurre meterte en una \Npelea de pistolas desarmado, idiota?!
+Dialogue: 0,0:04:02.34,0:04:05.82,Default,,0000,0000,0000,,Tuviste suerte de acabar \Nsolo con heridas leves.
+Dialogue: 0,0:04:05.82,0:04:09.47,Default,,0000,0000,0000,,Era lo único que podía hacer.
+Dialogue: 0,0:04:10.47,0:04:13.36,Default,,0000,0000,0000,,No es necesario. No es nada grave.
+Dialogue: 0,0:04:13.36,0:04:17.11,Default,,0000,0000,0000,,¡Cállate! No quiero deberte nada.
+Dialogue: 0,0:04:17.66,0:04:18.84,Default,,0000,0000,0000,,¿Dónde estamos?
+Dialogue: 0,0:04:18.84,0:04:21.11,Default,,0000,0000,0000,,En el apartamento que \Nalquilo para uso personal.
+Dialogue: 0,0:04:21.52,0:04:24.20,Default,,0000,0000,0000,,Normalmente duermo en casa de la señorita,
+Dialogue: 0,0:04:24.20,0:04:27.30,Default,,0000,0000,0000,,pero algunas misiones requieren \Nde un lugar como este.
+Dialogue: 0,0:04:28.87,0:04:30.40,Default,,0000,0000,0000,,¡No mires tanto!
+Dialogue: 0,0:04:30.40,0:04:31.87,Default,,0000,0000,0000,,No estoy mirando.
+Dialogue: 0,0:04:36.08,0:04:37.18,Default,,0000,0000,0000,,¿Y bien?
+Dialogue: 0,0:04:37.18,0:04:39.38,Default,,0000,0000,0000,,¿Qué significa esto?
+Dialogue: 0,0:04:40.74,0:04:45.78,Default,,0000,0000,0000,,¿Por qué traes a tu casa \Na quien quiere matarte
+Dialogue: 0,0:04:45.78,0:04:49.18,Default,,0000,0000,0000,,y encima me invitas a un té, Black Tiger?
+Dialogue: 0,0:04:49.94,0:04:51.84,Default,,0000,0000,0000,,¿Qué estás diciendo?
+Dialogue: 0,0:04:51.84,0:04:54.88,Default,,0000,0000,0000,,Fuiste tú la que dijo que quería hablar.
+Dialogue: 0,0:04:54.88,0:04:56.73,Default,,0000,0000,0000,,¡No me refería a esto!
+Dialogue: 0,0:04:57.16,0:04:58.86,Default,,0000,0000,0000,,¿"Black Tiger"?
+Dialogue: 0,0:04:59.90,0:05:02.74,Default,,0000,0000,0000,,Parece que ese hombre no sabe nada.
+Dialogue: 0,0:05:03.82,0:05:09.66,Default,,0000,0000,0000,,Black Tiger es como se conoce \Na esa mujer en Estados Unidos.
+Dialogue: 0,0:05:09.66,0:05:14.38,Default,,0000,0000,0000,,Hace unos años apareció \Nde repente, como un cometa,
+Dialogue: 0,0:05:14.38,0:05:21.48,Default,,0000,0000,0000,,y me superó a mí, que entonces era la que \Ntenía el mayor número de misiones completadas.
+Dialogue: 0,0:05:21.48,0:05:26.26,Default,,0000,0000,0000,,Empezaron a llamarla Black Tiger \Ndebido a su bestial forma de trabajar.
+Dialogue: 0,0:05:26.26,0:05:28.30,Default,,0000,0000,0000,,¿Tú también eres una asesina a sueldo?
+Dialogue: 0,0:05:28.30,0:05:29.68,Default,,0000,0000,0000,,Así es.
+Dialogue: 0,0:05:29.68,0:05:33.02,Default,,0000,0000,0000,,Mi habilidad me ha hecho bastante conocida.
+Dialogue: 0,0:05:33.02,0:05:35.78,Default,,0000,0000,0000,,¿No oíste hablar nunca de \NWhite Fang, de la Colmena?
+Dialogue: 0,0:05:35.78,0:05:39.66,Default,,0000,0000,0000,,Se llama Paula McCoy. Es una \Nantigua compañera de trabajo.
+Dialogue: 0,0:05:39.66,0:05:41.27,Default,,0000,0000,0000,,¡No me llames Paula!
+Dialogue: 0,0:05:41.66,0:05:43.64,Default,,0000,0000,0000,,Hacía mucho que no te veía.
+Dialogue: 0,0:05:43.64,0:05:45.42,Default,,0000,0000,0000,,Me alegro que estés bien.
+Dialogue: 0,0:05:45.42,0:05:48.22,Default,,0000,0000,0000,,¿Te apetece quedarte a cenar?
+Dialogue: 0,0:05:48.22,0:05:50.66,Default,,0000,0000,0000,,¡No me trates tan bien! \N¡No soy de tu familia!
+Dialogue: 0,0:05:51.20,0:05:53.54,Default,,0000,0000,0000,,No vine a pasar el rato.
+Dialogue: 0,0:05:53.54,0:05:56.79,Default,,0000,0000,0000,,¡Vine a batirme en duelo contigo!
+Dialogue: 0,0:05:57.22,0:06:01.62,Default,,0000,0000,0000,,Desde que me quitaste el primer puesto...
+Dialogue: 0,0:06:01.62,0:06:04.38,Default,,0000,0000,0000,,te convertí en mi objetivo.
+Dialogue: 0,0:06:04.38,0:06:06.80,Default,,0000,0000,0000,,Pero ahora estoy decepcionada.
+Dialogue: 0,0:06:07.48,0:06:14.80,Default,,0000,0000,0000,,Te estuve vigilando estos últimos días y tu \Nrostro y tus acciones muestran que te ablandaste.
+Dialogue: 0,0:06:14.80,0:06:21.31,Default,,0000,0000,0000,,¡Caíste tan bajo que pasas los días \Ncomo una chica común y corriente!
+Dialogue: 0,0:06:21.31,0:06:24.52,Default,,0000,0000,0000,,Así que la mirada que notaba \Núltimamente era de Paula...
+Dialogue: 0,0:06:25.07,0:06:28.70,Default,,0000,0000,0000,,Eso es porque mi misión actual \Nes proteger a la señorita.
+Dialogue: 0,0:06:28.70,0:06:30.96,Default,,0000,0000,0000,,¿Estás segura de que solo es eso?
+Dialogue: 0,0:06:30.96,0:06:34.56,Default,,0000,0000,0000,,Ya no eres tan ágil como entonces.
+Dialogue: 0,0:06:34.56,0:06:37.08,Default,,0000,0000,0000,,¡Eres como un tigre \Nprivado de sus colmillos!
+Dialogue: 0,0:06:37.08,0:06:38.60,Default,,0000,0000,0000,,¿Qué te ocurrió?
+Dialogue: 0,0:06:38.60,0:06:40.46,Default,,0000,0000,0000,,¿Se te estropeó algo?
+Dialogue: 0,0:06:40.46,0:06:43.84,Default,,0000,0000,0000,,¿Le tomaste miedo al campo de batalla?
+Dialogue: 0,0:06:43.84,0:06:48.04,Default,,0000,0000,0000,,¿O acaso te calmaste \Nporque conseguiste novio?
+Dialogue: 0,0:06:48.04,0:06:49.97,Default,,0000,0000,0000,,Ese de ahí, por ejemplo.
+Dialogue: 0,0:06:49.97,0:06:51.74,Default,,0000,0000,0000,,¡Ni hablar!
+Dialogue: 0,0:06:51.74,0:06:53.97,Default,,0000,0000,0000,,¿No? Lo siento.
+Dialogue: 0,0:06:53.97,0:06:58.52,Default,,0000,0000,0000,,En fin, ¡no me gusta \Nque estés tan atontada!
+Dialogue: 0,0:06:58.52,0:07:01.73,Default,,0000,0000,0000,,Nada tendrá sentido si no puedo \Nsuperarte en tu mejor estado.
+Dialogue: 0,0:07:01.73,0:07:04.72,Default,,0000,0000,0000,,¿Por qué te interesas tanto por mí?
+Dialogue: 0,0:07:04.72,0:07:08.24,Default,,0000,0000,0000,,Hay mucha más gente mejor que yo.
+Dialogue: 0,0:07:08.24,0:07:10.86,Default,,0000,0000,0000,,No dejaré que digas que lo olvidaste.
+Dialogue: 0,0:07:11.61,0:07:13.94,Default,,0000,0000,0000,,Nunca podré olvidar...
+Dialogue: 0,0:07:13.94,0:07:17.24,Default,,0000,0000,0000,,el primer día en el que \Nformé equipo contigo.
+Dialogue: 0,0:07:19.14,0:07:21.25,Default,,0000,0000,0000,,¿Tú eres Black Tiger?
+Dialogue: 0,0:07:21.25,0:07:23.76,Default,,0000,0000,0000,,Me llamo Paula. Encantada.
+Dialogue: 0,0:07:24.28,0:07:26.00,Default,,0000,0000,0000,,Qué apuesta es...
+Dialogue: 0,0:07:27.50,0:07:31.20,Default,,0000,0000,0000,,No tienes nada de pecho. ¿Eres un hombre?
+Dialogue: 0,0:07:29.50,0:07:32.13,Texto,,0000,0000,0000,,\N\N\N\N\N\N\N\N\N\N\N\N\N{\fs14\b1\c&HCDDDEB&}Ya tiene un poco{\b0}
+Dialogue: 0,0:07:32.13,0:07:34.39,Default,,0000,0000,0000,,¡¿Y me lo dices tú?!
+Dialogue: 0,0:07:34.39,0:07:37.89,Default,,0000,0000,0000,,¡Tú sí que tienes cara de hombre!
+Dialogue: 0,0:07:37.89,0:07:40.78,Default,,0000,0000,0000,,¡Nadie diría eso nada \Nmás conocer a alguien!
+Dialogue: 0,0:07:40.78,0:07:43.15,Default,,0000,0000,0000,,¡Con lo que me molestaba!
+Dialogue: 0,0:07:43.78,0:07:49.15,Default,,0000,0000,0000,,Juntas participamos en varias \Nmisiones más, pero te llevaste toda la gloria.
+Dialogue: 0,0:07:46.15,0:07:49.15,Texto,,0000,0000,0000,,\N\N\N\N\N{\an9\b1\c&HFBC8B9&}Secuestro{\b0}
+Dialogue: 0,0:07:49.15,0:07:52.61,Default,,0000,0000,0000,,En fin... ¡Decidí que no te perdonaría!
+Dialogue: 0,0:07:53.08,0:07:55.24,Default,,0000,0000,0000,,¡Que haría que te arrepintieras!
+Dialogue: 0,0:07:59.84,0:08:02.50,Default,,0000,0000,0000,,No tienes por qué llorar.
+Dialogue: 0,0:08:02.50,0:08:04.90,Default,,0000,0000,0000,,¡No creas que me ganaste!
+Dialogue: 0,0:08:04.90,0:08:05.96,Default,,0000,0000,0000,,¡¿Llanto?!
+Dialogue: 0,0:08:06.48,0:08:09.90,Default,,0000,0000,0000,,¡Tendremos que pasar a la práctica!
+Dialogue: 0,0:08:09.90,0:08:12.24,Default,,0000,0000,0000,,¡Prepárate, Black Tiger!
+Dialogue: 0,0:08:12.24,0:08:13.97,Default,,0000,0000,0000,,¡Desenfunda!
+Dialogue: 0,0:08:15.24,0:08:18.32,Default,,0000,0000,0000,,Espera. Todavía no has cenado, ¿no?
+Dialogue: 0,0:08:18.32,0:08:19.68,Default,,0000,0000,0000,,Primero comamos.
+Dialogue: 0,0:08:19.68,0:08:22.50,Default,,0000,0000,0000,,¡Esa carne estofada tiene muy buena pinta!
+Dialogue: 0,0:08:22.50,0:08:24.85,Default,,0000,0000,0000,,¡Devuélveme mi seriedad!
+Dialogue: 0,0:08:24.85,0:08:27.08,Default,,0000,0000,0000,,¿Sabes cocinar?
+Dialogue: 0,0:08:27.08,0:08:28.02,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:08:28.98,0:08:33.46,Default,,0000,0000,0000,,Carne estofada... Es un plato familiar.
+Dialogue: 0,0:08:33.46,0:08:35.86,Default,,0000,0000,0000,,Esta no es Black Tiger...
+Dialogue: 0,0:08:36.30,0:08:41.86,Default,,0000,0000,0000,,Antes bebías la sangre de \Ntu objetivo y te regodeabas.
+Dialogue: 0,0:08:40.26,0:08:41.87,Default,,0000,0000,0000,,¡Esta deliciosa!
+Dialogue: 0,0:08:41.87,0:08:43.37,Default,,0000,0000,0000,,¡No es verdad!
+Dialogue: 0,0:08:44.88,0:08:48.75,Default,,0000,0000,0000,,¿Tan diferente es Tsugumi ahora?
+Dialogue: 0,0:08:49.38,0:08:51.26,Default,,0000,0000,0000,,¡No se parece en nada!
+Dialogue: 0,0:08:51.26,0:08:56.39,Default,,0000,0000,0000,,Cuando derrotó a toda una organización \Nella sola hace tres años,
+Dialogue: 0,0:08:56.84,0:08:59.94,Default,,0000,0000,0000,,hizo temblar a todo nuestro mundillo.
+Dialogue: 0,0:08:59.94,0:09:03.52,Default,,0000,0000,0000,,Todos decían que ahora La Colmena \Ntenía un perro guardián aterrador.
+Dialogue: 0,0:09:03.96,0:09:08.40,Default,,0000,0000,0000,,Eso fue cuando unos pandilleros \Nse metieron con Chitoge, ¿no?
+Dialogue: 0,0:09:08.40,0:09:10.90,Default,,0000,0000,0000,,¡¿Cómo lo sabes?!
+Dialogue: 0,0:09:11.38,0:09:14.86,Default,,0000,0000,0000,,Hay muchas leyendas sobre ella.
+Dialogue: 0,0:09:14.86,0:09:17.38,Default,,0000,0000,0000,,He trabajado con Tsugumi varias veces
+Dialogue: 0,0:09:17.38,0:09:20.03,Default,,0000,0000,0000,,y era completamente distinta a los demás.
+Dialogue: 0,0:09:20.62,0:09:25.30,Default,,0000,0000,0000,,Precisamente porque Black \NTiger era así, yo...
+Dialogue: 0,0:09:26.98,0:09:30.84,Default,,0000,0000,0000,,¿Por qué te convertiste en \Nuna persona tan indulgente?
+Dialogue: 0,0:09:30.84,0:09:32.50,Default,,0000,0000,0000,,Está buena.
+Dialogue: 0,0:09:36.30,0:09:38.30,Default,,0000,0000,0000,,¿Puedo comer yo también?
+Dialogue: 0,0:09:38.30,0:09:41.56,Default,,0000,0000,0000,,Ya que estás aquí... Pero si \Nno la quieres, no te la comas.
+Dialogue: 0,0:09:45.06,0:09:48.19,Default,,0000,0000,0000,,¡Vaya! ¡Está delicioso!
+Dialogue: 0,0:09:49.44,0:09:52.38,Default,,0000,0000,0000,,Es impresionante.
+Dialogue: 0,0:09:52.38,0:09:54.14,Default,,0000,0000,0000,,Sabe genial.
+Dialogue: 0,0:09:54.68,0:09:59.45,Default,,0000,0000,0000,,Estaba preocupado porque \Nmi cielo no sabe cocinar,
+Dialogue: 0,0:10:00.14,0:10:02.45,Default,,0000,0000,0000,,¡pero me dan ganas de pedirte la receta!
+Dialogue: 0,0:10:02.45,0:10:04.45,Default,,0000,0000,0000,,¿S-sí?
+Dialogue: 0,0:10:04.45,0:10:05.62,Default,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:10:05.62,0:10:07.71,Default,,0000,0000,0000,,¡Seguro que serás una buena esposa!
+Dialogue: 0,0:10:08.96,0:10:12.32,Default,,0000,0000,0000,,¡¿Quién querría \Nconvertirse en tu esposa?!
+Dialogue: 0,0:10:12.32,0:10:14.67,Default,,0000,0000,0000,,¡No hablaba de mí!
+Dialogue: 0,0:10:14.67,0:10:16.42,Default,,0000,0000,0000,,Entonces, ¡¿de quién hablabas?!
+Dialogue: 0,0:10:15.20,0:10:17.56,Default,,0000,0000,0000,,¡Detente! ¡Es peligroso!
+Dialogue: 0,0:10:16.42,0:10:18.68,Default,,0000,0000,0000,,Oye, Black Tiger...
+Dialogue: 0,0:10:18.68,0:10:21.43,Default,,0000,0000,0000,,Ya sé qué podemos hacer.
+Dialogue: 0,0:10:21.43,0:10:23.74,Default,,0000,0000,0000,,Compite contra mí.
+Dialogue: 0,0:10:23.74,0:10:27.32,Default,,0000,0000,0000,,Si pierdo, me retiraré \Nsin oponer resistencia.
+Dialogue: 0,0:10:27.32,0:10:28.69,Default,,0000,0000,0000,,Sin embargo...
+Dialogue: 0,0:10:29.14,0:10:32.86,Default,,0000,0000,0000,,Si gano, volverás a Estados Unidos.
+Dialogue: 0,0:10:32.86,0:10:36.62,Default,,0000,0000,0000,,Así recuperarás los \Ncolmillos que tenías antes.
+Dialogue: 0,0:10:36.62,0:10:38.10,Default,,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:10:37.18,0:10:38.80,Default,,0000,0000,0000,,Entiendo. Está bien.
+Dialogue: 0,0:10:38.80,0:10:41.74,Default,,0000,0000,0000,,Pero no pienso contenerme.
+Dialogue: 0,0:10:42.28,0:10:44.32,Default,,0000,0000,0000,,¿Cómo quieres competir?
+Dialogue: 0,0:10:44.32,0:10:48.60,Default,,0000,0000,0000,,¿Con pistolas? ¿Cuerpo \Na cuerpo? ¿Con un pulso?
+Dialogue: 0,0:10:48.60,0:10:53.50,Default,,0000,0000,0000,,Hasta ahora no has podido ganarme en nada.
+Dialogue: 0,0:10:53.50,0:10:55.75,Default,,0000,0000,0000,,Tendremos una hora de tiempo límite.
+Dialogue: 0,0:10:56.24,0:11:00.01,Default,,0000,0000,0000,,La ciudad entera será el campo \Nde la prueba. Y ganará...
+Dialogue: 0,0:11:03.01,0:11:05.01,Default,,0000,0000,0000,,la primera que consiga...
+Dialogue: 0,0:11:06.01,0:11:09.77,Default,,0000,0000,0000,,arrebatarle los labios a este hombre.
+Dialogue: 0,0:11:13.26,0:11:16.78,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:11:17.24,0:11:18.78,Titulo,,0000,0000,0000,,{\c&HCC643D&}Duelo
+Dialogue: 0,0:11:18.78,0:11:20.78,Default,,0000,0000,0000,,¡¿Qué clase de duelo es ese?!
+Dialogue: 0,0:11:20.78,0:11:25.92,Default,,0000,0000,0000,,¿Por qué tienen que meter \Nmis labios en su pelea?
+Dialogue: 0,0:11:25.92,0:11:31.71,Default,,0000,0000,0000,,Seducir a un hombre también es una \Nhabilidad necesaria para una asesina.
+Dialogue: 0,0:11:31.71,0:11:34.06,Default,,0000,0000,0000,,¡N-no puedo aceptar eso!
+Dialogue: 0,0:11:34.06,0:11:39.54,Default,,0000,0000,0000,,¿Así que Black Tiger se retira de un duelo?
+Dialogue: 0,0:11:39.54,0:11:41.06,Default,,0000,0000,0000,,¡Escúchame!
+Dialogue: 0,0:11:41.06,0:11:45.05,Default,,0000,0000,0000,,Quizás no me creas, pero ese hombre...
+Dialogue: 0,0:11:45.05,0:11:47.56,Default,,0000,0000,0000,,¡es el novio de la señorita!
+Dialogue: 0,0:11:50.14,0:11:52.06,Default,,0000,0000,0000,,¿De la señorita Chitoge?
+Dialogue: 0,0:11:52.06,0:11:54.98,Default,,0000,0000,0000,,¡S-sí! Es verdad.
+Dialogue: 0,0:11:54.98,0:11:57.22,Default,,0000,0000,0000,,Pregúntaselo a mi cielo, si no lo crees.
+Dialogue: 0,0:11:57.22,0:11:58.32,Default,,0000,0000,0000,,Así que no pueden...
+Dialogue: 0,0:11:58.32,0:12:01.18,Default,,0000,0000,0000,,Entonces es una mala prueba...
+Dialogue: 0,0:12:01.92,0:12:07.20,Default,,0000,0000,0000,,Sin embargo, ¿acaso olvidaste la \N{\i1}omertà{\i0} de La Colmena, Black Tiger?
+Dialogue: 0,0:12:07.20,0:12:10.70,Default,,0000,0000,0000,,¡No podemos retirarnos de un \Nduelo que hayamos aceptado!
+Dialogue: 0,0:12:11.14,0:12:16.96,Default,,0000,0000,0000,,Desde que aceptaste competir contra \Nmí ya no hay vuelta atrás.
+Dialogue: 0,0:12:16.96,0:12:18.76,Default,,0000,0000,0000,,Pero no te preocupes.
+Dialogue: 0,0:12:18.76,0:12:22.59,Default,,0000,0000,0000,,Sea quien sea la que le robe \Nun beso, guardaré el secreto.
+Dialogue: 0,0:12:22.59,0:12:23.72,Default,,0000,0000,0000,,Además...
+Dialogue: 0,0:12:23.72,0:12:29.64,Default,,0000,0000,0000,,aunque sea el novio de la señorita, seguro \Nque solo sale con este tipo por diversión.
+Dialogue: 0,0:12:27.30,0:12:29.64,Texto,,0000,0000,0000,,{\an7\b1\c&HC5675D&}Por diversión{\b0}
+Dialogue: 0,0:12:28.70,0:12:29.64,Texto,,0000,0000,0000,,{\an9\b1\c&H6B43E1&}Este {\c&H9BF4F4&}tipo
+Dialogue: 0,0:12:29.64,0:12:31.35,Default,,0000,0000,0000,,¡Maleducada!
+Dialogue: 0,0:12:32.10,0:12:36.34,Italics,,0000,0000,0000,,Quizás no pueda ganar en \Ncualquier otra situación,
+Dialogue: 0,0:12:36.34,0:12:40.88,Italics,,0000,0000,0000,,pero parece que Black Tiger no \Nsabe relacionarse con los hombres.
+Dialogue: 0,0:12:40.88,0:12:44.24,Italics,,0000,0000,0000,,¡Tengo ventaja!
+Dialogue: 0,0:12:44.24,0:12:46.84,Italics,,0000,0000,0000,,¿A-arrebatarle los labios?
+Dialogue: 0,0:12:46.84,0:12:48.88,Italics,,0000,0000,0000,,¿Yo? ¿A él?
+Dialogue: 0,0:12:48.88,0:12:50.91,Italics,,0000,0000,0000,,N-no puedo hacerlo...
+Dialogue: 0,0:12:51.70,0:12:57.12,Italics,,0000,0000,0000,,Pero si pierdo, volveré a \Nalejarme de la señorita...
+Dialogue: 0,0:12:57.12,0:12:58.80,Italics,,0000,0000,0000,,¡No quiero que pase eso!
+Dialogue: 0,0:12:59.67,0:13:00.94,Italics,,0000,0000,0000,,Además...
+Dialogue: 0,0:13:04.17,0:13:05.51,Default,,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:13:05.51,0:13:07.66,Default,,0000,0000,0000,,¡Empieza el duelo!
+Dialogue: 0,0:13:07.66,0:13:09.89,Default,,0000,0000,0000,,Serán míos.
+Dialogue: 0,0:13:10.64,0:13:12.08,Default,,0000,0000,0000,,¡¿En serio?!
+Dialogue: 0,0:13:20.44,0:13:22.52,Italics,,0000,0000,0000,,Mi cuerpo reaccionó solo.
+Dialogue: 0,0:13:22.52,0:13:24.52,Italics,,0000,0000,0000,,¿Qué es esta sensación?
+Dialogue: 0,0:13:24.96,0:13:27.28,Italics,,0000,0000,0000,,No quiero darle un beso,
+Dialogue: 0,0:13:27.86,0:13:32.33,Italics,,0000,0000,0000,,pero tampoco quiero que \NPaula toque sus labios.
+Dialogue: 0,0:13:34.08,0:13:36.71,Default,,0000,0000,0000,,¡Así me gusta, Black Tiger!
+Dialogue: 0,0:13:40.06,0:13:42.17,Default,,0000,0000,0000,,Mo-moriré...
+Dialogue: 0,0:13:44.88,0:13:47.62,Default,,0000,0000,0000,,¡Moriré! ¡Me matarán!
+Dialogue: 0,0:13:48.48,0:13:50.90,Default,,0000,0000,0000,,¡No pienso seguirles el juego!
+Dialogue: 0,0:13:50.90,0:13:52.50,Default,,0000,0000,0000,,¡Tengo que irme!
+Dialogue: 0,0:13:52.50,0:13:54.89,Default,,0000,0000,0000,,¡No tengo suficientes \Nvidas para soportar esto!
+Dialogue: 0,0:13:54.89,0:13:57.80,Default,,0000,0000,0000,,¡Yo no tengo nada que ver con su duelo!
+Dialogue: 0,0:13:57.80,0:13:59.06,Default,,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:13:59.06,0:14:01.56,Default,,0000,0000,0000,,¡Deja que te bese!
+Dialogue: 0,0:14:07.40,0:14:10.94,Default,,0000,0000,0000,,No conseguiré nada si \Nsimplemente estorbo a Paula.
+Dialogue: 0,0:14:11.32,0:14:12.58,Default,,0000,0000,0000,,Llegados a esto...
+Dialogue: 0,0:14:16.00,0:14:18.62,Default,,0000,0000,0000,,¡Raku Ichijo!
+Dialogue: 0,0:14:19.62,0:14:22.00,Default,,0000,0000,0000,,¡Quédate quieto! ¡Acabaré enseguida!
+Dialogue: 0,0:14:22.79,0:14:25.30,Default,,0000,0000,0000,,Pero...
+Dialogue: 0,0:14:25.30,0:14:26.55,Default,,0000,0000,0000,,¡No hables!
+Dialogue: 0,0:14:29.58,0:14:31.30,Default,,0000,0000,0000,,¿Vas en serio?
+Dialogue: 0,0:14:41.56,0:14:44.00,Default,,0000,0000,0000,,¡No puedo hacerlo!
+Dialogue: 0,0:14:44.00,0:14:45.56,Default,,0000,0000,0000,,¡¿Por qué me pegas?!
+Dialogue: 0,0:14:50.98,0:14:53.83,Default,,0000,0000,0000,,Parece que ganaré yo.
+Dialogue: 0,0:14:57.86,0:14:59.33,Default,,0000,0000,0000,,¡¿Una cortina de humo?!
+Dialogue: 0,0:15:07.78,0:15:08.97,Default,,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:15:17.36,0:15:23.65,Default,,0000,0000,0000,,Estando tan lejos, ni siquiera \NBlack Tiger podrá seguirnos.
+Dialogue: 0,0:15:23.65,0:15:28.65,Default,,0000,0000,0000,,Vamos, muchacho, ríndete y dame tus labios.
+Dialogue: 0,0:15:28.65,0:15:30.74,Default,,0000,0000,0000,,Seré amable.
+Dialogue: 0,0:15:30.74,0:15:32.22,Default,,0000,0000,0000,,¡¿"Muchacho"?!
+Dialogue: 0,0:15:32.22,0:15:34.74,Default,,0000,0000,0000,,¡Si claramente tú eres más joven!
+Dialogue: 0,0:15:35.88,0:15:37.88,Default,,0000,0000,0000,,¡¿Por qué me pasa esto?!
+Dialogue: 0,0:15:37.88,0:15:44.04,Default,,0000,0000,0000,,¡Es mi primer beso! ¡No \Nquiero que sea así!
+Dialogue: 0,0:15:44.04,0:15:46.20,Default,,0000,0000,0000,,El mío también.
+Dialogue: 0,0:15:46.75,0:15:48.56,Default,,0000,0000,0000,,¡¿También?!
+Dialogue: 0,0:15:48.56,0:15:53.74,Default,,0000,0000,0000,,¿Y no te importa jugarte tu \Nprimer beso en este duelo?
+Dialogue: 0,0:15:54.97,0:15:56.97,Default,,0000,0000,0000,,No te entiendo.
+Dialogue: 0,0:15:56.97,0:15:59.46,Default,,0000,0000,0000,,¿Tan importante es el primer beso?
+Dialogue: 0,0:15:59.46,0:16:04.86,Default,,0000,0000,0000,,Todo el mundo se besa. Es un simple \Ncontacto entre partes mucosas, ¿no?
+Dialogue: 0,0:16:04.86,0:16:09.23,Default,,0000,0000,0000,,Los japoneses se ponen nerviosos por nada.
+Dialogue: 0,0:16:10.99,0:16:15.49,Default,,0000,0000,0000,,Quizás para ti no es importante,
+Dialogue: 0,0:16:15.49,0:16:19.24,Default,,0000,0000,0000,,pero lo es para aquellos \Nque quieren atesorarlo.
+Dialogue: 0,0:16:19.24,0:16:20.62,Default,,0000,0000,0000,,Para mí...
+Dialogue: 0,0:16:22.62,0:16:24.50,Default,,0000,0000,0000,,¡y para muchos otros!
+Dialogue: 0,0:16:26.14,0:16:32.13,Default,,0000,0000,0000,,Además, tu objetivo no es \Nganar este duelo, ¿verdad?
+Dialogue: 0,0:16:32.13,0:16:35.76,Default,,0000,0000,0000,,En realidad solo quieres que Tsugumi \Nreconozca tu habilidad, ¿no?
+Dialogue: 0,0:16:37.51,0:16:39.72,Default,,0000,0000,0000,,No, yo...
+Dialogue: 0,0:16:44.66,0:16:48.27,Italics,,0000,0000,0000,,Es inútil. Los perdí de vista.
+Dialogue: 0,0:16:48.70,0:16:49.84,Italics,,0000,0000,0000,,¿Qué hago?
+Dialogue: 0,0:16:49.84,0:16:52.54,Italics,,0000,0000,0000,,Si pierdo, tendré que \Nvolver a Estados Unidos.
+Dialogue: 0,0:16:52.54,0:16:56.28,Italics,,0000,0000,0000,,Volveré a separarme de la señorita.
+Dialogue: 0,0:16:56.74,0:16:59.66,Italics,,0000,0000,0000,,¿Pero qué puedo hacer?
+Dialogue: 0,0:16:59.66,0:17:01.79,Italics,,0000,0000,0000,,Ya será demasiado tarde.
+Dialogue: 0,0:17:05.82,0:17:08.29,Italics,,0000,0000,0000,,¿Por qué me siento así?
+Dialogue: 0,0:17:08.74,0:17:11.55,Italics,,0000,0000,0000,,¿Por qué estoy tan preocupada?
+Dialogue: 0,0:17:11.55,0:17:15.80,Italics,,0000,0000,0000,,No sé por qué, ¡pero \Nesto no me gusta nada!
+Dialogue: 0,0:17:15.80,0:17:21.81,Italics,,0000,0000,0000,,¡No me gusta pensar en que \Nalguien bese a ese tipo!
+Dialogue: 0,0:17:22.26,0:17:24.98,Italics,,0000,0000,0000,,¿Qué puedo hacer?
+Dialogue: 0,0:17:26.20,0:17:27.56,Italics,,0000,0000,0000,,No quiero.
+Dialogue: 0,0:17:27.56,0:17:32.84,Italics,,0000,0000,0000,,No quiero. No quiero. No quiero. No quiero.
+Dialogue: 0,0:17:47.58,0:17:49.25,Default,,0000,0000,0000,,¡¿Qué pasa?!
+Dialogue: 0,0:17:49.74,0:17:53.88,Default,,0000,0000,0000,,¡¿Nos encontró estando tan lejos?!
+Dialogue: 0,0:18:04.31,0:18:08.22,Default,,0000,0000,0000,,¡Tsugumi, ayuda! ¡Llegas justo a...!
+Dialogue: 0,0:18:09.36,0:18:11.56,Default,,0000,0000,0000,,¿Tsugumi-san?
+Dialogue: 0,0:18:12.50,0:18:13.57,Default,,0000,0000,0000,,Esa es...
+Dialogue: 0,0:18:20.74,0:18:22.70,Default,,0000,0000,0000,,¿Esa es Tsugumi?
+Dialogue: 0,0:18:23.14,0:18:24.38,Default,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:18:24.38,0:18:27.02,Default,,0000,0000,0000,,Por fin se lo toma en serio.
+Dialogue: 0,0:18:27.02,0:18:29.33,Default,,0000,0000,0000,,Hacía tiempo que no la veía así.
+Dialogue: 0,0:18:29.33,0:18:32.00,Default,,0000,0000,0000,,Fantástico, Black Tiger.
+Dialogue: 0,0:18:32.00,0:18:35.09,Default,,0000,0000,0000,,¡Esa ansia de sangre es \Nlo que esperaba de ti!
+Dialogue: 0,0:18:35.09,0:18:37.46,Default,,0000,0000,0000,,Ahora por fin podré divertirme...
+Dialogue: 0,0:18:39.72,0:18:40.97,Default,,0000,0000,0000,,¿No está?
+Dialogue: 0,0:18:59.68,0:19:04.16,Default,,0000,0000,0000,,¡¿Destrozó una columna \Nde cemento de una patada?!
+Dialogue: 0,0:19:04.64,0:19:07.54,Default,,0000,0000,0000,,¡Es increíble! Su velocidad y su poder...
+Dialogue: 0,0:19:07.54,0:19:11.48,Default,,0000,0000,0000,,no decayeron, es más, son \Nmucho mejores que antes.
+Dialogue: 0,0:19:11.48,0:19:12.46,Default,,0000,0000,0000,,Paula...
+Dialogue: 0,0:19:12.46,0:19:13.66,Default,,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:19:14.38,0:19:18.13,Default,,0000,0000,0000,,No te resistas, ¿de acuerdo?
+Dialogue: 0,0:19:18.13,0:19:20.13,Default,,0000,0000,0000,,S-sí.
+Dialogue: 0,0:19:20.88,0:19:22.56,Default,,0000,0000,0000,,Raku Ichijo...
+Dialogue: 0,0:19:22.56,0:19:23.64,Default,,0000,0000,0000,,¡¿Sí?!
+Dialogue: 0,0:19:30.84,0:19:32.76,Default,,0000,0000,0000,,No me digas que...
+Dialogue: 0,0:19:32.76,0:19:34.52,Default,,0000,0000,0000,,No hables.
+Dialogue: 0,0:20:10.70,0:20:12.19,Default,,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:20:12.19,0:20:16.80,Default,,0000,0000,0000,,Ya le arrebaté los labios. Gané yo, Paula.
+Dialogue: 0,0:20:16.80,0:20:18.73,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:20:18.73,0:20:22.70,Default,,0000,0000,0000,,¡A eso no se le puede llamar beso!
+Dialogue: 0,0:20:22.70,0:20:24.08,Default,,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:20:24.08,0:20:29.82,Default,,0000,0000,0000,,Dijiste que le "arrebatáramos los \Nlabios", así que eso también cuenta.
+Dialogue: 0,0:20:29.82,0:20:32.54,Default,,0000,0000,0000,,¿Acaso tienes algo que decir?
+Dialogue: 0,0:20:32.54,0:20:35.29,Default,,0000,0000,0000,,No, nada. Lo siento mucho.
+Dialogue: 0,0:20:42.50,0:20:43.94,Default,,0000,0000,0000,,Aunque...
+Dialogue: 0,0:20:45.55,0:20:49.81,Default,,0000,0000,0000,,debo admitir que cuando me \Natacaste y cuando te lo llevaste,
+Dialogue: 0,0:20:49.81,0:20:52.31,Default,,0000,0000,0000,,tus movimientos fueron muy buenos.
+Dialogue: 0,0:20:54.31,0:20:57.69,Default,,0000,0000,0000,,Te hiciste más fuerte, ¿no? Me alegro.
+Dialogue: 0,0:21:13.76,0:21:20.46,Default,,0000,0000,0000,,¿Por qué desapareciste de repente, tonta?
+Dialogue: 0,0:21:20.94,0:21:22.02,Default,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:21:22.02,0:21:25.82,Default,,0000,0000,0000,,Me llamaron repentinamente y \Ntú estabas en una misión.
+Dialogue: 0,0:21:42.64,0:21:45.36,Default,,0000,0000,0000,,Me iré, tal y como prometí,
+Dialogue: 0,0:21:45.36,0:21:48.96,Default,,0000,0000,0000,,pero un día tienes que volver \Na Estados Unidos, Black Tiger.
+Dialogue: 0,0:21:48.96,0:21:49.99,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:21:49.99,0:21:53.75,Default,,0000,0000,0000,,Caray, vaya día que tuve.
+Dialogue: 0,0:21:54.24,0:21:56.12,Default,,0000,0000,0000,,¿Alguna queja?
+Dialogue: 0,0:21:56.98,0:21:58.50,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:21:59.82,0:22:01.26,Default,,0000,0000,0000,,Qué cansancio.
+Dialogue: 0,0:22:01.26,0:22:04.52,Default,,0000,0000,0000,,¿Y bien? ¿Qué vas a hacer, Black Tiger?
+Dialogue: 0,0:22:04.52,0:22:05.50,Default,,0000,0000,0000,,¿A qué te refieres?
+Dialogue: 0,0:22:05.50,0:22:08.26,Default,,0000,0000,0000,,Es el novio de la señorita, ¿no?
+Dialogue: 0,0:22:08.26,0:22:10.01,Default,,0000,0000,0000,,¿Seguirás como hasta ahora?
+Dialogue: 0,0:22:14.02,0:22:17.27,Default,,0000,0000,0000,,No sé de qué hablas.
+Dialogue: 0,0:22:22.26,0:22:23.78,Default,,0000,0000,0000,,Rayos...
+Dialogue: 0,0:22:23.78,0:22:25.72,Default,,0000,0000,0000,,¿De qué hablan?
+Dialogue: 0,0:22:25.72,0:22:27.53,Default,,0000,0000,0000,,¡A ti no te incumbe!
+Dialogue: 0,0:22:29.52,0:22:32.06,Default,,0000,0000,0000,,Todavía es una niña.

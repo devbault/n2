@@ -1,0 +1,381 @@
+﻿[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Texto,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0010,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Titulo,Trebuchet MS,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0031,1
+Style: Titulo2,Times New Roman,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0014,1
+Style: Introtexto,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,0010,0010,0010,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.87,0:00:14.57,Default,,0000,0000,0000,,Algo no está bien.
+Dialogue: 0,0:00:14.57,0:00:16.70,Default,,0000,0000,0000,,Empezaré de nuevo.
+Dialogue: 0,0:00:34.76,0:00:35.59,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:00:35.59,0:00:36.80,Default,,0000,0000,0000,,¡Está delicioso!
+Dialogue: 0,0:00:37.13,0:00:39.02,Default,,0000,0000,0000,,¡Me salió muy bueno!
+Dialogue: 0,0:00:39.02,0:00:41.03,Default,,0000,0000,0000,,¡Es un milagro de una entre 10,000 veces!
+Dialogue: 0,0:00:41.50,0:00:44.01,Default,,0000,0000,0000,,Quiero dárselo.
+Dialogue: 0,0:00:44.01,0:00:45.72,Default,,0000,0000,0000,,¡Debo dárselo!
+Dialogue: 0,0:02:17.79,0:02:20.28,Titulo,,0000,0000,0000,,{\c&HDF8F0A&}Delicioso
+Dialogue: 0,0:02:21.91,0:02:24.81,Default,,0000,0000,0000,,Hoy es San Valentín...
+Dialogue: 0,0:02:24.81,0:02:27.41,Default,,0000,0000,0000,,No me interesa demasiado, pero...
+Dialogue: 0,0:02:29.87,0:02:31.96,Default,,0000,0000,0000,,No me interesa en absoluto.
+Dialogue: 0,0:02:35.38,0:02:37.79,Default,,0000,0000,0000,,Te hiciste ilusiones, ¿verdad?
+Dialogue: 0,0:02:37.79,0:02:40.33,Default,,0000,0000,0000,,No. Para nada.
+Dialogue: 0,0:02:40.33,0:02:45.45,Default,,0000,0000,0000,,Shuu, estaba claro que en mi \Ncasillero no habría bombones.
+Dialogue: 0,0:02:46.12,0:02:47.87,Default,,0000,0000,0000,,Eres muy humilde.
+Dialogue: 0,0:02:47.87,0:02:53.10,Default,,0000,0000,0000,,Recemos por recibir algunos, \Ncompañero de guerra.
+Dialogue: 0,0:02:53.10,0:02:54.98,Default,,0000,0000,0000,,No me interesa.
+Dialogue: 0,0:03:04.78,0:03:06.99,Italics,,0000,0000,0000,,¡Quiero recibir bombones!
+Dialogue: 0,0:03:07.32,0:03:10.52,Italics,,0000,0000,0000,,Ninguna chica me ha dado nunca.
+Dialogue: 0,0:03:10.52,0:03:12.84,Italics,,0000,0000,0000,,¿Quizás Chitoge me dará?
+Dialogue: 0,0:03:12.84,0:03:15.23,Italics,,0000,0000,0000,,Se supone que somos novios.
+Dialogue: 0,0:03:15.23,0:03:17.46,Italics,,0000,0000,0000,,Y Onodera...
+Dialogue: 0,0:03:17.46,0:03:18.84,Italics,,0000,0000,0000,,¡No, seguro que no!
+Dialogue: 0,0:03:18.84,0:03:20.44,Italics,,0000,0000,0000,,¿Por qué me hago ilusiones?
+Dialogue: 0,0:03:20.44,0:03:22.58,Italics,,0000,0000,0000,,Está claro que nunca me \Ndaría bombones a mí.
+Dialogue: 0,0:03:25.02,0:03:26.84,Default,,0000,0000,0000,,Buenos días, debilucho.
+Dialogue: 0,0:03:26.84,0:03:29.72,Default,,0000,0000,0000,,Ho-hola. Buenos días.
+Dialogue: 0,0:03:32.74,0:03:34.73,Default,,0000,0000,0000,,¿Qué? ¿Quieres algo?
+Dialogue: 0,0:03:35.06,0:03:36.20,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:03:36.20,0:03:38.17,Default,,0000,0000,0000,,No es nada.
+Dialogue: 0,0:03:38.52,0:03:39.69,Default,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:03:41.07,0:03:43.32,Default,,0000,0000,0000,,Por cierto, ¿qué pasa hoy?
+Dialogue: 0,0:03:43.32,0:03:46.70,Default,,0000,0000,0000,,Todo el mundo parece nervioso.
+Dialogue: 0,0:03:47.51,0:03:49.88,Default,,0000,0000,0000,,¿No conoces San Valentín?
+Dialogue: 0,0:03:49.88,0:03:51.13,Default,,0000,0000,0000,,¿Valentín?
+Dialogue: 0,0:03:51.13,0:03:55.42,Default,,0000,0000,0000,,Verdad, en Estados Unidos no tienen la \Ncostumbre de regalar bombones, ¿no?
+Dialogue: 0,0:03:56.25,0:03:59.90,Default,,0000,0000,0000,,Claro, San Valentín.
+Dialogue: 0,0:03:59.90,0:04:03.05,Default,,0000,0000,0000,,Así que es hoy. Ahora lo entiendo.
+Dialogue: 0,0:04:03.80,0:04:08.86,Default,,0000,0000,0000,,No creerás que voy a darte algo, ¿o sí?
+Dialogue: 0,0:04:08.86,0:04:13.87,Default,,0000,0000,0000,,Aunque finjamos ser una pareja, no \Ntengo obligación de darte nada.
+Dialogue: 0,0:04:13.87,0:04:16.07,Default,,0000,0000,0000,,Cállate. Ya lo sé.
+Dialogue: 0,0:04:16.55,0:04:18.09,Italics,,0000,0000,0000,,Sabía que no funcionaría.
+Dialogue: 0,0:04:18.09,0:04:22.87,Italics,,0000,0000,0000,,Es culpa mía por esperar \Nalgo tan femenino de ella.
+Dialogue: 0,0:04:24.82,0:04:26.20,Italics,,0000,0000,0000,,¡¿Por qué no soy sincera?!
+Dialogue: 0,0:04:26.20,0:04:28.08,Italics,,0000,0000,0000,,¡Soy tonta, tonta, tonta!
+Dialogue: 0,0:04:28.08,0:04:29.56,Italics,,0000,0000,0000,,¿A qué vino esa actitud?
+Dialogue: 0,0:04:29.56,0:04:31.74,Italics,,0000,0000,0000,,Ahora será más difícil dárselos.
+Dialogue: 0,0:04:31.74,0:04:33.58,Italics,,0000,0000,0000,,¡¿Por qué soy así?!
+Dialogue: 0,0:04:33.58,0:04:34.79,Default,,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:04:36.15,0:04:38.75,Default,,0000,0000,0000,,Buenos días, Chitoge-chan, Ichijo-kun.
+Dialogue: 0,0:04:39.48,0:04:40.62,Default,,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:04:40.62,0:04:42.78,Default,,0000,0000,0000,,Buenos días, Kosaki-chan.
+Dialogue: 0,0:04:43.11,0:04:45.82,Default,,0000,0000,0000,,Hoy hace buen día, ¿verdad, Ichijo-kun?
+Dialogue: 0,0:04:45.82,0:04:48.34,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:04:50.65,0:04:52.02,Texto,,0000,0000,0000,,{\b1\c&HFFF5C1&}Fin de la Conversación{\b0}
+Dialogue: 0,0:04:52.65,0:04:53.88,Italics,,0000,0000,0000,,¿Qué hago?
+Dialogue: 0,0:04:53.88,0:04:56.17,Italics,,0000,0000,0000,,No sé qué más decir.
+Dialogue: 0,0:04:56.17,0:04:59.02,Italics,,0000,0000,0000,,¿De verdad podré dárselos?
+Dialogue: 0,0:04:59.88,0:05:03.29,Italics,,0000,0000,0000,,Onodera actúa igual que siempre.
+Dialogue: 0,0:05:05.78,0:05:08.38,Default,,0000,0000,0000,,Este... ¡Acéptalos, por favor!
+Dialogue: 0,0:05:11.75,0:05:13.46,Default,,0000,0000,0000,,¡Los aceptó!
+Dialogue: 0,0:05:12.42,0:05:13.99,Default,,0000,0000,0000,,¡Bien hecho!
+Dialogue: 0,0:05:14.62,0:05:16.60,Default,,0000,0000,0000,,¿A qué vino eso?
+Dialogue: 0,0:05:16.60,0:05:20.07,Default,,0000,0000,0000,,Son bombones de San Valentín, obviamente.
+Dialogue: 0,0:05:20.84,0:05:24.32,Default,,0000,0000,0000,,No esperaba menos de ti, \NSeishirou-chan. Eres muy popular.
+Dialogue: 0,0:05:24.32,0:05:25.76,Default,,0000,0000,0000,,¿Qué es San Valentín?
+Dialogue: 0,0:05:26.50,0:05:28.11,Default,,0000,0000,0000,,¿No lo sabes?
+Dialogue: 0,0:05:28.11,0:05:33.39,Default,,0000,0000,0000,,San Valentín es el día donde entregas \Nbombones a aquellos que odias.
+Dialogue: 0,0:05:34.47,0:05:37.98,Default,,0000,0000,0000,,No recuerdo haber hecho nada \Npara que esas chicas me odien.
+Dialogue: 0,0:05:37.98,0:05:44.99,Default,,0000,0000,0000,,Si le compras bombones a Raku y se \Nlos das, puede que pase algo bueno.
+Dialogue: 0,0:05:45.62,0:05:49.55,Default,,0000,0000,0000,,En tal caso, primero te daré estos a ti.
+Dialogue: 0,0:05:49.55,0:05:50.60,Default,,0000,0000,0000,,Acéptalos.
+Dialogue: 0,0:05:51.86,0:05:53.70,Default,,0000,0000,0000,,Con mucho gusto.
+Dialogue: 0,0:05:54.38,0:05:56.71,Default,,0000,0000,0000,,Shuu, ¿tienes un momento?
+Dialogue: 0,0:06:00.04,0:06:01.34,Default,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:06:01.67,0:06:04.21,Default,,0000,0000,0000,,Di-disculpen.
+Dialogue: 0,0:06:05.30,0:06:07.08,Default,,0000,0000,0000,,¿Qué fue eso?
+Dialogue: 0,0:06:08.30,0:06:10.76,Default,,0000,0000,0000,,Lo siento, Seishirou-chan.
+Dialogue: 0,0:06:10.76,0:06:13.31,Default,,0000,0000,0000,,Te contaré la verdad.
+Dialogue: 0,0:06:14.97,0:06:16.70,Italics,,0000,0000,0000,,Qué susto.
+Dialogue: 0,0:06:16.70,0:06:21.02,Italics,,0000,0000,0000,,No me di cuenta de que a \NTsugumi le gustaba Shuu.
+Dialogue: 0,0:06:21.02,0:06:23.45,Italics,,0000,0000,0000,,No entiendo a las chicas.
+Dialogue: 0,0:06:23.45,0:06:26.88,Default,,0000,0000,0000,,¿Raku-sama, dónde estás?
+Dialogue: 0,0:06:30.76,0:06:31.82,Default,,0000,0000,0000,,¡Raku-sama!
+Dialogue: 0,0:06:36.58,0:06:39.02,Default,,0000,0000,0000,,Lo siento mucho, Raku-sama.
+Dialogue: 0,0:06:39.02,0:06:41.98,Default,,0000,0000,0000,,Tardé un poco en terminarla.
+Dialogue: 0,0:06:45.80,0:06:49.38,Default,,0000,0000,0000,,¡No escaparás, Raku-sama! ¡Prepárate!
+Dialogue: 0,0:06:53.55,0:06:55.93,Default,,0000,0000,0000,,¡Raku-sama!
+Dialogue: 0,0:06:57.53,0:06:59.85,Default,,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:07:04.97,0:07:07.92,Italics,,0000,0000,0000,,Marika-chan es impresionante.
+Dialogue: 0,0:07:07.92,0:07:10.99,Italics,,0000,0000,0000,,Es genial que pueda mostrar \Nabiertamente sus sentimientos.
+Dialogue: 0,0:07:13.50,0:07:16.37,Italics,,0000,0000,0000,,No debo acobardarme.
+Dialogue: 0,0:07:16.37,0:07:19.36,Italics,,0000,0000,0000,,Yo también hice unos bombones deliciosos.
+Dialogue: 0,0:07:19.36,0:07:20.73,Italics,,0000,0000,0000,,¡Ánimo!
+Dialogue: 0,0:07:22.26,0:07:23.71,Default,,0000,0000,0000,,¡Para, Ichijo-kun!
+Dialogue: 0,0:07:24.38,0:07:25.36,Default,,0000,0000,0000,,¿Onodera?
+Dialogue: 0,0:07:25.36,0:07:28.65,Default,,0000,0000,0000,,Este... ¡Quería darte una cosa!
+Dialogue: 0,0:07:32.13,0:07:33.96,Default,,0000,0000,0000,,¿Estás bien, Onodera?
+Dialogue: 0,0:07:34.33,0:07:37.56,Default,,0000,0000,0000,,Sí, estoy bien.
+Dialogue: 0,0:07:38.01,0:07:39.31,Default,,0000,0000,0000,,¿Onodera?
+Dialogue: 0,0:07:39.31,0:07:41.22,Default,,0000,0000,0000,,¡Estoy bien!
+Dialogue: 0,0:07:44.98,0:07:49.74,Default,,0000,0000,0000,,Al final no podré entregárselo.
+Dialogue: 0,0:07:50.15,0:07:53.38,Default,,0000,0000,0000,,Y eso que me quedó muy bueno...
+Dialogue: 0,0:07:54.73,0:07:58.04,Default,,0000,0000,0000,,Está delicioso.
+Dialogue: 0,0:08:00.86,0:08:02.76,Italics,,0000,0000,0000,,No la encuentro.
+Dialogue: 0,0:08:02.76,0:08:07.50,Italics,,0000,0000,0000,,Onodera no se comportaba como siempre.
+Dialogue: 0,0:08:08.26,0:08:10.52,Default,,0000,0000,0000,,¡Quieto ahí!
+Dialogue: 0,0:08:11.59,0:08:13.07,Default,,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:08:13.07,0:08:14.80,Default,,0000,0000,0000,,¡Perdóname!
+Dialogue: 0,0:08:14.80,0:08:17.72,Default,,0000,0000,0000,,¡Basta!
+Dialogue: 0,0:08:15.88,0:08:17.72,Default,,0000,0000,0000,,¿Shuu y Tsugumi?
+Dialogue: 0,0:08:20.22,0:08:22.01,Default,,0000,0000,0000,,Maldito sea...
+Dialogue: 0,0:08:22.01,0:08:24.06,Default,,0000,0000,0000,,Siempre me toma por tonta...
+Dialogue: 0,0:08:24.06,0:08:24.84,Default,,0000,0000,0000,,¡Tsugumi!
+Dialogue: 0,0:08:26.94,0:08:28.69,Default,,0000,0000,0000,,¿A qué viene ese grito?
+Dialogue: 0,0:08:28.69,0:08:31.66,Default,,0000,0000,0000,,¡¿Ra-Raku Ichijo?!
+Dialogue: 0,0:08:31.66,0:08:34.30,Default,,0000,0000,0000,,¿Qué haces tú aquí?
+Dialogue: 0,0:08:34.30,0:08:36.62,Default,,0000,0000,0000,,Estoy buscando a Onodera.
+Dialogue: 0,0:08:36.62,0:08:38.41,Default,,0000,0000,0000,,¿No la viste?
+Dialogue: 0,0:08:38.41,0:08:40.38,Default,,0000,0000,0000,,No, no la vi.
+Dialogue: 0,0:08:43.45,0:08:48.44,Default,,0000,0000,0000,,Raku Ichijo, tengo algo \Nimportante que decirte.
+Dialogue: 0,0:08:50.14,0:08:53.52,Default,,0000,0000,0000,,Ya. Me sorprendió descubrir \Nque te gustara Shuu.
+Dialogue: 0,0:08:53.52,0:08:56.19,Default,,0000,0000,0000,,¡No es eso!
+Dialogue: 0,0:08:56.19,0:08:57.48,Default,,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:08:57.48,0:09:00.44,Default,,0000,0000,0000,,¿Entonces qué eran los \Nbombones que tenías?
+Dialogue: 0,0:09:00.92,0:09:05.07,Default,,0000,0000,0000,,Me los dio una chica de otra clase.
+Dialogue: 0,0:09:05.07,0:09:06.27,Default,,0000,0000,0000,,¿Una chica?
+Dialogue: 0,0:09:06.68,0:09:10.64,Default,,0000,0000,0000,,Ahora que lo pienso, no sé \Npor qué me los dio a mí.
+Dialogue: 0,0:09:10.64,0:09:14.44,Default,,0000,0000,0000,,Quizás tampoco sabía en qué \Nconsiste San Valentín...
+Dialogue: 0,0:09:14.44,0:09:17.02,Default,,0000,0000,0000,,o pensó que yo era un hombre.
+Dialogue: 0,0:09:17.02,0:09:20.78,Default,,0000,0000,0000,,Dudo que sea eso, pero...
+Dialogue: 0,0:09:22.07,0:09:27.78,Default,,0000,0000,0000,,Es muy frustrante no haber recibido bombones \Nsi incluso te dieron a ti, una chica.
+Dialogue: 0,0:09:28.44,0:09:32.00,Default,,0000,0000,0000,,¿Tantas ganas tienen los hombres \Nde recibir bombones ?
+Dialogue: 0,0:09:32.38,0:09:35.01,Italics,,0000,0000,0000,,Maldición... Lo dije sin pensar.
+Dialogue: 0,0:09:39.80,0:09:41.60,Default,,0000,0000,0000,,Raku Ichijo...
+Dialogue: 0,0:09:41.60,0:09:43.85,Default,,0000,0000,0000,,O-oí que en San Valentín...
+Dialogue: 0,0:09:43.85,0:09:47.85,Default,,0000,0000,0000,,hay un sistema de dar \Nbombones también a los amigos.
+Dialogue: 0,0:09:48.23,0:09:51.22,Default,,0000,0000,0000,,Si eso te sirve, no me importa darte esto.
+Dialogue: 0,0:09:51.85,0:09:52.73,Default,,0000,0000,0000,,¡¿De verdad?!
+Dialogue: 0,0:09:52.73,0:09:53.96,Default,,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:09:53.96,0:09:55.93,Default,,0000,0000,0000,,¡Me alegra mucho!
+Dialogue: 0,0:09:55.93,0:09:58.32,Default,,0000,0000,0000,,¡Aunque solo sea por ser amigos!
+Dialogue: 0,0:09:58.32,0:10:00.12,Default,,0000,0000,0000,,¡Gracias, Tsugumi!
+Dialogue: 0,0:10:00.44,0:10:02.19,Default,,0000,0000,0000,,¿Ta-tanto te alegra?
+Dialogue: 0,0:10:02.19,0:10:03.08,Default,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:10:03.08,0:10:04.96,Default,,0000,0000,0000,,¡Estoy emocionado!
+Dialogue: 0,0:10:04.96,0:10:09.21,Default,,0000,0000,0000,,Es la primera vez que una \Nchica me da bombones.
+Dialogue: 0,0:10:09.56,0:10:11.74,Default,,0000,0000,0000,,¿La primera vez?
+Dialogue: 0,0:10:12.34,0:10:14.24,Default,,0000,0000,0000,,Gracias, de verdad.
+Dialogue: 0,0:10:14.24,0:10:16.17,Default,,0000,0000,0000,,Te devolveré el favor en el White Day.
+Dialogue: 0,0:10:17.38,0:10:19.91,Default,,0000,0000,0000,,¿White? Cla-claro.
+Dialogue: 0,0:10:20.52,0:10:23.88,Default,,0000,0000,0000,,Por cierto, quizás me \Nmeto donde no me llaman,
+Dialogue: 0,0:10:23.88,0:10:26.89,Default,,0000,0000,0000,,pero no deberías regalar \Nlos bombones que te den.
+Dialogue: 0,0:10:26.89,0:10:31.02,Default,,0000,0000,0000,,Seguro que esa chica se armó de valor \Npara dártelos, así que cómetelos.
+Dialogue: 0,0:10:32.44,0:10:35.93,Default,,0000,0000,0000,,Te metes donde no te llaman. Eso ya lo sé.
+Dialogue: 0,0:10:35.93,0:10:37.21,Default,,0000,0000,0000,,Adiós.
+Dialogue: 0,0:10:38.46,0:10:42.20,Italics,,0000,0000,0000,,Entonces tú también te \Ncomerás el mío, ¿no?
+Dialogue: 0,0:10:43.99,0:10:46.20,Italics,,0000,0000,0000,,Maldición... Eso me recordó algo.
+Dialogue: 0,0:10:46.60,0:10:51.34,Italics,,0000,0000,0000,,Le dije eso a Tsugumi, pero yo huí \Nde Tachibana sin aceptar su chocolate.
+Dialogue: 0,0:10:52.44,0:10:55.68,Italics,,0000,0000,0000,,¡Debería darme vergüenza \Nsermonear a alguien!
+Dialogue: 0,0:10:55.68,0:10:58.06,Italics,,0000,0000,0000,,Antes salí corriendo instintivamente,
+Dialogue: 0,0:10:58.06,0:11:01.85,Italics,,0000,0000,0000,,pero Tachibana preparó \Nese chocolate para mí.
+Dialogue: 0,0:11:01.85,0:11:03.80,Italics,,0000,0000,0000,,Iré primero a disculparme.
+Dialogue: 0,0:11:03.80,0:11:06.10,Italics,,0000,0000,0000,,Luego buscaré a Onodera.
+Dialogue: 0,0:11:08.28,0:11:11.56,Italics,,0000,0000,0000,,¡¿Qu-qué pasó?!
+Dialogue: 0,0:11:11.56,0:11:13.40,Italics,,0000,0000,0000,,¡Es culpa mía!
+Dialogue: 0,0:11:13.40,0:11:15.78,Italics,,0000,0000,0000,,Si no hubiera escapado...
+Dialogue: 0,0:11:16.31,0:11:18.03,Default,,0000,0000,0000,,Raku-sama...
+Dialogue: 0,0:11:19.21,0:11:21.84,Default,,0000,0000,0000,,Lo siento mucho, Raku-sama.
+Dialogue: 0,0:11:21.84,0:11:26.65,Default,,0000,0000,0000,,La preparé para ti, pero \Nme despisté y se rompió.
+Dialogue: 0,0:11:27.91,0:11:31.71,Default,,0000,0000,0000,,Lo siento. Fue culpa mía por emocionarme.
+Dialogue: 0,0:11:31.71,0:11:36.81,Default,,0000,0000,0000,,La volveré a preparar y la traeré \Nde nuevo. ¿La aceptarás?
+Dialogue: 0,0:11:38.66,0:11:40.65,Italics,,0000,0000,0000,,¡Siento que se me desgarra el pecho!
+Dialogue: 0,0:11:40.65,0:11:42.48,Italics,,0000,0000,0000,,Lo siento, Tachibana.
+Dialogue: 0,0:11:42.48,0:11:44.54,Italics,,0000,0000,0000,,¿Cómo pude hacer algo así?
+Dialogue: 0,0:11:44.54,0:11:50.22,Italics,,0000,0000,0000,,Hiciste un bombón tan \Nimpresionante para mí y yo...
+Dialogue: 0,0:11:50.74,0:11:52.72,Default,,0000,0000,0000,,¡Perdóname, Tachibana!
+Dialogue: 0,0:11:56.34,0:11:58.12,Default,,0000,0000,0000,,¡No lo hagas, Raku-sama!
+Dialogue: 0,0:11:58.12,0:12:00.54,Default,,0000,0000,0000,,¡No debes meterte algo tan sucio a la boca!
+Dialogue: 0,0:12:00.54,0:12:04.70,Default,,0000,0000,0000,,¡Deja que me lo coma, Tachibana! \N¡Si no, no me quedaré tranquilo!
+Dialogue: 0,0:12:04.70,0:12:06.53,Default,,0000,0000,0000,,Lo siento mucho.
+Dialogue: 0,0:12:06.53,0:12:12.41,Default,,0000,0000,0000,,Me alegra saber lo que sientes, \Npero te destrozarás el estómago.
+Dialogue: 0,0:12:12.41,0:12:15.18,Default,,0000,0000,0000,,Me preocupa más tu salud.
+Dialogue: 0,0:12:15.18,0:12:18.30,Default,,0000,0000,0000,,¡No! ¡Por favor, deja que me lo coma!
+Dialogue: 0,0:12:20.52,0:12:21.96,Default,,0000,0000,0000,,Está bien.
+Dialogue: 0,0:12:21.96,0:12:25.50,Default,,0000,0000,0000,,Si tanto insistes, ¿qué te parece esto?
+Dialogue: 0,0:12:25.50,0:12:32.51,Default,,0000,0000,0000,,Como compensación por el chocolate, harás \Ncualquier cosa que te pida por una vez.
+Dialogue: 0,0:12:32.51,0:12:35.45,Default,,0000,0000,0000,,Entonces olvidaré lo que pasó hoy.
+Dialogue: 0,0:12:35.45,0:12:39.13,Default,,0000,0000,0000,,Olvídate tú también \Nde la estatua, Raku-sama.
+Dialogue: 0,0:12:39.13,0:12:40.32,Default,,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:12:41.34,0:12:43.82,Default,,0000,0000,0000,,Está bien. Si es lo que quieres...
+Dialogue: 0,0:12:44.82,0:12:47.70,Default,,0000,0000,0000,,Te compensaré, pero me comeré el chocolate.
+Dialogue: 0,0:12:49.50,0:12:52.28,Default,,0000,0000,0000,,¡Eso no es justo, Raku-sama!
+Dialogue: 0,0:12:52.28,0:12:53.77,Default,,0000,0000,0000,,No importa.
+Dialogue: 0,0:12:53.77,0:12:56.44,Default,,0000,0000,0000,,Sí importa. Va contra las reglas.
+Dialogue: 0,0:12:56.44,0:12:58.81,Default,,0000,0000,0000,,Pero es que está delicioso.
+Dialogue: 0,0:12:58.81,0:13:01.38,Default,,0000,0000,0000,,Solo lo como porque quiero, \Nasí que no me detengas.
+Dialogue: 0,0:13:03.38,0:13:07.24,Italics,,0000,0000,0000,,No es justo...
+Dialogue: 0,0:13:08.54,0:13:11.16,Default,,0000,0000,0000,,Pensaba que me moría.
+Dialogue: 0,0:13:11.16,0:13:13.02,Default,,0000,0000,0000,,No imaginé que se enojaría tanto.
+Dialogue: 0,0:13:13.02,0:13:17.00,Default,,0000,0000,0000,,Es culpa tuya por inventarte \Nestúpidas mentiras.
+Dialogue: 0,0:13:17.00,0:13:19.23,Default,,0000,0000,0000,,No tengo excusa.
+Dialogue: 0,0:13:19.64,0:13:24.08,Default,,0000,0000,0000,,Por cierto, Ruri-chan, ¿le \Ndarás bombones a alguien?
+Dialogue: 0,0:13:24.08,0:13:26.44,Default,,0000,0000,0000,,No tengo intención de hacerlo.
+Dialogue: 0,0:13:26.44,0:13:30.51,Default,,0000,0000,0000,,Pues dame esos palitos de chocolate a mí,
+Dialogue: 0,0:13:30.51,0:13:32.49,Default,,0000,0000,0000,,ya que es San Valentín...
+Dialogue: 0,0:13:39.13,0:13:41.07,Default,,0000,0000,0000,,Eres muy fría.
+Dialogue: 0,0:13:41.07,0:13:44.72,Default,,0000,0000,0000,,No extorsiones a los demás solo \Nporque no te dieron ni un bombón.
+Dialogue: 0,0:13:44.72,0:13:47.72,Default,,0000,0000,0000,,Este año me dieron dos veces.
+Dialogue: 0,0:13:48.33,0:13:51.98,Default,,0000,0000,0000,,¿Por qué eres tan irritante?
+Dialogue: 0,0:13:52.47,0:13:55.91,Default,,0000,0000,0000,,Ahora que lo pienso, ¿cómo \Nle habrá ido a Kosaki?
+Dialogue: 0,0:13:57.30,0:14:00.48,Default,,0000,0000,0000,,¿Kosaki-chan? ¿Qué haces aquí?
+Dialogue: 0,0:14:00.48,0:14:01.98,Default,,0000,0000,0000,,Chitoge-chan....
+Dialogue: 0,0:14:02.49,0:14:05.37,Default,,0000,0000,0000,,¿Es un pastel de chocolate? \N¿Se lo darás a alguien?
+Dialogue: 0,0:14:08.20,0:14:11.50,Default,,0000,0000,0000,,¡¿Se lo darás a quien \Nte gusta?! ¡¿Quién es?!
+Dialogue: 0,0:14:11.50,0:14:14.01,Default,,0000,0000,0000,,¡No! ¡Es para un amigo!
+Dialogue: 0,0:14:15.38,0:14:21.50,Default,,0000,0000,0000,,Me esforcé mucho haciéndolo, pero \Nlo destrocé antes de dárselo.
+Dialogue: 0,0:14:22.31,0:14:25.43,Default,,0000,0000,0000,,¿Y ya no le darás nada?
+Dialogue: 0,0:14:26.18,0:14:27.88,Default,,0000,0000,0000,,No sé qué hacer.
+Dialogue: 0,0:14:27.88,0:14:31.31,Default,,0000,0000,0000,,Este seguro que no se lo daré.
+Dialogue: 0,0:14:31.31,0:14:34.51,Default,,0000,0000,0000,,¿Puedo quedármelo, entonces?
+Dialogue: 0,0:14:34.84,0:14:35.89,Default,,0000,0000,0000,,Pero...
+Dialogue: 0,0:14:39.40,0:14:41.53,Default,,0000,0000,0000,,¡Está delicioso!
+Dialogue: 0,0:14:41.53,0:14:43.13,Default,,0000,0000,0000,,Qué envidia.
+Dialogue: 0,0:14:43.13,0:14:46.74,Default,,0000,0000,0000,,Se me da bien cocinar, pero \Nno podría hacer algo así.
+Dialogue: 0,0:14:48.12,0:14:49.53,Default,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:14:49.53,0:14:52.41,Default,,0000,0000,0000,,¿Tú no le darás bombones a nadie?
+Dialogue: 0,0:14:53.18,0:14:56.16,Default,,0000,0000,0000,,¿Yo? Pues...
+Dialogue: 0,0:14:56.68,0:15:00.42,Default,,0000,0000,0000,,Creo que me gustaría dárselos a alguien.
+Dialogue: 0,0:15:00.79,0:15:03.66,Default,,0000,0000,0000,,Pero no me siento capaz.
+Dialogue: 0,0:15:04.86,0:15:07.55,Default,,0000,0000,0000,,¿A la persona que te gusta?
+Dialogue: 0,0:15:09.24,0:15:10.55,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:15:12.17,0:15:14.46,Default,,0000,0000,0000,,¿No será...
+Dialogue: 0,0:15:15.06,0:15:17.32,Default,,0000,0000,0000,,Ichijo-kun?
+Dialogue: 0,0:15:22.14,0:15:25.07,Italics,,0000,0000,0000,,Creo que pregunté algo que no debía.
+Dialogue: 0,0:15:25.07,0:15:28.35,Default,,0000,0000,0000,,¡No, no, no! ¿Ese debilucho \Nestúpido? ¡Ni hablar!
+Dialogue: 0,0:15:28.35,0:15:32.14,Default,,0000,0000,0000,,Solo fingimos ser pareja,
+Dialogue: 0,0:15:32.14,0:15:35.68,Default,,0000,0000,0000,,no pienso darle bombones ni por obligación.
+Dialogue: 0,0:15:35.68,0:15:37.53,Default,,0000,0000,0000,,Ya veo...
+Dialogue: 0,0:15:38.65,0:15:41.85,Italics,,0000,0000,0000,,¿Qué hago? Mentí.
+Dialogue: 0,0:15:41.85,0:15:45.29,Italics,,0000,0000,0000,,Pero a estas alturas, me da \Nvergüenza admitir que me gusta.
+Dialogue: 0,0:15:45.85,0:15:51.00,Italics,,0000,0000,0000,,Aunque solo fingieran ser novios, \Ncomo se llevan tan bien pensé que...
+Dialogue: 0,0:15:51.35,0:15:54.86,Italics,,0000,0000,0000,,Me alegra que solo fueran \Nimaginaciones mías.
+Dialogue: 0,0:15:55.30,0:15:58.71,Default,,0000,0000,0000,,¿A ti no te gusta nadie, Kosaki-chan?
+Dialogue: 0,0:15:59.05,0:16:00.79,Default,,0000,0000,0000,,Pues...
+Dialogue: 0,0:16:01.43,0:16:04.31,Default,,0000,0000,0000,,Sí. Hay alguien que me gusta.
+Dialogue: 0,0:16:05.19,0:16:09.61,Default,,0000,0000,0000,,En realidad iba a darle ese pastel a él,
+Dialogue: 0,0:16:10.39,0:16:12.04,Default,,0000,0000,0000,,pero me di por vencida.
+Dialogue: 0,0:16:12.90,0:16:15.16,Default,,0000,0000,0000,,Lo siento. Me lo comí.
+Dialogue: 0,0:16:15.64,0:16:18.24,Default,,0000,0000,0000,,¡No lo dije por eso!
+Dialogue: 0,0:16:18.24,0:16:20.56,Default,,0000,0000,0000,,Ya no tenía intención de dárselo.
+Dialogue: 0,0:16:20.56,0:16:21.69,Default,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:16:21.69,0:16:24.30,Default,,0000,0000,0000,,Me alegró que dijeras que estaba bueno.
+Dialogue: 0,0:16:24.68,0:16:29.29,Default,,0000,0000,0000,,Pero me sorprende saber que \Nhay alguien que te gusta.
+Dialogue: 0,0:16:29.76,0:16:33.78,Default,,0000,0000,0000,,Pero debe ser duro fingir que eres la pareja \Nde Ichijo-kun si te gusta alguien...
+Dialogue: 0,0:16:34.97,0:16:37.22,Default,,0000,0000,0000,,S-sí...
+Dialogue: 0,0:16:38.52,0:16:43.53,Default,,0000,0000,0000,,Es la primera vez que le cuento a \Nalguien que hay un chico que me gusta.
+Dialogue: 0,0:16:43.53,0:16:46.43,Default,,0000,0000,0000,,Hablar de ello hace que el \Ncorazón me lata muy rápido.
+Dialogue: 0,0:16:46.43,0:16:53.18,Default,,0000,0000,0000,,Yo creo que Ruri-chan y tú son las \Núnicas que saben que me gusta alguien.
+Dialogue: 0,0:16:53.53,0:16:55.56,Default,,0000,0000,0000,,Siempre lo mantuve en secreto.
+Dialogue: 0,0:16:55.56,0:17:00.26,Default,,0000,0000,0000,,¿Sí? Me alegra que me lo dijeras.
+Dialogue: 0,0:17:00.81,0:17:02.41,Default,,0000,0000,0000,,Qué te parece si...
+Dialogue: 0,0:17:03.25,0:17:06.30,Default,,0000,0000,0000,,¿lo seguimos manteniendo en secreto
+Dialogue: 0,0:17:06.30,0:17:08.67,Default,,0000,0000,0000,,y cada una apoya el romance de la otra?
+Dialogue: 0,0:17:08.67,0:17:13.74,Default,,0000,0000,0000,,Y hasta que ese amor se haga realidad, \Nno desvelamos quién nos gusta.
+Dialogue: 0,0:17:13.74,0:17:14.74,Default,,0000,0000,0000,,¿Te parece bien?
+Dialogue: 0,0:17:17.21,0:17:18.12,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:17:18.12,0:17:20.60,Default,,0000,0000,0000,,Hagamos eso.
+Dialogue: 0,0:17:20.95,0:17:22.85,Default,,0000,0000,0000,,¡Prometido!
+Dialogue: 0,0:17:22.85,0:17:24.55,Default,,0000,0000,0000,,Esforcémonos las dos.
+Dialogue: 0,0:17:25.73,0:17:27.98,Default,,0000,0000,0000,,Para empezar...
+Dialogue: 0,0:17:28.44,0:17:31.28,Default,,0000,0000,0000,,¿quieres hacer un nuevo pastel?
+Dialogue: 0,0:17:31.28,0:17:33.45,Default,,0000,0000,0000,,No deberías darte por vencida.
+Dialogue: 0,0:17:33.45,0:17:36.12,Default,,0000,0000,0000,,Hazlo de nuevo y dáselo.
+Dialogue: 0,0:17:36.12,0:17:37.57,Default,,0000,0000,0000,,Te ayudaré.
+Dialogue: 0,0:17:38.09,0:17:39.57,Default,,0000,0000,0000,,Chitoge-chan...
+Dialogue: 0,0:17:39.57,0:17:43.29,Default,,0000,0000,0000,,Yo también me esforzaré en darle algo.
+Dialogue: 0,0:17:43.86,0:17:45.06,Default,,0000,0000,0000,,Está bien.
+Dialogue: 0,0:17:45.79,0:17:46.81,Texto,,0000,0000,0000,,{\b1\c&H969DA3&}Aula de Economía Doméstica{\b0}
+Dialogue: 0,0:18:02.72,0:18:04.68,Default,,0000,0000,0000,,¡Es muy tarde!
+Dialogue: 0,0:18:04.68,0:18:09.02,Default,,0000,0000,0000,,¡Chitoge-chan, si no te vas ya, \Nel chico que te gusta se marchará!
+Dialogue: 0,0:18:09.46,0:18:11.71,Default,,0000,0000,0000,,Pero aún no acabamos los bombones...
+Dialogue: 0,0:18:11.71,0:18:14.52,Default,,0000,0000,0000,,¡No importa! ¡Si no, \Nno podrás dárselos hoy!
+Dialogue: 0,0:18:15.61,0:18:17.74,Default,,0000,0000,0000,,Gracias por ayudarme, Chitoge-chan.
+Dialogue: 0,0:18:17.74,0:18:22.00,Default,,0000,0000,0000,,Estaré bien. Me esforzaré hasta el \Núltimo minuto para hacer algo delicioso.
+Dialogue: 0,0:18:22.00,0:18:24.74,Default,,0000,0000,0000,,Así que esfuérzate tú también.
+Dialogue: 0,0:18:26.62,0:18:27.83,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:18:29.26,0:18:31.03,Default,,0000,0000,0000,,¡Mi amor!
+Dialogue: 0,0:18:31.61,0:18:34.87,Default,,0000,0000,0000,,¿Tienes un momento? Quiero hablar contigo.
+Dialogue: 0,0:18:35.32,0:18:37.05,Default,,0000,0000,0000,,¿Por qué estás tan seria?
+Dialogue: 0,0:18:37.50,0:18:40.65,Italics,,0000,0000,0000,,Sé sincera. Esta vez sí.
+Dialogue: 0,0:18:40.97,0:18:44.56,Default,,0000,0000,0000,,Ho-hoy es San Valentín, ¿verdad?
+Dialogue: 0,0:18:45.32,0:18:47.80,Default,,0000,0000,0000,,Sí, ya te lo dije esta mañana.
+Dialogue: 0,0:18:49.56,0:18:54.07,Default,,0000,0000,0000,,La verdad es que ayer, casualmente, \Nhice unos bombones.
+Dialogue: 0,0:18:54.41,0:18:57.20,Italics,,0000,0000,0000,,¿Qu-qué clase de casualidad es esa?
+Dialogue: 0,0:18:57.20,0:19:01.57,Default,,0000,0000,0000,,Los traje de imprevisto, así que no \Nme importa dártelos por San Valentín.
+Dialogue: 0,0:19:01.57,0:19:03.23,Default,,0000,0000,0000,,¡Aunque lo hago como amiga!
+Dialogue: 0,0:19:03.23,0:19:05.42,Italics,,0000,0000,0000,,No es nada honesta.
+Dialogue: 0,0:19:05.42,0:19:11.21,Italics,,0000,0000,0000,,Pero los hizo ella misma. \NDe vez en cuando no es tan mala.
+Dialogue: 0,0:19:12.18,0:19:15.22,Default,,0000,0000,0000,,Pero ¿pueden comerse? Si los hiciste tú...
+Dialogue: 0,0:19:16.01,0:19:18.34,Default,,0000,0000,0000,,¡Maleducado! ¡Si piensas \Neso, devuélvemelos!
+Dialogue: 0,0:19:18.34,0:19:21.26,Default,,0000,0000,0000,,Está bien, lo siento. Me los comeré.
+Dialogue: 0,0:19:26.84,0:19:30.74,Default,,0000,0000,0000,,Para ser tuyos, no están mal.
+Dialogue: 0,0:19:31.94,0:19:32.98,Default,,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:19:32.98,0:19:35.34,Default,,0000,0000,0000,,Sí. Están buenos.
+Dialogue: 0,0:19:35.34,0:19:38.02,Default,,0000,0000,0000,,Saben a bombones de verdad.
+Dialogue: 0,0:19:40.10,0:19:42.49,Default,,0000,0000,0000,,Y-ya veo... Me alegro.
+Dialogue: 0,0:19:42.49,0:19:45.87,Default,,0000,0000,0000,,Esperaré impaciente que me devuelvas \Nel favor multiplicado por diez.
+Dialogue: 0,0:19:45.87,0:19:47.43,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:19:47.77,0:19:50.08,Default,,0000,0000,0000,,¡A-adiós!
+Dialogue: 0,0:19:50.52,0:19:52.17,Default,,0000,0000,0000,,Cielos...
+Dialogue: 0,0:19:55.86,0:19:58.08,Italics,,0000,0000,0000,,Pude dárselos.
+Dialogue: 0,0:19:58.08,0:20:04.22,Italics,,0000,0000,0000,,No sabía que se necesitara tanto valor para \Ndarle bombones a la persona que te gusta.
+Dialogue: 0,0:20:10.65,0:20:12.98,Italics,,0000,0000,0000,,Confundí el azúcar y la sal.
+Dialogue: 0,0:20:13.40,0:20:15.48,Italics,,0000,0000,0000,,Será tonto...
+Dialogue: 0,0:20:15.48,0:20:20.11,Default,,0000,0000,0000,,Normalmente solo me sale bien \Nuna vez de cada 10,000...
+Dialogue: 0,0:20:20.11,0:20:22.36,Default,,0000,0000,0000,,¡Pero no me rendiré!
+Dialogue: 0,0:20:22.36,0:20:24.53,Default,,0000,0000,0000,,Se lo prometí a Chitoge-chan.
+Dialogue: 0,0:20:28.14,0:20:30.29,Default,,0000,0000,0000,,Va-vaya...
+Dialogue: 0,0:20:30.29,0:20:32.64,Default,,0000,0000,0000,,No encuentro a Onodera.
+Dialogue: 0,0:20:32.64,0:20:35.18,Default,,0000,0000,0000,,¿Se habrá ido ya a casa?
+Dialogue: 0,0:20:35.18,0:20:36.75,Default,,0000,0000,0000,,Me iré yo también.
+Dialogue: 0,0:20:36.75,0:20:38.09,Default,,0000,0000,0000,,¡Espera, Ichijo-kun!
+Dialogue: 0,0:20:41.55,0:20:44.57,Default,,0000,0000,0000,,¿Onodera? Así que seguías en la escuela...
+Dialogue: 0,0:20:44.57,0:20:47.43,Default,,0000,0000,0000,,Este... Si no es molestia...
+Dialogue: 0,0:20:47.82,0:20:50.68,Default,,0000,0000,0000,,¿podrías aceptar esto?
+Dialogue: 0,0:20:51.82,0:20:55.08,Default,,0000,0000,0000,,¿Un pastel de chocolate?
+Dialogue: 0,0:20:55.08,0:20:56.19,Default,,0000,0000,0000,,¿Para mí?
+Dialogue: 0,0:20:56.19,0:20:57.18,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:20:57.18,0:21:00.69,Default,,0000,0000,0000,,Quería habértelo dado antes, pero...
+Dialogue: 0,0:21:01.96,0:21:04.45,Default,,0000,0000,0000,,Pero está hecho por ti.
+Dialogue: 0,0:21:04.92,0:21:08.96,Default,,0000,0000,0000,,M-me quedó bueno. Pruébalo.
+Dialogue: 0,0:21:08.96,0:21:14.89,Italics,,0000,0000,0000,,Si está hecho por Onodera, me lo \Ncomería aunque estuviera malísimo.
+Dialogue: 0,0:21:16.75,0:21:18.04,Default,,0000,0000,0000,,¡Delicioso!
+Dialogue: 0,0:21:18.04,0:21:19.10,Default,,0000,0000,0000,,¿Verdad?
+Dialogue: 0,0:21:19.10,0:21:22.44,Default,,0000,0000,0000,,¡Increíble, ¿no?!
+Dialogue: 0,0:21:22.44,0:21:24.33,Default,,0000,0000,0000,,Sí, es increíble.
+Dialogue: 0,0:21:24.33,0:21:26.80,Default,,0000,0000,0000,,Nunca había comido un pastel \Nde chocolate tan bueno.
+Dialogue: 0,0:21:27.27,0:21:28.88,Default,,0000,0000,0000,,Qué alivio...
+Dialogue: 0,0:21:28.88,0:21:32.38,Default,,0000,0000,0000,,Es la primera vez que hago algo tan bueno.
+Dialogue: 0,0:21:32.82,0:21:35.94,Default,,0000,0000,0000,,Quizás solo pasa una vez de cada millón.
+Dialogue: 0,0:21:36.84,0:21:40.56,Default,,0000,0000,0000,,¿No me digas que estuviste \Nhaciendo este pastel hasta ahora?
+Dialogue: 0,0:21:40.56,0:21:41.61,Default,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:21:43.42,0:21:46.45,Default,,0000,0000,0000,,Y es para la persona que...
+Dialogue: 0,0:21:47.14,0:21:48.20,Default,,0000,0000,0000,,¡Es para un amigo!
+Dialogue: 0,0:21:50.97,0:21:54.33,Default,,0000,0000,0000,,Aunque algo especial.
+Dialogue: 0,0:21:56.04,0:21:58.73,Default,,0000,0000,0000,,A-adiós, Ichijo-kun.
+Dialogue: 0,0:21:58.73,0:22:00.31,Default,,0000,0000,0000,,¡Hasta mañana!
+Dialogue: 0,0:22:00.81,0:22:02.01,Default,,0000,0000,0000,,Espe...
+Dialogue: 0,0:22:03.00,0:22:07.13,Default,,0000,0000,0000,,¿Qué significa un amigo algo especial?
+Dialogue: 0,0:22:15.26,0:22:18.76,Italics,,0000,0000,0000,,Ayer no dormí suficiente, así \Nque tengo los ojos rojos.
+Dialogue: 0,0:22:19.86,0:22:23.03,Italics,,0000,0000,0000,,Me hubiera gustado dárselos con mejor cara.
+Dialogue: 0,0:22:26.40,0:22:28.40,Texto,,0000,0000,0000,,{\b1\c&HF2DEB7&}Genghis Khan{\b0}  \N{\c&H51419E&}Suiza
